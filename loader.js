@@ -709,16 +709,20 @@ var Module = null;
 
      // NOTE: deliberately use cors.archive.org since this will 302 rewrite to iaXXXXX.us.archive.org/XX/items/...
      // and need to keep that "artificial" extra domain-ish name to avoid CORS issues with IE/Safari  (tracey@archive)
-     var get_cors_url = function(item, path) {
-       return '//cors.archive.org/cors/' + item + (path ? '/' + path : '');
+     var get_cors_url = function(item, path = '') {
+       if (path.endsWith('.xml') || path.endsWith('.bin') || path.endsWith('.swf'))
+         return '//cors.archive.org/cors/' + item + (path ? '/' + path : '');
+
+       // eg: emularity-engine  emularity-config  emularity-bios
+       return '//' + item + '.dev.archive.org/' + (path ? '/' + path : '');
      }
 
      var get_emulator_config_url = function (module) {
-       return get_cors_url('emularity_engine_v1', module + '.json');
+       return get_cors_url('emularity-engine', module + '.json');
      };
 
      var get_other_emulator_config_url = function (module) {
-       return get_cors_url('emularity_config_v1', module + '.cfg');
+       return get_cors_url('emularity-config', module + '.cfg');
      };
 
      var get_meta_url = function (game_path) {
@@ -739,11 +743,11 @@ var Module = null;
      };
 
      var get_js_url = function (js_filename) {
-       return get_cors_url('emularity_engine_v1', js_filename);
+       return get_cors_url('emularity-engine', js_filename);
      };
 
      var get_bios_url = function (bios_filename) {
-       return get_cors_url('emularity_bios_v1', bios_filename);
+       return get_cors_url('emularity-bios', bios_filename);
      };
 
      function mountat (drive) {
