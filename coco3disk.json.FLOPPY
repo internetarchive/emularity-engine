@@ -1,0 +1,9 @@
+{
+    "name": "Tandy Color Computer 3 Floppy",
+    "js_filename": "mamecoco3.js.gz",
+    "bios_filenames": ["coco3.zip","floppy.zip"],
+    "peripherals": ["flop1"],
+    "native_resolution": [640,480],
+    "extra_args": ["-samplepath","emulator"],
+    "driver":  "coco3"
+}
