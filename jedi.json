@@ -1,0 +1,23 @@
+{
+  "name": "Return of the Jedi",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    296,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "jedi",
+  "wasmjs_filename": "mamejedi.js.gz",
+  "wasm_filename": "mamejedi.wasm.gz",
+  "file_locations": {
+    "mamejedi.wasm": "mamejedi.wasm.gz"
+  }
+}

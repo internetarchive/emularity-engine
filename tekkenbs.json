@@ -1,0 +1,24 @@
+{
+  "name": "Tekken Battle Scratch",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tekkenbs",
+  "wasmjs_filename": "mamecave.js.gz",
+  "wasm_filename": "mamecave.wasm.gz",
+  "file_locations": {
+    "mamecave.wasm": "mamecave.wasm.gz"
+  }
+}
+

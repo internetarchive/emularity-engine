@@ -1,0 +1,23 @@
+{
+  "name": "Millipede",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "milliped",
+  "wasmjs_filename": "mamecentiped.js.gz",
+  "wasm_filename": "mamecentiped.wasm.gz",
+  "file_locations": {
+    "mamecentiped.wasm": "mamecentiped.wasm.gz"
+  }
+}

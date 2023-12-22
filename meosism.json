@@ -1,0 +1,23 @@
+{
+    "name": "Meosis Magic (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        338,
+        236 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "meosism",
+    "wasmjs_filename": "mamessv.js.gz",
+    "wasm_filename": "mamessv.wasm.gz",
+    "file_locations": {
+        "mamessv.wasm": "mamessv.wasm.gz"
+    }
+}

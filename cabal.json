@@ -1,0 +1,24 @@
+{
+  "name": "Cabal (World Joystick)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cabal",
+  "wasmjs_filename": "mamecabal.js.gz",
+  "wasm_filename": "mamecabal.wasm.gz",
+  "file_locations": {
+    "mamecabal.wasm": "mamecabal.wasm.gz"
+  }
+}
+

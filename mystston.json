@@ -1,0 +1,23 @@
+{
+  "name": "Mysterious Stones - Dr. John's Adventure",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mystston",
+  "wasmjs_filename": "mamemystston.js.gz",
+  "wasm_filename": "mamemystston.wasm.gz",
+  "file_locations": {
+    "mamemystston.wasm": "mamemystston.wasm.gz"
+  }
+}

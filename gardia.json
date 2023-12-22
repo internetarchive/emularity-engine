@@ -1,0 +1,23 @@
+{
+    "name": "Gardia (317-0006)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],"scale": "1",
+    "native_resolution": [
+        448,
+        512
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "gardia",
+    "wasmjs_filename": "mamesystem1.js.gz",
+    "wasm_filename": "mamesystem1.wasm.gz",
+    "file_locations": {
+        "mamesystem1.wasm": "mamesystem1.wasm.gz"
+    }
+}

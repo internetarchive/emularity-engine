@@ -1,0 +1,21 @@
+{
+  "name": "TurboGrafix 16",
+  "bios_filenames": [],
+  "peripherals": [
+    "cart"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    565,
+    484
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "tg16",
+  "wasmjs_filename": "mamepce.js.gz",
+  "wasm_filename": "mamepce.wasm.gz",
+  "file_locations": {
+    "mamepce.wasm": "mamepce.wasm.gz"
+  }
+}

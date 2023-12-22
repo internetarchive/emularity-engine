@@ -1,0 +1,23 @@
+{
+  "name": "Devil Zone",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    192,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "devzone",
+  "wasmjs_filename": "mamecosmic.js.gz",
+  "wasm_filename": "mamecosmic.wasm.gz",
+  "file_locations": {
+    "mamecosmic.wasm": "mamecosmic.wasm.gz"
+  }
+}

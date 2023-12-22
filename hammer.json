@@ -1,0 +1,24 @@
+{
+  "name": "Hammer",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "hammer",
+  "wasmjs_filename": "mamemidas.js.gz",
+  "wasm_filename": "mamemidas.wasm.gz",
+  "file_locations": {
+    "mamemidas.wasm": "mamemidas.wasm.gz"
+  }
+}
+

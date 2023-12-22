@@ -1,0 +1,24 @@
+{
+  "name": "The Cliffhanger - Edward Randy (World ver 3)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "edrandy",
+  "wasmjs_filename": "mamecninja.js.gz",
+  "wasm_filename": "mamecninja.wasm.gz",
+  "file_locations": {
+    "mamecninja.wasm": "mamecninja.wasm.gz"
+  }
+}
+

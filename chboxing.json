@@ -1,0 +1,23 @@
+{
+  "name": "Champion Boxing",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    216,
+    280
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "chboxing",
+  "wasmjs_filename": "mamesg1000a.js.gz",
+  "wasm_filename": "mamesg1000a.wasm.gz",
+  "file_locations": {
+    "mamesg1000a.wasm": "mamesg1000a.wasm.gz"
+  }
+}

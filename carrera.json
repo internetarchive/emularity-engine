@@ -1,0 +1,24 @@
+{
+  "name": "Carrera (Version 6.7)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "carrera",
+  "wasmjs_filename": "mamecarrera.js.gz",
+  "wasm_filename": "mamecarrera.wasm.gz",
+  "file_locations": {
+    "mamecarrera.wasm": "mamecarrera.wasm.gz"
+  }
+}
+

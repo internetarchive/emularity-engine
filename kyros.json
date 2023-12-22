@@ -1,0 +1,23 @@
+{
+  "name": "kyros",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kyros",
+  "wasmjs_filename": "mamealpha68k_n.js.gz",
+  "wasm_filename": "mamealpha68k_n.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamealpha68k_n.wasm.gz"
+  }
+}

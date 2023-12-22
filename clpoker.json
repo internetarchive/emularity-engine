@@ -1,0 +1,23 @@
+{
+    "name": "Poker Genius",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "clpoker",
+    "wasmjs_filename": "mameclpoker.js.gz",
+    "wasm_filename": "mameclpoker.wasm.gz",
+    "file_locations": {
+        "mameclpoker.wasm": "mameclpoker.wasm.gz"
+    }
+}

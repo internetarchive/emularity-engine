@@ -1,0 +1,24 @@
+{
+    "name": "X the Ball",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        512,
+        448
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "xtheball",
+    "wasmjs_filename": "mamextheball.js.gz",
+    "wasm_filename": "mamextheball.wasm.gz",
+    "file_locations": {
+        "mamextheball.wasm": "mamextheball.wasm.gz"
+    }
+}

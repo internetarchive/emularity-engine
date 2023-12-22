@@ -1,0 +1,23 @@
+{
+  "name": "Block Out ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "blockout",
+  "wasmjs_filename": "mameblockout.js.gz",
+  "wasm_filename": "mameblockout.wasm.gz",
+  "file_locations": {
+    "mameblockout.wasm": "mameblockout.wasm.gz"
+  }
+}

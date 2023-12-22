@@ -1,0 +1,23 @@
+{
+    "name": "Big Fight - Big Trouble In The Atlantic Ocean",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "bigfight",
+    "wasmjs_filename": "mametatsumi.js.gz",
+    "wasm_filename": "mametatsumi.wasm.gz",
+    "file_locations": {
+        "mametatsumi.wasm": "mametatsumi.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Dragon Punch (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        512,
+        480
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "drgpunch",
+    "wasmjs_filename": "mamedynax.js.gz",
+    "wasm_filename": "mamedynax.wasm.gz",
+    "file_locations": {
+        "mamedynax.wasm": "mamedynax.wasm.gz"
+    }
+}

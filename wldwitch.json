@@ -1,0 +1,23 @@
+{
+    "name": "Wild Witch (Export, 6T-12T ver 1.84A)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        232 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "wldwitch",
+    "wasmjs_filename": "mamegoldnpkr.js.gz",
+    "wasm_filename": "mamegoldnpkr.wasm.gz",
+    "file_locations": {
+        "mamegoldnpkr.wasm": "mamegoldnpkr.wasm.gz"
+    }
+}

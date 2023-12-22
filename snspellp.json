@@ -1,0 +1,24 @@
+{
+  "name": "Speak and Spell (Based on US Patent)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    64
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "snspellp",
+  "wasmjs_filename": "mametispeak.js.gz",
+  "wasm_filename": "mametispeak.wasm.gz",
+  "file_locations": {
+    "mametispeak.wasm": "mametispeak.wasm.gz"
+  }
+}

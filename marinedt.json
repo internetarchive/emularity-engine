@@ -1,0 +1,23 @@
+{
+  "name": "Marine Date",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "marinedt",
+  "wasmjs_filename": "mamemarinedt.js.gz",
+  "wasm_filename": "mamemarinedt.wasm.gz",
+  "file_locations": {
+    "mamemarinedt.wasm": "mamemarinedt.wasm.gz"
+  }
+}

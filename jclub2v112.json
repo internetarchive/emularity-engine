@@ -1,0 +1,23 @@
+{
+    "name": "Jockey Club II (v1.12X, older hardware)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        400,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "jclub2v112",
+    "wasmjs_filename": "mamejclub2.js.gz",
+    "wasm_filename": "mamejclub2.wasm.gz",
+    "file_locations": {
+        "mamejclub2.wasm": "mamejclub2.wasm.gz"
+    }
+}

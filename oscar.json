@@ -1,0 +1,24 @@
+{
+  "name": "Psycho-Nics Oscar (World revision 0)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "oscar",
+  "wasmjs_filename": "mamedec8.js.gz",
+  "wasm_filename": "mamedec8.wasm.gz",
+  "file_locations": {
+    "mamedec8.wasm": "mamedec8.wasm.gz"
+  }
+}
+

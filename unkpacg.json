@@ -1,0 +1,23 @@
+{
+    "name": "unknown 'Pac-Man' gambling game",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "unkpacg",
+    "wasmjs_filename": "mame4enraya.js.gz",
+    "wasm_filename": "mame4enraya.wasm.gz",
+    "file_locations": {
+        "mame4enraya.wasm": "mame4enraya.wasm.gz"
+    }
+}

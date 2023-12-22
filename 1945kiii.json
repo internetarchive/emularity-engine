@@ -1,0 +1,23 @@
+{
+    "name": "1945k III (newer OPCX2 PCB)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        224,
+        320
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "1945kiii",
+    "wasmjs_filename": "mame1945kiii.js.gz",
+    "wasm_filename": "mame1945kiii.wasm.gz",
+    "file_locations": {
+        "mame1945kiii.wasm": "mame1945kiii.wasm.gz"
+    }
+}

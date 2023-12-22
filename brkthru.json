@@ -1,0 +1,23 @@
+{
+  "name": "Break Thru",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "brkthru",
+  "wasmjs_filename": "mamebrkthru.js.gz",
+  "wasm_filename": "mamebrkthru.wasm.gz",
+  "file_locations": {
+    "mamebrkthru.wasm": "mamebrkthru.wasm.gz"
+  }
+}

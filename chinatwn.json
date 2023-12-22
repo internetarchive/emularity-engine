@@ -1,0 +1,24 @@
+{
+  "name": "China Town (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "chinatwn",
+  "wasmjs_filename": "mamesupbtime.js.gz",
+  "wasm_filename": "mamesupbtime.wasm.gz",
+  "file_locations": {
+    "mamesupbtime.wasm": "mamesupbtime.wasm.gz"
+  }
+}
+

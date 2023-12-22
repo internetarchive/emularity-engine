@@ -1,0 +1,23 @@
+{
+  "name": "lx_aven",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "lx_aven",
+  "wasmjs_filename": "mamespg29x_lexibook_jg7425.js.gz",
+  "wasm_filename": "mamespg29x_lexibook_jg7425.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamespg29x_lexibook_jg7425.wasm.gz"
+  }
+}

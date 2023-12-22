@@ -1,0 +1,24 @@
+{
+  "name": "Galaxy II (VFD Revision D)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    152,
+    540
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "galaxy2",
+  "wasmjs_filename": "mamehh_ucom4.js.gz",
+  "wasm_filename": "mamehh_ucom4.wasm.gz",
+  "file_locations": {
+    "mamehh_ucom4.wasm": "mamehh_ucom4.wasm.gz"
+  }
+}

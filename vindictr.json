@@ -1,0 +1,23 @@
+{
+  "name": "Vindicators ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "vindictr",
+  "wasmjs_filename": "mamevindictr.js.gz",
+  "wasm_filename": "mamevindictr.wasm.gz",
+  "file_locations": {
+    "mamevindictr.wasm": "mamevindictr.wasm.gz"
+  }
+}

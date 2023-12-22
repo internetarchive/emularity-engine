@@ -1,0 +1,24 @@
+{
+  "name": "Metal Freezer (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "metlfrzr",
+  "wasmjs_filename": "mamemetlfrzr.js.gz",
+  "wasm_filename": "mamemetlfrzr.wasm.gz",
+  "file_locations": {
+    "mamemetlfrzr.wasm": "mamemetlfrzr.wasm.gz"
+  }
+}
+

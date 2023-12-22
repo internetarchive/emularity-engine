@@ -1,0 +1,23 @@
+{
+  "name": "dhunting",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dhunting",
+  "wasmjs_filename": "mameunianapc.js.gz",
+  "wasm_filename": "mameunianapc.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mameunianapc.wasm.gz"
+  }
+}

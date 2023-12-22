@@ -1,0 +1,23 @@
+{
+    "name": "Darius Gaiden - Silver Hawk Extra Version (Ver 2.7J 1995-03-06) (Official Hack)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        232 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "dariusgx",
+    "wasmjs_filename": "mametaito_f3.js.gz",
+    "wasm_filename": "mametaito_f3.wasm.gz",
+    "file_locations": {
+        "mametaito_f3.wasm": "mametaito_f3.wasm.gz"
+    }
+}

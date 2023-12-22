@@ -1,0 +1,25 @@
+{
+  "name": "Yomaha PSR-60 Portastudio",
+  "js_filename": "mameympsr60.js.gz",
+  "bios_filenames": [
+    "psr60.zip"
+  ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    640,
+    200
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "psr60",
+  "wasmjs_filename": "mameympsr60.js.gz",
+  "wasm_filename": "mameympsr60.wasm.gz",
+  "file_locations": {
+    "mameympsr60.wasm": "mameympsr60.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Stunt Air",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "stuntair",
+    "wasmjs_filename": "mamestuntair.js.gz",
+    "wasm_filename": "mamestuntair.wasm.gz",
+    "file_locations": {
+        "mamestuntair.wasm": "mamestuntair.wasm.gz"
+    }
+}

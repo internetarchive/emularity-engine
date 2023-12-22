@@ -1,0 +1,22 @@
+{
+  "name": "ZX Spectrum Cassette",
+  "bios_filenames": [
+    "spectrum.zip"
+  ],
+  "peripherals": [
+    "cass"
+  ],
+  "native_resolution": [
+    352,
+    296
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "spectrum",
+  "wasmjs_filename": "mamespectrum.js.gz",
+  "wasm_filename": "mamespectrum.wasm.gz",
+  "file_locations": {
+    "mamespectrum.wasm": "mamespectrum.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Pocket Gal (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pcktgal",
+  "wasmjs_filename": "mamepcktgal.js.gz",
+  "wasm_filename": "mamepcktgal.wasm.gz",
+  "file_locations": {
+    "mamepcktgal.wasm": "mamepcktgal.wasm.gz"
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+  "name": "Table Tennis Champions",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    200 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ttchamp",
+  "wasmjs_filename": "mamettchamp.js.gz",
+  "wasm_filename": "mamettchamp.wasm.gz",
+  "file_locations": {
+    "mamettchamp.wasm": "mamettchamp.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "Vastar",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "vastar",
+  "wasmjs_filename": "mamevastar.js.gz",
+  "wasm_filename": "mamevastar.wasm.gz",
+  "file_locations": {
+    "mamevastar.wasm": "mamevastar.wasm.gz"
+  }
+}

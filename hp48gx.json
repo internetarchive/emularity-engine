@@ -1,0 +1,24 @@
+{
+  "name": "HP-48gx",
+  "bios_filenames": [
+     "hp48gx.zip"
+   ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    450,
+    1000
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "hp48gx",
+  "wasmjs_filename": "hp48.js.gz",
+  "wasm_filename": "hp48.wasm.gz",
+  "file_locations": {
+    "hp48.wasm": "hp48.wasm.gz"
+  }
+}

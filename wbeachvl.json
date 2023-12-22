@@ -1,0 +1,23 @@
+{
+    "name": "World Beach Volley (set 1, PIC16C57 audio CPU)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "wbeachvl",
+    "wasmjs_filename": "mameplaymark.js.gz",
+    "wasm_filename": "mameplaymark.wasm.gz",
+    "file_locations": {
+        "mameplaymark.wasm": "mameplaymark.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Video Poker",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        208,
+        208 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "videopkr",
+    "wasmjs_filename": "mamevideopkr.js.gz",
+    "wasm_filename": "mamevideopkr.wasm.gz",
+    "file_locations": {
+        "mamevideopkr.wasm": "mamevideopkr.wasm.gz"
+    }
+}

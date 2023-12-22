@@ -1,0 +1,24 @@
+{
+  "name": "River Patrol (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "rpatrol",
+  "wasmjs_filename": "mamecclimber.js.gz",
+  "wasm_filename": "mamecclimber.wasm.gz",
+  "file_locations": {
+    "mamecclimber.wasm": "mamecclimber.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+    "name": "Asura Buster - Eternal Warriors (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "asurabus",
+    "wasmjs_filename": "mamefuukifg3.js.gz",
+    "wasm_filename": "mamefuukifg3.wasm.gz",
+    "file_locations": {
+        "mamefuukifg3.wasm": "mamefuukifg3.wasm.gz"
+    }
+}

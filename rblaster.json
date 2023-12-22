@@ -1,0 +1,23 @@
+{
+  "name": "rblaster",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    704,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "rblaster",
+  "wasmjs_filename": "mamedeco_ld.js.gz",
+  "wasm_filename": "mamedeco_ld.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamedeco_ld.wasm.gz"
+  }
+}

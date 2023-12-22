@@ -1,0 +1,23 @@
+{
+    "name": "Blocken (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "blocken",
+    "wasmjs_filename": "mameshangha3.js.gz",
+    "wasm_filename": "mameshangha3.wasm.gz",
+    "file_locations": {
+        "mameshangha3.wasm": "mameshangha3.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Quartet",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "quarteta",
+  "wasmjs_filename": "mamesegas16a.js.gz",
+  "wasm_filename": "mamesegas16a.wasm.gz",
+  "file_locations": {
+    "mamesegas16a.wasm": "mamesegas16a.wasm.gz"
+  }
+}

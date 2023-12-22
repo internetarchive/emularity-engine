@@ -1,0 +1,24 @@
+{
+  "name": "Penguin Adventure (bootleg of MSX version)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    280,
+    216 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pengadvb",
+  "wasmjs_filename": "mamepengadvb.js.gz",
+  "wasm_filename": "mamepengadvb.wasm.gz",
+  "file_locations": {
+    "mamepengadvb.wasm": "mamepengadvb.wasm.gz"
+  }
+}
+

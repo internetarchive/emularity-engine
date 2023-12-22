@@ -1,0 +1,23 @@
+{
+  "name": "Star Trek",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "startrek",
+  "wasmjs_filename": "mamesegag80v.js.gz",
+  "wasm_filename": "mamesegag80v.wasm.gz",
+  "file_locations": {
+    "mamesegag80v.wasm": "mamesegag80v.wasm.gz"
+  }
+}

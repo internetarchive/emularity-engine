@@ -1,0 +1,23 @@
+{
+    "name": "Tetris: The Grand Master (Japan 980710)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tgmj",
+    "wasmjs_filename": "mamezn.js.gz",
+    "wasm_filename": "mamezn.wasm.gz",
+    "file_locations": {
+        "mamezn.wasm": "mamezn.wasm.gz"
+    }
+}

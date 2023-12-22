@@ -1,0 +1,24 @@
+{
+  "name": "Lock-On (rev. E)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "lockon",
+  "wasmjs_filename": "mamelockon.js.gz",
+  "wasm_filename": "mamelockon.wasm.gz",
+  "file_locations": {
+    "mamelockon.wasm": "mamelockon.wasm.gz"
+  }
+}
+

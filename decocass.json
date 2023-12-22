@@ -1,0 +1,23 @@
+{
+    "name": "DECO Cassette System",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "decocass",
+    "wasmjs_filename": "mamedecocass.js.gz",
+    "wasm_filename": "mamedecocass.wasm.gz",
+    "file_locations": {
+        "mamedecocass.wasm": "mamedecocass.wasm.gz"
+    }
+}

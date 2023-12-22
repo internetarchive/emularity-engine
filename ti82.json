@@ -1,0 +1,24 @@
+{
+  "name": "TI-82",
+  "bios_filenames": [
+     "ti82.zip"
+   ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    349,
+    694
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "ti82",
+  "wasmjs_filename": "ti85.js.gz",
+  "wasm_filename": "ti85.wasm.gz",
+  "file_locations": {
+    "ti85.wasm": "ti85.wasm.gz"
+  }
+}

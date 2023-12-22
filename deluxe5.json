@@ -1,0 +1,24 @@
+{
+  "name": "Deluxe 5 (ver. 0107 07-01-2000 set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "deluxe5",
+  "wasmjs_filename": "mameesd16.js.gz",
+  "wasm_filename": "mameesd16.wasm.gz",
+  "file_locations": {
+    "mameesd16.wasm": "mameesd16.wasm.gz"
+  }
+}
+

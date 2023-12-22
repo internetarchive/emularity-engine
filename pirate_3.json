@@ -1,0 +1,23 @@
+{
+    "name": "Pirate (060803 World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pirate_3",
+    "wasmjs_filename": "mamemultfish.js.gz",
+    "wasm_filename": "mamemultfish.wasm.gz",
+    "file_locations": {
+        "mamemultfish.wasm": "mamemultfish.wasm.gz"
+    }
+}

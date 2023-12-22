@@ -1,0 +1,24 @@
+{
+  "name": "World Rally (Version 1.0 Checksum 0E56)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    368,
+    232 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "wrally",
+  "wasmjs_filename": "mamewrally.js.gz",
+  "wasm_filename": "mamewrally.wasm.gz",
+  "file_locations": {
+    "mamewrally.wasm": "mamewrally.wasm.gz"
+  }
+}
+

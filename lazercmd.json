@@ -1,0 +1,24 @@
+{
+  "name": "Lazer Command",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    230 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "lazercmd",
+  "wasmjs_filename": "mamelazercmd.js.gz",
+  "wasm_filename": "mamelazercmd.wasm.gz",
+  "file_locations": {
+    "mamelazercmd.wasm": "mamelazercmd.wasm.gz"
+  }
+}
+

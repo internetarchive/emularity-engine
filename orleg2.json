@@ -1,0 +1,24 @@
+{
+  "name": "Oriental Legend 2 (V104 Oversea)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    448,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "orleg2",
+  "wasmjs_filename": "mamepgm2.js.gz",
+  "wasm_filename": "mamepgm2.wasm.gz",
+  "file_locations": {
+    "mamepgm2.wasm": "mamepgm2.wasm.gz"
+  }
+}
+

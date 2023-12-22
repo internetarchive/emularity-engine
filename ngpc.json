@@ -1,0 +1,22 @@
+{
+  "name": "SNK Neo Geo Pocket Color",
+  "bios_filenames": [
+    "ngpc.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    304
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "ngpc",
+  "wasmjs_filename": "mamengp.js.gz",
+  "wasm_filename": "mamengp.wasm.gz",
+  "file_locations": {
+    "mamengp.wasm": "mamengp.wasm.gz"
+  }
+}

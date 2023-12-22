@@ -1,0 +1,23 @@
+{
+  "name": "Mr. Do's Castle",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    192,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "docastle",
+  "wasmjs_filename": "mamedocastle.js.gz",
+  "wasm_filename": "mamedocastle.wasm.gz",
+  "file_locations": {
+    "mamedocastle.wasm": "mamedocastle.wasm.gz"
+  }
+}

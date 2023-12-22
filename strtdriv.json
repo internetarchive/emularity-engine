@@ -1,0 +1,24 @@
+{
+  "name": "Street Drivin' (prototype)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    288 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "strtdriv",
+  "wasmjs_filename": "mameharddriv.js.gz",
+  "wasm_filename": "mameharddriv.wasm.gz",
+  "file_locations": {
+    "mameharddriv.wasm": "mameharddriv.wasm.gz"
+  }
+}
+

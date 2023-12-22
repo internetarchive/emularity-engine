@@ -1,0 +1,24 @@
+{
+  "name": "Bottom of the Ninth (version T)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bottom9",
+  "wasmjs_filename": "mamebottom9.js.gz",
+  "wasm_filename": "mamebottom9.wasm.gz",
+  "file_locations": {
+    "mamebottom9.wasm": "mamebottom9.wasm.gz"
+  }
+}
+

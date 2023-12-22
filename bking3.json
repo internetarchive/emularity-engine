@@ -1,0 +1,23 @@
+{
+  "name": "Birdie King 3",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bking3",
+  "wasmjs_filename": "mamebking.js.gz",
+  "wasm_filename": "mamebking.wasm.gz",
+  "file_locations": {
+    "mamebking.wasm": "mamebking.wasm.gz"
+  }
+}

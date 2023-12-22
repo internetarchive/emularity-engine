@@ -1,0 +1,24 @@
+{
+    "name": "APB - All Points Bulletin",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        384,
+        512
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "apb",
+    "wasmjs_filename": "mameatarisy2.js.gz",
+    "wasm_filename": "mameatarisy2.wasm.gz",
+    "file_locations": {
+        "mameatarisy2.wasm": "mameatarisy2.wasm.gz"
+    }
+}

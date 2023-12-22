@@ -1,0 +1,24 @@
+{
+  "name": "Super World Stadium '96 (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sws96",
+  "wasmjs_filename": "mamenamconb1.js.gz",
+  "wasm_filename": "mamenamconb1.wasm.gz",
+  "file_locations": {
+    "mamenamconb1.wasm": "mamenamconb1.wasm.gz"
+  }
+}
+

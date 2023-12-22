@@ -1,0 +1,24 @@
+{
+  "name": "Tamagotchi",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    320
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "tama",
+  "wasmjs_filename": "mametamag1.js.gz",
+  "wasm_filename": "mametamag1.wasm.gz",
+  "file_locations": {
+    "mametamag1.wasm": "mametamag1.wasm.gz"
+  }
+}

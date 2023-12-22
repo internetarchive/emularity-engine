@@ -1,0 +1,12 @@
+{
+  "name": "DOSBox Alternative Build",
+  "native_resolution": [
+    640,
+    480
+  ],
+  "extra_args": [
+    ""
+  ],
+  "js_filename": "dosbox-alt.js.gz",
+  "driver": "dosbox"
+}

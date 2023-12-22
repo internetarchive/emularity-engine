@@ -1,0 +1,23 @@
+{
+  "name": "Zaviga",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "zaviga",
+  "wasmjs_filename": "mamebwing.js.gz",
+  "wasm_filename": "mamebwing.wasm.gz",
+  "file_locations": {
+    "mamebwing.wasm": "mamebwing.wasm.gz"
+  }
+}

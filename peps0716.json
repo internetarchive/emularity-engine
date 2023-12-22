@@ -1,0 +1,23 @@
+{
+    "name": "Player's Edge Plus (PS0716) River Gambler Slots",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        200 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "peps0716",
+    "wasmjs_filename": "mamepeplus.js.gz",
+    "wasm_filename": "mamepeplus.wasm.gz",
+    "file_locations": {
+        "mamepeplus.wasm": "mamepeplus.wasm.gz"
+    }
+}

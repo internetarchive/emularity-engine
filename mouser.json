@@ -1,0 +1,23 @@
+{
+  "name": "Mouser",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mouser",
+  "wasmjs_filename": "mamemouser.js.gz",
+  "wasm_filename": "mamemouser.wasm.gz",
+  "file_locations": {
+    "mamemouser.wasm": "mamemouser.wasm.gz"
+  }
+}

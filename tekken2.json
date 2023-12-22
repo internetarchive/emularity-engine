@@ -1,0 +1,23 @@
+{
+    "name": "Tekken 2 Ver.B (US, TES3-VER.D)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tekken2",
+    "wasmjs_filename": "mamenamcos11.js.gz",
+    "wasm_filename": "mamenamcos11.wasm.gz",
+    "file_locations": {
+        "mamenamcos11.wasm": "mamenamcos11.wasm.gz"
+    }
+}

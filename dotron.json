@@ -1,0 +1,24 @@
+{
+    "name": "Discs of Tron",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        512,
+        480
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "dotron",
+    "wasmjs_filename": "mamemcr.js.gz",
+    "wasm_filename": "mamemcr.wasm.gz",
+    "file_locations": {
+        "mamemcr.wasm": "mamemcr.wasm.gz"
+    }
+}

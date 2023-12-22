@@ -1,0 +1,25 @@
+{
+  "name": "Space Ranger (Arcadia V 2.0)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    724,
+    483 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ar_sprg",
+  "wasmjs_filename": "mamearsystems.js.gz",
+  "wasm_filename": "mamearsystems.wasm.gz",
+  "file_locations": {
+    "mamearsystems.wasm": "mamearsystems.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "karous",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "karous",
+  "wasmjs_filename": "mamenaomi.js.gz",
+  "wasm_filename": "mamenaomi.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamenaomi.wasm.gz"
+  }
+}

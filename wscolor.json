@@ -1,0 +1,22 @@
+{
+  "name": "WonderSwan Color Console",
+  "bios_filenames": [
+    "wscolor.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    224,
+    144 
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "wscolor",
+  "wasmjs_filename": "mamewswan.js.gz",
+  "wasm_filename": "mamewswan.wasm.gz",
+  "file_locations": {
+    "mamenes.wasm": "mamewswan.wasm.gz"
+  }
+}

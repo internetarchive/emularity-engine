@@ -1,0 +1,23 @@
+{
+  "name": "bmiidx6",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bmiidx6",
+  "wasmjs_filename": "mametwinkle.js.gz",
+  "wasm_filename": "mametwinkle.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mametwinkle.wasm.gz"
+  }
+}

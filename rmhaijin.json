@@ -1,0 +1,23 @@
+{
+    "name": "Real Mahjong Haihai Jinji Idou Hen (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        448,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "rmhaijin",
+    "wasmjs_filename": "mamermhaihai.js.gz",
+    "wasm_filename": "mamermhaihai.wasm.gz",
+    "file_locations": {
+        "mamermhaihai.wasm": "mamermhaihai.wasm.gz"
+    }
+}

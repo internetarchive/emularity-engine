@@ -1,0 +1,23 @@
+{
+  "name": "Super Breakout",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sbrkout",
+  "wasmjs_filename": "mamesbrkout.js.gz",
+  "wasm_filename": "mamesbrkout.wasm.gz",
+  "file_locations": {
+    "mamesbrkout.wasm": "mamesbrkout.wasm.gz"
+  }
+}

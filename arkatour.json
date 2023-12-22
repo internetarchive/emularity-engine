@@ -1,0 +1,24 @@
+{
+  "name": "Tournament Arkanoid (US)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "arkatour",
+  "wasmjs_filename": "mamearkanoid.js.gz",
+  "wasm_filename": "mamearkanoid.wasm.gz",
+  "file_locations": {
+    "mamearkanoid.wasm": "mamearkanoid.wasm.gz"
+  }
+}
+

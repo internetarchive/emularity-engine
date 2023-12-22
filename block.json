@@ -1,0 +1,24 @@
+{
+  "name": "Block Block (World 911219 Joystick)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    384
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "block",
+  "wasmjs_filename": "mamemitchell.js.gz",
+  "wasm_filename": "mamemitchell.wasm.gz",
+  "file_locations": {
+    "mamemitchell.wasm": "mamemitchell.wasm.gz"
+  }
+}
+

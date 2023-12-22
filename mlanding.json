@@ -1,0 +1,24 @@
+{
+  "name": "Midnight Landing (Germany)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    400 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mlanding",
+  "wasmjs_filename": "mamemlanding.js.gz",
+  "wasm_filename": "mamemlanding.wasm.gz",
+  "file_locations": {
+    "mamemlanding.wasm": "mamemlanding.wasm.gz"
+  }
+}
+

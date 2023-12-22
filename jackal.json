@@ -1,0 +1,23 @@
+{
+  "name": "Jackal",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "jackal",
+  "wasmjs_filename": "mamejackal.js.gz",
+  "wasm_filename": "mamejackal.wasm.gz",
+  "file_locations": {
+    "mamejackal.wasm": "mamejackal.wasm.gz"
+  }
+}

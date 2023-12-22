@@ -1,0 +1,24 @@
+{
+    "name": "Hole Land",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ], 
+    "scale": "1",
+    "native_resolution": [
+        512,
+        448
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "holeland",
+    "wasmjs_filename": "mameholeland.js.gz",
+    "wasm_filename": "mameholeland.wasm.gz",
+    "file_locations": {
+        "mameholeland.wasm": "mameholeland.wasm.gz"
+    }
+}

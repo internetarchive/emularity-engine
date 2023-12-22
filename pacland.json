@@ -1,0 +1,23 @@
+{
+    "name": "Pac-Land (World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pacland",
+    "wasmjs_filename": "mamepacland.js.gz",
+    "wasm_filename": "mamepacland.wasm.gz",
+    "file_locations": {
+        "mamepacland.wasm": "mamepacland.wasm.gz"
+    }
+}

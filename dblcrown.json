@@ -1,0 +1,23 @@
+{
+    "name": "Double Crown (v1.0.3)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "dblcrown",
+    "wasmjs_filename": "mamedblcrown.js.gz",
+    "wasm_filename": "mamedblcrown.wasm.gz",
+    "file_locations": {
+        "mamedblcrown.wasm": "mamedblcrown.wasm.gz"
+    }
+}

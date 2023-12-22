@@ -1,0 +1,23 @@
+{
+    "name": "Lady Frog",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        200,
+        256
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ladyfrog",
+    "wasmjs_filename": "mameladyfrog.js.gz",
+    "wasm_filename": "mameladyfrog.wasm.gz",
+    "file_locations": {
+        "mameladyfrog.wasm": "mameladyfrog.wasm.gz"
+    }
+}

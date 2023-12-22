@@ -1,0 +1,22 @@
+{
+  "name": "Gameboy Pocket",
+  "bios_filenames": [
+    "gamepock.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    160,
+    144
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "gbpocket",
+  "wasmjs_filename": "mamegb.js.gz",
+  "wasm_filename": "mamegb.wasm.gz",
+  "file_locations": {
+    "mamegb.wasm": "mamegb.wasm.gz"
+  }
+}

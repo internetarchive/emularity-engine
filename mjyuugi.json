@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Yuugi (Japan set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mjyuugi",
+    "wasmjs_filename": "mamesrmp2.js.gz",
+    "wasm_filename": "mamesrmp2.wasm.gz",
+    "file_locations": {
+        "mamesrmp2.wasm": "mamesrmp2.wasm.gz"
+    }
+}

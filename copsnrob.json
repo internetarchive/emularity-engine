@@ -1,0 +1,23 @@
+{
+  "name": "Cops n' Robbers",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    208
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "copsnrob",
+  "wasmjs_filename": "mamecopsnrob.js.gz",
+  "wasm_filename": "mamecopsnrob.wasm.gz",
+  "file_locations": {
+    "mamecopsnrob.wasm": "mamecopsnrob.wasm.gz"
+  }
+}

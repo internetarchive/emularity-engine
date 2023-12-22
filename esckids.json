@@ -1,0 +1,23 @@
+{
+    "name": "Escape Kids (Asia 4 Players)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "esckids",
+    "wasmjs_filename": "mamevendetta.js.gz",
+    "wasm_filename": "mamevendetta.wasm.gz",
+    "file_locations": {
+        "mamevendetta.wasm": "mamevendetta.wasm.gz"
+    }
+}

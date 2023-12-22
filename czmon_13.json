@@ -1,0 +1,23 @@
+{
+    "name": "Crazy Monkey (100311 World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "czmon_13",
+    "wasmjs_filename": "mamemultfish.js.gz",
+    "wasm_filename": "mamemultfish.wasm.gz",
+    "file_locations": {
+        "mamemultfish.wasm": "mamemultfish.wasm.gz"
+    }
+}

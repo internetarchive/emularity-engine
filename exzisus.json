@@ -1,0 +1,23 @@
+{
+  "name": "Exzisus",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "exzisus",
+  "wasmjs_filename": "mameexzisus.js.gz",
+  "wasm_filename": "mameexzisus.wasm.gz",
+  "file_locations": {
+    "mameexzisus.wasm": "mameexzisus.wasm.gz"
+  }
+}

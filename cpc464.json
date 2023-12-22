@@ -1,0 +1,23 @@
+{
+  "name": "Amstrad CPC",
+  "bios_filenames": [
+    "cpc464.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    768
+    540
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "cpc464",
+  "wasmjs_filename": "mameamstrad.js.gz",
+  "wasm_filename": "mameamstrad.wasm.gz",
+  "file_locations": {
+    "mameamstrad.wasm": "mameamstrad.wasm.gz"
+  }
+}

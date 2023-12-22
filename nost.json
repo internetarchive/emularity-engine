@@ -1,0 +1,24 @@
+{
+  "name": "Nostradamus",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    320
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "nost",
+  "wasmjs_filename": "mamemcatadv.js.gz",
+  "wasm_filename": "mamemcatadv.wasm.gz",
+  "file_locations": {
+    "mamemcatadv.wasm": "mamemcatadv.wasm.gz"
+  }
+}
+

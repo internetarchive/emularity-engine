@@ -1,0 +1,23 @@
+{
+  "name": "Last Mission",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "lastmisn",
+  "wasmjs_filename": "mamedec8.js.gz",
+  "wasm_filename": "mamedec8.wasm.gz",
+  "file_locations": {
+    "mamedec8.wasm": "mamedec8.wasm.gz"
+  }
+}

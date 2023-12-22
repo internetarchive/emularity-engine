@@ -1,0 +1,24 @@
+{
+  "name": "Music Ball",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    448 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "musicbal",
+  "wasmjs_filename": "mamespeedbal.js.gz",
+  "wasm_filename": "mamespeedbal.wasm.gz",
+  "file_locations": {
+    "mamespeedbal.wasm": "mamespeedbal.wasm.gz"
+  }
+}
+

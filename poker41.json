@@ -1,0 +1,23 @@
+{
+    "name": "Four In One Poker",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "poker41",
+    "wasmjs_filename": "mamegatron.js.gz",
+    "wasm_filename": "mamegatron.wasm.gz",
+    "file_locations": {
+        "mamegatron.wasm": "mamegatron.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Demolition Derby",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    480
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "demoderb",
+  "wasmjs_filename": "mamemcr.js.gz",
+  "wasm_filename": "mamemcr.wasm.gz",
+  "file_locations": {
+    "mamemcr.wasm": "mamemcr.wasm.gz"
+  }
+}

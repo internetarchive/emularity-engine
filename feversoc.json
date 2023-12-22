@@ -1,0 +1,23 @@
+{
+    "name": "Fever Soccer",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "feversoc",
+    "wasmjs_filename": "mamefeversoc.js.gz",
+    "wasm_filename": "mamefeversoc.wasm.gz",
+    "file_locations": {
+        "mamefeversoc.wasm": "mamefeversoc.wasm.gz"
+    }
+}

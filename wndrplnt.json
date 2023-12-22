@@ -1,0 +1,23 @@
+{
+  "name": "Wonder Planet ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "wndrplnt",
+  "wasmjs_filename": "mamekarnov.js.gz",
+  "wasm_filename": "mamekarnov.wasm.gz",
+  "file_locations": {
+    "mamekarnov.wasm": "mamekarnov.wasm.gz"
+  }
+}

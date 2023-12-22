@@ -1,0 +1,24 @@
+{
+  "name": "Born To Fight",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    352,
+    256 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "borntofi",
+  "wasmjs_filename": "mamefantland.js.gz",
+  "wasm_filename": "mamefantland.wasm.gz",
+  "file_locations": {
+    "mamefantland.wasm": "mamefantland.wasm.gz"
+  }
+}
+

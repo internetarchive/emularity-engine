@@ -1,0 +1,23 @@
+{
+  "name": "Plotting ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "plotting",
+  "wasmjs_filename": "mametaito_l.js.gz",
+  "wasm_filename": "mametaito_l.wasm.gz",
+  "file_locations": {
+    "mametaito_l.wasm": "mametaito_l.wasm.gz"
+  }
+}

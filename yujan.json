@@ -1,0 +1,23 @@
+{
+    "name": "Yu-Jan",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        1024,
+        1024 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "yujan",
+    "wasmjs_filename": "mamemacs.js.gz",
+    "wasm_filename": "mamemacs.wasm.gz",
+    "file_locations": {
+        "mamemacs.wasm": "mamemacs.wasm.gz"
+    }
+}

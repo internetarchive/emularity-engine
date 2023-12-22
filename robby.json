@@ -1,0 +1,24 @@
+{
+  "name": "The Adventures of Robby Roto!",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    352,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "robby",
+  "wasmjs_filename": "mameastrocde.js.gz",
+  "wasm_filename": "mameastrocde.wasm.gz",
+  "file_locations": {
+    "mameastrocde.wasm": "mameastrocde.wasm.gz"
+  }
+}
+

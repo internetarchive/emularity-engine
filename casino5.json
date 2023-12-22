@@ -1,0 +1,23 @@
+{
+    "name": "Casino Five (3315-02, U5-2B)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "casino5",
+    "wasmjs_filename": "mamemerit.js.gz",
+    "wasm_filename": "mamemerit.wasm.gz",
+    "file_locations": {
+        "mamemerit.wasm": "mamemerit.wasm.gz"
+    }
+}

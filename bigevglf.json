@@ -1,0 +1,23 @@
+{
+  "name": "Big Event Golf",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bigevglf",
+  "wasmjs_filename": "mamebigevglf.js.gz",
+  "wasm_filename": "mamebigevglf.wasm.gz",
+  "file_locations": {
+    "mamebigevglf.wasm": "mamebigevglf.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Mainline Double Joker Poker",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        464,
+        248 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mainline",
+    "wasmjs_filename": "mamenorautp.js.gz",
+    "wasm_filename": "mamenorautp.wasm.gz",
+    "file_locations": {
+        "mamenorautp.wasm": "mamenorautp.wasm.gz"
+    }
+}

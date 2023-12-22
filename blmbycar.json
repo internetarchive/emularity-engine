@@ -1,0 +1,24 @@
+{
+  "name": "Blomby Car",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "blmbycar",
+  "wasmjs_filename": "mameblmbycar.js.gz",
+  "wasm_filename": "mameblmbycar.wasm.gz",
+  "file_locations": {
+    "mameblmbycar.wasm": "mameblmbycar.wasm.gz"
+  }
+}
+

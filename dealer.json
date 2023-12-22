@@ -1,0 +1,23 @@
+{
+    "name": "The Dealer",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        272,
+        236 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "dealer",
+    "wasmjs_filename": "mameepos.js.gz",
+    "wasm_filename": "mameepos.wasm.gz",
+    "file_locations": {
+        "mameepos.wasm": "mameepos.wasm.gz"
+    }
+}

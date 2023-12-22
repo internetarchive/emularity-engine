@@ -1,0 +1,23 @@
+{
+    "name": "unknown Italian poker game",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "unkitpkr",
+    "wasmjs_filename": "mamewallc.js.gz",
+    "wasm_filename": "mamewallc.wasm.gz",
+    "file_locations": {
+        "mamewallc.wasm": "mamewallc.wasm.gz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Atari Lynx Handheld Console",
+  "bios_filenames": [
+    "lynx.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    204 
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "lynx",
+  "wasmjs_filename": "mamelynx.js.gz",
+  "wasm_filename": "mamelynx.wasm.gz",
+  "file_locations": {
+    "mamelynx.wasm": "mamelynx.wasm.gz"
+  }
+}

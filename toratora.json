@@ -1,0 +1,23 @@
+{
+    "name": "Tora Tora (prototype?)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "toratora",
+    "wasmjs_filename": "mametoratora.js.gz",
+    "wasm_filename": "mametoratora.wasm.gz",
+    "file_locations": {
+        "mametoratora.wasm": "mametoratora.wasm.gz"
+    }
+}

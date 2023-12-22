@@ -1,0 +1,23 @@
+{
+    "name": "Namco Classic Collection Vol.1",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ncv1",
+    "wasmjs_filename": "mamenamcond1.js.gz",
+    "wasm_filename": "mamenamcond1.wasm.gz",
+    "file_locations": {
+        "mamenamcond1.wasm": "mamenamcond1.wasm.gz"
+    }
+}

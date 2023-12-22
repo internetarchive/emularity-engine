@@ -1,0 +1,23 @@
+{
+    "name": "Shuffleshot (v1.40)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        240
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "shufshot",
+    "wasmjs_filename": "mameitech32.js.gz",
+    "wasm_filename": "mameitech32.wasm.gz",
+    "file_locations": {
+        "mameitech32.wasm": "mameitech32.wasm.gz"
+    }
+}

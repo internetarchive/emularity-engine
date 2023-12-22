@@ -1,0 +1,23 @@
+{
+  "name": "Meteoroids",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "meteor",
+  "wasmjs_filename": "mamespcforce.js.gz",
+  "wasm_filename": "mamespcforce.wasm.gz",
+  "file_locations": {
+    "mamespcforce.wasm": "mamespcforce.wasm.gz"
+  }
+}

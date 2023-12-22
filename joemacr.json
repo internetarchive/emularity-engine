@@ -1,0 +1,24 @@
+{
+  "name": "Joe FULLNAME Mac Returns (World Version 1.1 1994.05.27)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "joemacr",
+  "wasmjs_filename": "mamesimpl156.js.gz",
+  "wasm_filename": "mamesimpl156.wasm.gz",
+  "file_locations": {
+    "mamesimpl156.wasm": "mamesimpl156.wasm.gz"
+  }
+}
+

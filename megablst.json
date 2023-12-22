@@ -1,0 +1,24 @@
+{
+  "name": "Mega Blast (World)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "megablst",
+  "wasmjs_filename": "mametaito_f2.js.gz",
+  "wasm_filename": "mametaito_f2.wasm.gz",
+  "file_locations": {
+    "mametaito_f2.wasm": "mametaito_f2.wasm.gz"
+  }
+}
+

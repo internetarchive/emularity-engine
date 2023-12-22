@@ -1,0 +1,23 @@
+{
+    "name": "Urachacha Mudaeri (Korea)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "urachamu",
+    "wasmjs_filename": "mamecrystal.js.gz",
+    "wasm_filename": "mamecrystal.wasm.gz",
+    "file_locations": {
+        "mamecrystal.wasm": "mamecrystal.wasm.gz"
+    }
+}

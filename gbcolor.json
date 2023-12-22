@@ -1,0 +1,22 @@
+{
+  "name": "Gameboy Color",
+  "bios_filenames": [
+    "gbcolor.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    160,
+    144
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "gbcolor",
+  "wasmjs_filename": "mamegb.js.gz",
+  "wasm_filename": "mamegb.wasm.gz",
+  "file_locations": {
+    "mamegb.wasm": "mamegb.wasm.gz"
+  }
+}

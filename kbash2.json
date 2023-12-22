@@ -1,0 +1,24 @@
+{
+  "name": "Knuckle Bash 2 (bootleg)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kbash2",
+  "wasmjs_filename": "mametoaplan2.js.gz",
+  "wasm_filename": "mametoaplan2.wasm.gz",
+  "file_locations": {
+    "mametoaplan2.wasm": "mametoaplan2.wasm.gz"
+  }
+}
+

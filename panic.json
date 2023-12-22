@@ -1,0 +1,24 @@
+{
+  "name": "Space Panic",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    288
+  ],
+  "extra_args": [
+    "-samplepath",
+    "."
+  ],
+  "driver": "panic",
+  "wasmjs_filename": "mamecosmic.js.gz",
+  "wasm_filename": "mamecosmic.wasm.gz",
+  "file_locations": {
+    "mamecosmic.wasm": "mamecosmic.wasm.gz"
+  }
+}

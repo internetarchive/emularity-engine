@@ -1,0 +1,23 @@
+{
+  "name": "Quarth ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "quarth",
+  "wasmjs_filename": "mameblockhl.js.gz",
+  "wasm_filename": "mameblockhl.wasm.gz",
+  "file_locations": {
+    "mameblockhl.wasm": "mameblockhl.wasm.gz"
+  }
+}

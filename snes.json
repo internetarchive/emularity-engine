@@ -1,0 +1,23 @@
+{
+  "name": "Super Nintendo Entertainment System / Super Famicom (NTSC)",
+  "bios_filenames": [
+   "snes.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    512,
+    450
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "snes",
+  "wasmjs_filename": "mamesnes.js.gz",
+  "wasm_filename": "mamesnes.wasm.gz",
+  "file_locations": {
+    "mamesnes.wasm": "mamesnes.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sprint 1",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sprint1",
+  "wasmjs_filename": "mamesprint2.js.gz",
+  "wasm_filename": "mamesprint2.wasm.gz",
+  "file_locations": {
+    "mamesprint2.wasm": "mamesprint2.wasm.gz"
+  }
+}
+

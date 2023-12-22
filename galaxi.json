@@ -1,0 +1,23 @@
+{
+    "name": "Galaxi (v2.0)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        400,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "galaxi",
+    "wasmjs_filename": "mamegalaxi.js.gz",
+    "wasm_filename": "mamegalaxi.wasm.gz",
+    "file_locations": {
+        "mamegalaxi.wasm": "mamegalaxi.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Valtric",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "valtric",
+  "wasmjs_filename": "mameargus.js.gz",
+  "wasm_filename": "mameargus.wasm.gz",
+  "file_locations": {
+    "mameargus.wasm": "mameargus.wasm.gz"
+  }
+}

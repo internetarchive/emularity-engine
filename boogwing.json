@@ -1,0 +1,23 @@
+{
+    "name": "Boogie Wings (Euro v1.5, 92.12.07)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "boogwing",
+    "wasmjs_filename": "mameboogwing.js.gz",
+    "wasm_filename": "mameboogwing.wasm.gz",
+    "file_locations": {
+        "mameboogwing.wasm": "mameboogwing.wasm.gz"
+    }
+}

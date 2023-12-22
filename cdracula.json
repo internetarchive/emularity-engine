@@ -1,0 +1,24 @@
+{
+  "name": "Castle Of Dracula",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    480,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cdracula",
+  "wasmjs_filename": "mamedynax.js.gz",
+  "wasm_filename": "mamedynax.wasm.gz",
+  "file_locations": {
+    "mamedynax.wasm": "mamedynax.wasm.gz"
+  }
+}
+

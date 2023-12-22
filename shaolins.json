@@ -1,0 +1,23 @@
+{
+  "name": "Shao-lin's Road",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "shaolins",
+  "wasmjs_filename": "mameshaolins.js.gz",
+  "wasm_filename": "mameshaolins.wasm.gz",
+  "file_locations": {
+    "mameshaolins.wasm": "mameshaolins.wasm.gz"
+  }
+}

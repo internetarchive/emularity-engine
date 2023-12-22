@@ -1,0 +1,24 @@
+{
+  "name": "Twin Brats (set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "twinbrat",
+  "wasmjs_filename": "mamestlforce.js.gz",
+  "wasm_filename": "mamestlforce.wasm.gz",
+  "file_locations": {
+    "mamestlforce.wasm": "mamestlforce.wasm.gz"
+  }
+}
+

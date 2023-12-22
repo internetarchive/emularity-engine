@@ -1,0 +1,24 @@
+{
+  "name": "Diver Boy",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    318,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "diverboy",
+  "wasmjs_filename": "mamediverboy.js.gz",
+  "wasm_filename": "mamediverboy.wasm.gz",
+  "file_locations": {
+    "mamediverboy.wasm": "mamediverboy.wasm.gz"
+  }
+}
+

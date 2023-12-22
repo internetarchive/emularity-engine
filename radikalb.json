@@ -1,0 +1,23 @@
+{
+    "name": "Radikal Bikers (Version 2.02)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        576,
+        432 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "radikalb",
+    "wasmjs_filename": "mamegaelco3d.js.gz",
+    "wasm_filename": "mamegaelco3d.wasm.gz",
+    "file_locations": {
+        "mamegaelco3d.wasm": "mamegaelco3d.wasm.gz"
+    }
+}

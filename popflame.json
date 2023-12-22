@@ -1,0 +1,23 @@
+{
+  "name": "POP Flamer",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    288
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "popflame",
+  "wasmjs_filename": "mamenaughtyb.js.gz",
+  "wasm_filename": "mamenaughtyb.wasm.gz",
+  "file_locations": {
+    "mamenaughtyb.wasm": "mamenaughtyb.wasm.gz"
+  }
+}

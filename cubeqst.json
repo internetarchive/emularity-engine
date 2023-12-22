@@ -1,0 +1,23 @@
+{
+  "name": "cubeqst",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    704,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cubeqst",
+  "wasmjs_filename": "mamecubeqst.js.gz",
+  "wasm_filename": "mamecubeqst.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamecubeqst.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Super Speed Race",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        275,
+        376
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sspeedr",
+    "wasmjs_filename": "mamesspeedr.js.gz",
+    "wasm_filename": "mamesspeedr.wasm.gz",
+    "file_locations": {
+        "mamesspeedr.wasm": "mamesspeedr.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gals Panic S - Extra Edition (Europe, set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "galpanis",
+    "wasmjs_filename": "mamesuprnova.js.gz",
+    "wasm_filename": "mamesuprnova.wasm.gz",
+    "file_locations": {
+        "mamesuprnova.wasm": "mamesuprnova.wasm.gz"
+    }
+}

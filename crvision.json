@@ -1,0 +1,22 @@
+{
+  "name": "VTech Creativision",
+  "bios_filenames": [
+    "crvision.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    280,
+    216
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "crvision",
+  "wasmjs_filename": "mamecrvision.js.gz",
+  "wasm_filename": "mamecrvision.wasm.gz",
+  "file_locations": {
+    "mamecrvision.wasm": "mamecrvision.wasm.gz"
+  }
+}

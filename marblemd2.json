@@ -1,0 +1,23 @@
+{
+  "name": "Marble Madness II (Prototype)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    240
+  ],
+  "extra_args=": [
+    "-nosleep"
+  ],
+  "driver": "marblemd2",
+  "wasmjs_filename": "marblemd2.js.gz",
+  "wasm_filename": "marblemd2.wasm.gz",
+  "file_locations": {
+    "marblemd2.wasm": "marblemd2.wasm.gz"
+  }
+}

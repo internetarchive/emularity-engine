@@ -1,0 +1,19 @@
+{
+  "name": "RUFFLE Flash Emulation",
+  "native_resolution": [
+    800,
+    600 
+  ],
+  "extra_args": [],
+  "js_filename": "ruffle/ruffle.js",
+  "file_locations": {},
+  "driver": "ruffle",
+  "config": {
+    "autoplay": "on",
+    "splashScreen": false,
+    "warnOnUnsupportedContent": false,
+    "forceScale": true,
+    "forceAlign": true
+  }
+}
+

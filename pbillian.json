@@ -1,0 +1,23 @@
+{
+  "name": "Prebillian",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pbillian",
+  "wasmjs_filename": "mamesuperqix.js.gz",
+  "wasm_filename": "mamesuperqix.wasm.gz",
+  "file_locations": {
+    "mamesuperqix.wasm": "mamesuperqix.wasm.gz"
+  }
+}

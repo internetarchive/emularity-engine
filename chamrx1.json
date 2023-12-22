@@ -1,0 +1,23 @@
+{
+  "name": "chamrx1",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "chamrx1",
+  "wasmjs_filename": "mamechameleonrx1.js.gz",
+  "wasm_filename": "mamechameleonrx1.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamechameleonrx1.wasm.gz"
+  }
+}

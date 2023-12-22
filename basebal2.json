@@ -1,0 +1,23 @@
+{
+  "name": "Baseball: The Season II",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "basebal2",
+  "wasmjs_filename": "mameleland.js.gz",
+  "wasm_filename": "mameleland.wasm.gz",
+  "file_locations": {
+    "mameleland.wasm": "mameleland.wasm.gz"
+  }
+}

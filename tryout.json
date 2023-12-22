@@ -1,0 +1,23 @@
+{
+  "name": "Pro Baseball Skill Tryout",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tryout",
+  "wasmjs_filename": "mametryout.js.gz",
+  "wasm_filename": "mametryout.wasm.gz",
+  "file_locations": {
+    "mametryout.wasm": "mametryout.wasm.gz"
+  }
+}

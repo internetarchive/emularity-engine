@@ -1,0 +1,23 @@
+{
+    "name": "Istrebiteli",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        192,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "istreb",
+    "wasmjs_filename": "mameistrebiteli.js.gz",
+    "wasm_filename": "mameistrebiteli.wasm.gz",
+    "file_locations": {
+        "mameistrebiteli.wasm": "mameistrebiteli.wasm.gz"
+    }
+}

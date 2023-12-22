@@ -1,0 +1,23 @@
+{
+  "name": "wcombat",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    1,024,
+    768 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "wcombat",
+  "wasmjs_filename": "mameviper.js.gz",
+  "wasm_filename": "mameviper.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mameviper.wasm.gz"
+  }
+}

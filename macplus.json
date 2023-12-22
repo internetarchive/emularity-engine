@@ -1,0 +1,23 @@
+{
+  "name": "Apple Macintosh Plus",
+  "bios_filenames": [
+    "macplus.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    512,
+    342
+  ],
+  "extra_args": [
+    "-ramsize", "1M"
+  ],
+  "driver": "macplus",
+  "wasmjs_filename": "mac128.js.gz",
+  "wasm_filename": "mac128.wasm.gz",
+  "file_locations": {
+    "mamemac128.wasm": "mac128.wasm.gz"
+  }
+}

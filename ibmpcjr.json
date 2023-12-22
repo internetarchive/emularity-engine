@@ -1,0 +1,20 @@
+{
+  "name": "IBM PC Jr",
+  "bios_filenames": [],
+  "peripherals": [
+    "flop1"
+  ],
+  "native_resolution": [
+    640,
+    20
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "ibmpcjr",
+  "wasmjs_filename": "mameibmpcjr.js.gz",
+  "wasm_filename": "mameibmpcjr.wasm.gz",
+  "file_locations": {
+    "mameibmpcjr.wasm": "mameibmpcjr.wasm.gz"
+  }
+}

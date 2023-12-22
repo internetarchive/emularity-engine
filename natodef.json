@@ -1,0 +1,24 @@
+{
+  "name": "Nato Defense",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    256
+  ],
+  "extra_args": [
+    "-samplepath",
+    "."
+  ],
+  "driver": "natodef",
+  "wasmjs_filename": "mamethief.js.gz",
+  "wasm_filename": "mamethief.wasm.gz",
+  "file_locations": {
+    "mamethief.wasm": "mamethief.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tetris (Japan System E)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    192 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tetrisse",
+  "wasmjs_filename": "mamesegae.js.gz",
+  "wasm_filename": "mamesegae.wasm.gz",
+  "file_locations": {
+    "mamesegae.wasm": "mamesegae.wasm.gz"
+  }
+}
+

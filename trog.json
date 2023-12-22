@@ -1,0 +1,24 @@
+{
+  "name": "Trog (rev LA5 03-29-91)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    410,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "trog",
+  "wasmjs_filename": "mamemidyunit.js.gz",
+  "wasm_filename": "mamemidyunit.wasm.gz",
+  "file_locations": {
+    "mamemidyunit.wasm": "mamemidyunit.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "Yie Ar Kung-Fu",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "yiear",
+  "wasmjs_filename": "mameyiear.js.gz",
+  "wasm_filename": "mameyiear.wasm.gz",
+  "file_locations": {
+    "mameyiear.wasm": "mameyiear.wasm.gz"
+  }
+}

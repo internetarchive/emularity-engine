@@ -1,0 +1,23 @@
+{
+    "name": "Pop'n Pop (Ver 2.07O 1998-02-09)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        232 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "popnpop",
+    "wasmjs_filename": "mametaito_f3.js.gz",
+    "wasm_filename": "mametaito_f3.wasm.gz",
+    "file_locations": {
+        "mametaito_f3.wasm": "mametaito_f3.wasm.gz"
+    }
+}

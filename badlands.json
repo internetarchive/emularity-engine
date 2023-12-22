@@ -1,0 +1,23 @@
+{
+  "name": "Bad Lands",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "badlands",
+  "wasmjs_filename": "mamebadlands.js.gz",
+  "wasm_filename": "mamebadlands.wasm.gz",
+  "file_locations": {
+    "mamebadlands.wasm": "mamebadlands.wasm.gz"
+  }
+}

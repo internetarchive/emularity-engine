@@ -1,0 +1,22 @@
+{
+  "name": "ZX-81",
+  "bios_filenames": [
+    "zx81.zip"
+  ],
+  "peripherals": [
+    "cass"
+  ],
+  "native_resolution": [
+    384,
+    311
+  ],
+  "extra_args": [
+    "-ram", "16k", "-autoboot_script", "zx81.lua"
+  ],
+  "driver": "zx81",
+  "wasmjs_filename": "mamezx.js.gz",
+  "wasm_filename": "mamezx.wasm.gz",
+  "file_locations": {
+    "mamezx.wasm": "mamezx.wasm.gz"
+  }
+}

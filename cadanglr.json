@@ -1,0 +1,24 @@
+{
+  "name": "Angler Dangler (DECO Cassette) (US)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cadanglr",
+  "wasmjs_filename": "mamedecocass.js.gz",
+  "wasm_filename": "mamedecocass.wasm.gz",
+  "file_locations": {
+    "mamedecocass.wasm": "mamedecocass.wasm.gz"
+  }
+}
+

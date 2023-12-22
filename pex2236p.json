@@ -1,0 +1,23 @@
+{
+    "name": "Player's Edge Plus (X002236P+XP000043) Double Double Bonus with 3 Aces Poker",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        200 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pex2236p",
+    "wasmjs_filename": "mamepeplus.js.gz",
+    "wasm_filename": "mamepeplus.wasm.gz",
+    "file_locations": {
+        "mamepeplus.wasm": "mamepeplus.wasm.gz"
+    }
+}

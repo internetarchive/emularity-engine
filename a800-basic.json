@@ -1,0 +1,24 @@
+{
+  "name": "Atari 800",
+  "bios_filenames": [
+    "a800.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    672,
+    450 
+  ],
+  "extra_args": [
+    "-cart1",
+    "atari_basic_cart.bin"
+  ],
+  "driver": "a800",
+  "file_locations": {
+    "mameatari400.wasm": "mameatari400.wasm.gz"
+  },
+  "wasmjs_filename": "mameatari400.js.gz",
+  "wasm_filename": "mameatari400.wasm.gz"
+}

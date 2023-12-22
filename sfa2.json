@@ -1,0 +1,24 @@
+{
+  "name": "Street Fighter Alpha 2 (Euro 960229)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sfa2",
+  "wasmjs_filename": "mamecps2.js.gz",
+  "wasm_filename": "mamecps2.wasm.gz",
+  "file_locations": {
+    "mamecps2.wasm": "mamecps2.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "New Tropical Angel",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "newtangl",
+  "wasmjs_filename": "mamem57.js.gz",
+  "wasm_filename": "mamem57.wasm.gz",
+  "file_locations": {
+    "mamem57.wasm": "mamem57.wasm.gz"
+  }
+}

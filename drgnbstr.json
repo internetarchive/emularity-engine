@@ -1,0 +1,23 @@
+{
+  "name": "Dragon Buster",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "drgnbstr",
+  "wasmjs_filename": "mameskykid.js.gz",
+  "wasm_filename": "mameskykid.wasm.gz",
+  "file_locations": {
+    "mameskykid.wasm": "mameskykid.wasm.gz"
+  }
+}

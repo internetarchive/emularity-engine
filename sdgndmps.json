@@ -1,0 +1,24 @@
+{
+  "name": "SD Gundam Psycho Salamander no Kyoui",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sdgndmps",
+  "wasmjs_filename": "mamedcon.js.gz",
+  "wasm_filename": "mamedcon.wasm.gz",
+  "file_locations": {
+    "mamedcon.wasm": "mamedcon.wasm.gz"
+  }
+}
+

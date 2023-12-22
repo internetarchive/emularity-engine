@@ -1,0 +1,23 @@
+{
+    "name": "Rettou Juudan Nekkyoku Janshi - Higashi Nippon Hen (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        352,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "nekkyoku",
+    "wasmjs_filename": "mamefromance.js.gz",
+    "wasm_filename": "mamefromance.wasm.gz",
+    "file_locations": {
+        "mamefromance.wasm": "mamefromance.wasm.gz"
+    }
+}

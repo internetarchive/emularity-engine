@@ -1,0 +1,23 @@
+{
+    "name": "The Ninja Warriors (World, later version)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ninjaw",
+    "wasmjs_filename": "mameninjaw.js.gz",
+    "wasm_filename": "mameninjaw.wasm.gz",
+    "file_locations": {
+        "mameninjaw.wasm": "mameninjaw.wasm.gz"
+    }
+}

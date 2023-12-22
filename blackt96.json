@@ -1,0 +1,24 @@
+{
+  "name": "Black Touch '96",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "blackt96",
+  "wasmjs_filename": "mameblackt96.js.gz",
+  "wasm_filename": "mameblackt96.wasm.gz",
+  "file_locations": {
+    "mameblackt96.wasm": "mameblackt96.wasm.gz"
+  }
+}
+

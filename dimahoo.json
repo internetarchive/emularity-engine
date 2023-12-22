@@ -1,0 +1,24 @@
+{
+  "name": "Dimahoo (Euro 000121)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    384
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dimahoo",
+  "wasmjs_filename": "mamecps2.js.gz",
+  "wasm_filename": "mamecps2.wasm.gz",
+  "file_locations": {
+    "mamecps2.wasm": "mamecps2.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+    "name": "S.T.U.N. Runner (rev 6)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        228
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "stunrun",
+    "wasmjs_filename": "mameharddriv.js.gz",
+    "wasm_filename": "mameharddriv.wasm.gz",
+    "file_locations": {
+        "mameharddriv.wasm": "mameharddriv.wasm.gz"
+    }
+}

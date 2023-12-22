@@ -1,0 +1,24 @@
+{
+  "name": "Fatal Fury 2 - Garou Densetsu 2 - Arata-naru Tatakai (NGM-047 ~ NGH-047)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "fatfury2",
+  "wasmjs_filename": "mameneogeo.js.gz",
+  "wasm_filename": "mameneogeo.wasm.gz",
+  "file_locations": {
+    "mameneogeo.wasm": "mameneogeo.wasm.gz"
+  }
+}
+

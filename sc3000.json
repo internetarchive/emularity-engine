@@ -1,0 +1,22 @@
+{
+  "name": "SC-3000",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    280,
+    216
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "sc3000",
+  "file_locations": {
+    "mamesc3000.wasm": "mamesc3000.wasm.gz"
+  },
+  "wasmjs_filename": "mamesc3000.js.gz",
+  "wasm_filename": "mamesc3000.wasm.gz"
+}

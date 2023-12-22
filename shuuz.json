@@ -1,0 +1,24 @@
+{
+  "name": "Shuuz (version 8.0)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "shuuz",
+  "wasmjs_filename": "mameshuuz.js.gz",
+  "wasm_filename": "mameshuuz.wasm.gz",
+  "file_locations": {
+    "mameshuuz.wasm": "mameshuuz.wasm.gz"
+  }
+}
+

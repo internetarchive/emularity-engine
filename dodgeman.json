@@ -1,0 +1,23 @@
+{
+    "name": "Dodge Man",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "dodgeman",
+    "wasmjs_filename": "mamebattlex.js.gz",
+    "wasm_filename": "mamebattlex.wasm.gz",
+    "file_locations": {
+        "mamebattlex.wasm": "mamebattlex.wasm.gz"
+    }
+}

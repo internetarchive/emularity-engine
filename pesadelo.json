@@ -1,0 +1,24 @@
+{
+  "name": "Pesadelo (bootleg of Knightmare on MSX)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    280,
+    216 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pesadelo",
+  "wasmjs_filename": "mameforte2.js.gz",
+  "wasm_filename": "mameforte2.wasm.gz",
+  "file_locations": {
+    "mameforte2.wasm": "mameforte2.wasm.gz"
+  }
+}
+

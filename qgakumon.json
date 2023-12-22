@@ -1,0 +1,23 @@
+{
+    "name": "Quiz Gakumon no Susume (Japan ver. JA1 Type H)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        304,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "qgakumon",
+    "wasmjs_filename": "mametmnt.js.gz",
+    "wasm_filename": "mametmnt.wasm.gz",
+    "file_locations": {
+        "mametmnt.wasm": "mametmnt.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Super Street Fighter II - The New Challengers (bootleg of Japanese MegaDrive version)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ssf2mdb",
+  "wasmjs_filename": "mamemegadriv_acbl.js.gz",
+  "wasm_filename": "mamemegadriv_acbl.wasm.gz",
+  "file_locations": {
+    "mamemegadriv_acbl.wasm": "mamemegadriv_acbl.wasm.gz"
+  }
+}
+

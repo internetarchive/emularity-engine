@@ -1,0 +1,23 @@
+{
+    "name": "F-15 Strike Eagle (rev. 2.2 02-25-91)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        576,
+        400 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "f15se",
+    "wasmjs_filename": "mamemicro3d.js.gz",
+    "wasm_filename": "mamemicro3d.wasm.gz",
+    "file_locations": {
+        "mamemicro3d.wasm": "mamemicro3d.wasm.gz"
+    }
+}

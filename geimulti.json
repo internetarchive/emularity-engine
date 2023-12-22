@@ -1,0 +1,23 @@
+{
+    "name": "GEI Multi Game",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        416,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "geimulti",
+    "wasmjs_filename": "mamegei.js.gz",
+    "wasm_filename": "mamegei.wasm.gz",
+    "file_locations": {
+        "mamegei.wasm": "mamegei.wasm.gz"
+    }
+}

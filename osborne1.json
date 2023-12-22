@@ -1,0 +1,22 @@
+{
+  "name": "Osborne 1",
+  "bios_filenames": [
+    "osborne1.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "native_resolution": [
+    416,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "osborne1",
+  "wasmjs_filename": "mameosborne1.js.gz",
+  "wasm_filename": "mameosborne1.wasm.gz",
+  "file_locations": {
+    "mameosborne1.wasm": "mameosborne1.wasm.gz"
+  }
+}

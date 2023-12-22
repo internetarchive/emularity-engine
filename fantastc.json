@@ -1,0 +1,23 @@
+{
+    "name": "Fantastic (Galaga conversion on Galaxian hardware)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        224,
+        256
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "fantastc",
+    "wasmjs_filename": "mamegalaxian.js.gz",
+    "wasm_filename": "mamegalaxian.wasm.gz",
+    "file_locations": {
+        "mamegalaxian.wasm": "mamegalaxian.wasm.gz"
+    }
+}

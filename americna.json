@@ -1,0 +1,23 @@
+{
+    "name": "Americana (9131-01)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        543,
+        465 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "americna",
+    "wasmjs_filename": "mamemeritm.js.gz",
+    "wasm_filename": "mamemeritm.wasm.gz",
+    "file_locations": {
+        "mamemeritm.wasm": "mamemeritm.wasm.gz"
+    }
+}

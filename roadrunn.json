@@ -1,0 +1,23 @@
+{
+  "name": "Road Runner",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "roadrunn",
+  "wasmjs_filename": "mameatarisy1.js.gz",
+  "wasm_filename": "mameatarisy1.wasm.gz",
+  "file_locations": {
+    "mameatarisy1.wasm": "mameatarisy1.wasm.gz"
+  }
+}

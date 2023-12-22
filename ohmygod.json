@@ -1,0 +1,24 @@
+{
+  "name": "Oh My God! (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ohmygod",
+  "wasmjs_filename": "mameohmygod.js.gz",
+  "wasm_filename": "mameohmygod.wasm.gz",
+  "file_locations": {
+    "mameohmygod.wasm": "mameohmygod.wasm.gz"
+  }
+}
+

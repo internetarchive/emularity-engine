@@ -1,0 +1,23 @@
+{
+  "name": "Drag Race",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dragrace",
+  "wasmjs_filename": "mamedragrace.js.gz",
+  "wasm_filename": "mamedragrace.wasm.gz",
+  "file_locations": {
+    "mamedragrace.wasm": "mamedragrace.wasm.gz"
+  }
+}

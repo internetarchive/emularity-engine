@@ -1,0 +1,23 @@
+{
+    "name": "Bad Dog Poker (0200428V, NSW-ACT)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        735,
+        292 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "baddog",
+    "wasmjs_filename": "mamearistmk5.js.gz",
+    "wasm_filename": "mamearistmk5.wasm.gz",
+    "file_locations": {
+        "mamearistmk5.wasm": "mamearistmk5.wasm.gz"
+    }
+}

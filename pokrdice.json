@@ -1,0 +1,23 @@
+{
+    "name": "Poker Dice (V1.7)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pokrdice",
+    "wasmjs_filename": "mameitech8.js.gz",
+    "wasm_filename": "mameitech8.wasm.gz",
+    "file_locations": {
+        "mameitech8.wasm": "mameitech8.wasm.gz"
+    }
+}

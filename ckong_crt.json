@@ -1,0 +1,29 @@
+{
+  "name": "Crazy Kong CRT",
+  "arcade": "1",
+  "js_filename": "mamecrtdemo.js.gz",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    600,
+    800
+  ],
+  "extra_args": [
+    "-video",
+    "bgfx",
+    "-bgfx_screen_chains",
+    "hlsl",
+    "-keepaspect"
+  ],
+  "driver": "ckong",
+  "wasmjs_filename": "mamecrtdemo_wasm.js.gz",
+  "wasm_filename": "mamecrtdemo_wasm.wasm.gz",
+  "file_locations": {
+    "mamecrtdemo_wasm.wasm": "mamecrtdemo_wasm.wasm.gz"
+  }
+}

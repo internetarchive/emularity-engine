@@ -1,0 +1,23 @@
+{
+  "name": "Son Son",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sonson",
+  "wasmjs_filename": "mamesonson.js.gz",
+  "wasm_filename": "mamesonson.wasm.gz",
+  "file_locations": {
+    "mamesonson.wasm": "mamesonson.wasm.gz"
+  }
+}

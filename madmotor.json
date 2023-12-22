@@ -1,0 +1,23 @@
+{
+  "name": "Mad Motor",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "madmotor",
+  "wasmjs_filename": "mamemadmotor.js.gz",
+  "wasm_filename": "mamemadmotor.wasm.gz",
+  "file_locations": {
+    "mamemadmotor.wasm": "mamemadmotor.wasm.gz"
+  }
+}

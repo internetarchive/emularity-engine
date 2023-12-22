@@ -1,0 +1,23 @@
+{
+    "name": "Kiki-Ippatsu Mayumi-chan",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        464,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mayumi",
+    "wasmjs_filename": "mamechinsan.js.gz",
+    "wasm_filename": "mamechinsan.wasm.gz",
+    "file_locations": {
+        "mamechinsan.wasm": "mamechinsan.wasm.gz"
+    }
+}

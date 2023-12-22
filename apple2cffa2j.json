@@ -1,0 +1,26 @@
+{
+  "name": "Apple IIe Enhanced with CFFA2 on Top And Joystick",
+  "bios_filenames": [
+    "apple2e.zip"
+  ],
+  "peripherals": [
+    "hard1"  
+  ],
+  "scale": 1,
+  "native_resolution": [
+    560,
+    384
+  ],
+  "extra_args": [
+    "-sl7",
+    "cffa2",
+    "-gameio",
+    "joy"
+  ],
+  "driver": "apple2ee",
+  "wasmjs_filename": "apple2e.js.gz",
+  "wasm_filename": "apple2e.wasm.gz",
+  "file_locations": {
+    "mameapple2e.wasm": "apple2e.wasm.gz"
+  }
+}

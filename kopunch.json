@@ -1,0 +1,23 @@
+{
+  "name": "KO Punch",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    208,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kopunch",
+  "wasmjs_filename": "mamekopunch.js.gz",
+  "wasm_filename": "mamekopunch.wasm.gz",
+  "file_locations": {
+    "mamekopunch.wasm": "mamekopunch.wasm.gz"
+  }
+}

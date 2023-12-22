@@ -1,0 +1,23 @@
+{
+    "name": "Solar Quest (rev 10 8 81)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+	    640,
+	    480
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "solarq",
+    "wasmjs_filename": "mamecinemat.js.gz",
+    "wasm_filename": "mamecinemat.wasm.gz",
+    "file_locations": {
+        "mamecinemat.wasm": "mamecinemat.wasm.gz"
+    }
+}

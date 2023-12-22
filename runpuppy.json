@@ -1,0 +1,23 @@
+{
+    "name": "Run Run Puppy",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args": [
+        "-nodrc"
+    ],
+    "driver": "runpuppy",
+    "wasmjs_filename": "mamekonamigs.js.gz",
+    "wasm_filename": "mamekonamigs.wasm.gz",
+    "file_locations": {
+        "mamekonamigs.wasm": "mamekonamigs.wasm.gz"
+    }
+}

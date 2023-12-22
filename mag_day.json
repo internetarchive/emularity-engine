@@ -1,0 +1,23 @@
+{
+    "name": "A Day In Space (31-03-87)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        248,
+        192 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mag_day",
+    "wasmjs_filename": "mamecedar_magnet.js.gz",
+    "wasm_filename": "mamecedar_magnet.wasm.gz",
+    "file_locations": {
+        "mamecedar_magnet.wasm": "mamecedar_magnet.wasm.gz"
+    }
+}

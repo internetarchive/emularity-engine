@@ -1,0 +1,23 @@
+{
+    "name": "House Mannequin Roppongi Live hen (Japan 870418)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "housemn2",
+    "wasmjs_filename": "mamenbmj8688.js.gz",
+    "wasm_filename": "mamenbmj8688.wasm.gz",
+    "file_locations": {
+        "mamenbmj8688.wasm": "mamenbmj8688.wasm.gz"
+    }
+}

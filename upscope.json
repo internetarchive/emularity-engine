@@ -1,0 +1,23 @@
+{
+    "name": "Up Scope",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        724,
+        483 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "upscope",
+    "wasmjs_filename": "mameupscope.js.gz",
+    "wasm_filename": "mameupscope.wasm.gz",
+    "file_locations": {
+        "mameupscope.wasm": "mameupscope.wasm.gz"
+    }
+}

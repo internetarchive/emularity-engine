@@ -1,0 +1,22 @@
+{
+  "name": "Sega Game 1000",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    280,
+    216
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "sg1000",
+  "wasmjs_filename": "mamesg1000.js.gz",
+  "wasm_filename": "mamesg1000.wasm.gz",
+  "file_locations": {
+    "mamesg1000.wasm": "mamesg1000.wasm.gz"
+  }
+}

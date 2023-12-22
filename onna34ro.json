@@ -1,0 +1,23 @@
+{
+    "name": "Onna Sanshirou - Typhoon Gal",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "onna34ro",
+    "wasmjs_filename": "mameflstory.js.gz",
+    "wasm_filename": "mameflstory.wasm.gz",
+    "file_locations": {
+        "mameflstory.wasm": "mameflstory.wasm.gz"
+    }
+}

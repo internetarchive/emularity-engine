@@ -1,0 +1,23 @@
+{
+    "name": "Ciclone",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        400,
+        300 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ciclone",
+    "wasmjs_filename": "mamehighvdeo.js.gz",
+    "wasm_filename": "mamehighvdeo.wasm.gz",
+    "file_locations": {
+        "mamehighvdeo.wasm": "mamehighvdeo.wasm.gz"
+    }
+}

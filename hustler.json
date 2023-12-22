@@ -1,0 +1,23 @@
+{
+  "name": "Video Hustler",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hustler",
+  "wasmjs_filename": "mamescobra.js.gz",
+  "wasm_filename": "mamescobra.wasm.gz",
+  "file_locations": {
+    "mamescobra.wasm": "mamescobra.wasm.gz"
+  }
+}

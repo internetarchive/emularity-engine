@@ -1,0 +1,24 @@
+{
+  "name": "Hard Yardage (v1.20)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hardyard",
+  "wasmjs_filename": "mameitech32.js.gz",
+  "wasm_filename": "mameitech32.wasm.gz",
+  "file_locations": {
+    "mameitech32.wasm": "mameitech32.wasm.gz"
+  }
+}
+

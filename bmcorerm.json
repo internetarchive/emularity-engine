@@ -1,0 +1,23 @@
+{
+  "name": "bmcorerm",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    488,
+    384 
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "bmcorerm",
+  "wasmjs_filename": "mamedjmain.js.gz",
+  "wasm_filename": "mamedjmain.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamedjmain.wasm.gz"
+  }
+}

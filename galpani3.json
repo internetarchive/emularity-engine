@@ -1,0 +1,23 @@
+{
+    "name": "Gals Panic 3 (Euro)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "galpani3",
+    "wasmjs_filename": "mamegalpani3.js.gz",
+    "wasm_filename": "mamegalpani3.wasm.gz",
+    "file_locations": {
+        "mamegalpani3.wasm": "mamegalpani3.wasm.gz"
+    }
+}

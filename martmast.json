@@ -1,0 +1,23 @@
+{
+    "name": "Martial Masters - Xing Yi Quan (ver. 104, 102, 102US)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        448,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "martmast",
+    "wasmjs_filename": "mamepgm.js.gz",
+    "wasm_filename": "mamepgm.wasm.gz",
+    "file_locations": {
+        "mamepgm.wasm": "mamepgm.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sky Army",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "skyarmy",
+  "wasmjs_filename": "mameskyarmy.js.gz",
+  "wasm_filename": "mameskyarmy.wasm.gz",
+  "file_locations": {
+    "mameskyarmy.wasm": "mameskyarmy.wasm.gz"
+  }
+}

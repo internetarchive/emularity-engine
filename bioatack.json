@@ -1,0 +1,23 @@
+{
+  "name": "Bio Attack",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bioatack",
+  "wasmjs_filename": "mametaitosj.js.gz",
+  "wasm_filename": "mametaitosj.wasm.gz",
+  "file_locations": {
+    "mametaitosj.wasm": "mametaitosj.wasm.gz"
+  }
+}

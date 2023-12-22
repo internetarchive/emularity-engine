@@ -1,0 +1,23 @@
+{
+    "name": "Fruit Bonus 2000 - New Cherry 2000 (Version 4.4E Dual)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        288 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ch2000",
+    "wasmjs_filename": "mamesfbonus.js.gz",
+    "wasm_filename": "mamesfbonus.wasm.gz",
+    "file_locations": {
+        "mamesfbonus.wasm": "mamesfbonus.wasm.gz"
+    }
+}

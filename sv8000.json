@@ -1,0 +1,22 @@
+{
+  "name": "Bandai Super Vision 8000",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "sv8000",
+  "wasmjs_filename": "mamesv8000.js.gz",
+  "wasm_filename": "mamesv8000.wasm.gz",
+  "file_locations": {
+    "mamesv8000.wasm": "mamesv8000.wasm.gz"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Nintendo 64",
+  "bios_filenames": [
+    "n64.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "n64",
+  "wasmjs_filename": "n64.js.gz",
+  "wasm_filename": "n64.wasm.gz",
+  "file_locations": {
+    "n64.wasm": "n64.wasm.gz"
+  }
+}

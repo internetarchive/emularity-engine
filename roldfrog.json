@@ -1,0 +1,24 @@
+{
+  "name": "The Return of Lady Frog (set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    368,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "roldfrog",
+  "wasmjs_filename": "mamesplash.js.gz",
+  "wasm_filename": "mamesplash.wasm.gz",
+  "file_locations": {
+    "mamesplash.wasm": "mamesplash.wasm.gz"
+  }
+}
+

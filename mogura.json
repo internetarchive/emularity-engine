@@ -1,0 +1,24 @@
+{
+  "name": "Mogura Desse (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mogura",
+  "wasmjs_filename": "mamemogura.js.gz",
+  "wasm_filename": "mamemogura.wasm.gz",
+  "file_locations": {
+    "mamemogura.wasm": "mamemogura.wasm.gz"
+  }
+}
+

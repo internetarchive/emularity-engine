@@ -1,0 +1,20 @@
+{
+  "name": "HB-F700F (MSX2)",
+  "bios_filenames": [],
+  "peripherals": [
+    "cart1"
+  ],
+  "native_resolution": [
+    543,
+    567
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "hbf700f",
+  "wasmjs_filename": "mamemsx.js.gz",
+  "wasm_filename": "mamemsx.wasm.gz",
+  "file_locations": {
+    "mamemsx.wasm": "mamemsx.wasm.gz"
+  }
+}

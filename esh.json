@@ -1,0 +1,23 @@
+{
+  "name": "esh",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    704,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "esh",
+  "wasmjs_filename": "mameesh.js.gz",
+  "wasm_filename": "mameesh.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mameesh.wasm.gz"
+  }
+}

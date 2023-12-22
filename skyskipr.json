@@ -1,0 +1,24 @@
+{
+  "name": "Sky Skipper",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    448 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "skyskipr",
+  "wasmjs_filename": "mamepopeye.js.gz",
+  "wasm_filename": "mamepopeye.wasm.gz",
+  "file_locations": {
+    "mamepopeye.wasm": "mamepopeye.wasm.gz"
+  }
+}
+

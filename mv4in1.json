@@ -1,0 +1,23 @@
+{
+    "name": "Mini Vegas 4in1",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        416,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mv4in1",
+    "wasmjs_filename": "mameltcasino.js.gz",
+    "wasm_filename": "mameltcasino.wasm.gz",
+    "file_locations": {
+        "mameltcasino.wasm": "mameltcasino.wasm.gz"
+    }
+}

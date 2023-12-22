@@ -1,0 +1,23 @@
+{
+  "name": "Great Guns",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "greatgun",
+  "wasmjs_filename": "mamemazerbla.js.gz",
+  "wasm_filename": "mamemazerbla.wasm.gz",
+  "file_locations": {
+    "mamemazerbla.wasm": "mamemazerbla.wasm.gz"
+  }
+}

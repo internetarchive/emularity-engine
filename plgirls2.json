@@ -1,0 +1,24 @@
+{
+  "name": "Play Girls 2",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    320
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "plgirls2",
+  "wasmjs_filename": "mametaito_l.js.gz",
+  "wasm_filename": "mametaito_l.wasm.gz",
+  "file_locations": {
+    "mametaito_l.wasm": "mametaito_l.wasm.gz"
+  }
+}
+

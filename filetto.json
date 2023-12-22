@@ -1,0 +1,23 @@
+{
+    "name": "Filetto (v1.05 901009)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        200 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "filetto",
+    "wasmjs_filename": "mamepcxt.js.gz",
+    "wasm_filename": "mamepcxt.wasm.gz",
+    "file_locations": {
+        "mamepcxt.wasm": "mamepcxt.wasm.gz"
+    }
+}

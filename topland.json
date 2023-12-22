@@ -1,0 +1,23 @@
+{
+  "name": "Top Landing ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    400
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "topland",
+  "wasmjs_filename": "mametaitoair.js.gz",
+  "wasm_filename": "mametaitoair.wasm.gz",
+  "file_locations": {
+    "mametaitoair.wasm": "mametaitoair.wasm.gz"
+  }
+}

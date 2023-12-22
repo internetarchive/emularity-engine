@@ -1,0 +1,22 @@
+{
+  "name": "Epoch Game Pocket Computer",
+  "bios_filenames": [
+    "gamepock.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    150,
+    128
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "gamepock",
+  "wasmjs_filename": "mamegamepock.js.gz",
+  "wasm_filename": "mamegamepock.wasm.gz",
+  "file_locations": {
+    "mamegamepock.wasm": "mamegamepock.wasm.gz"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Zackman",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    243,
+    540
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "zackman",
+  "wasmjs_filename": "mamehh_hmcs40.js.gz",
+  "wasm_filename": "mamehh_hmcs40.wasm.gz",
+  "file_locations": {
+    "mamehh_hmcs40.wasm": "mamehh_hmcs40.wasm.gz"
+  }
+}
+

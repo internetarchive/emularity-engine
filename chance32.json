@@ -1,0 +1,23 @@
+{
+    "name": "Chance Thirty Two",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        560,
+        232 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "chance32",
+    "wasmjs_filename": "mamechance32.js.gz",
+    "wasm_filename": "mamechance32.wasm.gz",
+    "file_locations": {
+        "mamechance32.wasm": "mamechance32.wasm.gz"
+    }
+}

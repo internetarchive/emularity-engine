@@ -1,0 +1,22 @@
+{
+  "name": "Atari 5200",
+  "bios_filenames": [
+    "a5200.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    336,
+    225
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "a5200",
+  "file_locations": {
+    "mameatari400.wasm": "mameatari400.wasm.gz"
+  },
+  "wasmjs_filename": "mameatari400.js.gz",
+  "wasm_filename": "mameatari400.wasm.gz"
+}

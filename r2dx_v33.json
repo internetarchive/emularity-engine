@@ -1,0 +1,24 @@
+{
+    "name": "Raiden II New - Raiden DX (newer V33 PCB) (Raiden DX EEPROM)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        240,
+        320
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "r2dx_v33",
+    "wasmjs_filename": "mamer2dx_v33.js.gz",
+    "wasm_filename": "mamer2dx_v33.wasm.gz",
+    "file_locations": {
+        "mamer2dx_v33.wasm": "mamer2dx_v33.wasm.gz"
+    }
+}

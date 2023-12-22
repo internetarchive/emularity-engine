@@ -1,0 +1,23 @@
+{
+    "name": "Arbalester",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        224,
+        384
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "arbalest",
+    "wasmjs_filename": "mameseta.js.gz",
+    "wasm_filename": "mameseta.wasm.gz",
+    "file_locations": {
+        "mameseta.wasm": "mameseta.wasm.gz"
+    }
+}

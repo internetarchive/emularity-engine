@@ -1,0 +1,24 @@
+{
+  "name": "Heavy Smash (Europe version -2)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hvysmsh",
+  "wasmjs_filename": "mamedeco156.js.gz",
+  "wasm_filename": "mamedeco156.wasm.gz",
+  "file_locations": {
+    "mamedeco156.wasm": "mamedeco156.wasm.gz"
+  }
+}
+

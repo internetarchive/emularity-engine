@@ -1,0 +1,23 @@
+{
+    "name": "Final Fight Revenge - Final Revenge (JUET 990930 V1.100)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        352,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ffreveng",
+    "wasmjs_filename": "mamestv.js.gz",
+    "wasm_filename": "mamestv.wasm.gz",
+    "file_locations": {
+        "mamestv.wasm": "mamestv.wasm.gz"
+    }
+}

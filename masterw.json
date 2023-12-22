@@ -1,0 +1,23 @@
+{
+  "name": "Master of Weapon ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    320
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "masterw",
+  "wasmjs_filename": "mametaito_b.js.gz",
+  "wasm_filename": "mametaito_b.wasm.gz",
+  "file_locations": {
+    "mametaito_b.wasm": "mametaito_b.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "SAR - Search And Rescue ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "searchar",
+  "wasmjs_filename": "mamesnk68.js.gz",
+  "wasm_filename": "mamesnk68.wasm.gz",
+  "file_locations": {
+    "mamesnk68.wasm": "mamesnk68.wasm.gz"
+  }
+}

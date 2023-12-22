@@ -1,0 +1,23 @@
+{
+    "name": "Gun Dealer",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        224,
+        256
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "gundealr",
+    "wasmjs_filename": "mamegundealr.js.gz",
+    "wasm_filename": "mamegundealr.wasm.gz",
+    "file_locations": {
+        "mamegundealr.wasm": "mamegundealr.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Hot Rod (World 3 Players Turbo set 1 Floppy Based)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        496,
+        384
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hotrod",
+    "wasmjs_filename": "mamesegas24.js.gz",
+    "wasm_filename": "mamesegas24.wasm.gz",
+    "file_locations": {
+        "mamesegas24.wasm": "mamesegas24.wasm.gz"
+    }
+}

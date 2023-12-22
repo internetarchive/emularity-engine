@@ -1,0 +1,24 @@
+{
+  "name": "U.N. Defense Force: Earth Joker (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "earthjkr",
+  "wasmjs_filename": "mameasuka.js.gz",
+  "wasm_filename": "mameasuka.wasm.gz",
+  "file_locations": {
+    "mameasuka.wasm": "mameasuka.wasm.gz"
+  }
+}
+

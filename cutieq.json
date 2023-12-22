@@ -1,0 +1,24 @@
+{
+  "name": "Cutie Q",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    272,
+    448 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cutieq",
+  "wasmjs_filename": "mamewarpwarp.js.gz",
+  "wasm_filename": "mamewarpwarp.wasm.gz",
+  "file_locations": {
+    "mamewarpwarp.wasm": "mamewarpwarp.wasm.gz"
+  }
+}
+

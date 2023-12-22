@@ -1,0 +1,23 @@
+{
+  "name": "trisport",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    480 
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "trisport",
+  "wasmjs_filename": "mamemcr68.js.gz",
+  "wasm_filename": "mamemcr68.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamemcr68.wasm.gz"
+  }
+}

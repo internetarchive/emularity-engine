@@ -1,0 +1,24 @@
+{
+  "name": "Tac/Scan",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "scale": "1",
+  "native_resolution": [
+    480,
+    640
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tacscan",
+  "wasmjs_filename": "mamesegag80v.js.gz",
+  "wasm_filename": "mamesegag80v.wasm.gz",
+  "file_locations": {
+    "mamesegag80v.wasm": "mamesegag80v.wasm.gz"
+  }
+}

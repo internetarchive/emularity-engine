@@ -1,0 +1,23 @@
+{
+    "name": "Quiz Rouka Ni Tattenasai (Japan, ROM Based)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        496,
+        384 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "qrouka",
+    "wasmjs_filename": "mamesegas24.js.gz",
+    "wasm_filename": "mamesegas24.wasm.gz",
+    "file_locations": {
+        "mamesegas24.wasm": "mamesegas24.wasm.gz"
+    }
+}

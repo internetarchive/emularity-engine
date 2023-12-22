@@ -1,0 +1,23 @@
+{
+    "name": "Star Fire 2",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "starfir2",
+    "wasmjs_filename": "mamestarfire.js.gz",
+    "wasm_filename": "mamestarfire.wasm.gz",
+    "file_locations": {
+        "mamestarfire.wasm": "mamestarfire.wasm.gz"
+    }
+}

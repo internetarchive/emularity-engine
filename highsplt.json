@@ -1,0 +1,24 @@
+{
+  "name": "Space Fever High Splitter (set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "highsplt",
+  "wasmjs_filename": "mamen8080.js.gz",
+  "wasm_filename": "mamen8080.wasm.gz",
+  "file_locations": {
+    "mamen8080.wasm": "mamen8080.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "After Burner II",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "aburner2",
+  "wasmjs_filename": "mamesegaxbd.js.gz",
+  "wasm_filename": "mamesegaxbd.wasm.gz",
+  "file_locations": {
+    "mamesegaxbd.wasm": "mamesegaxbd.wasm.gz"
+  }
+}

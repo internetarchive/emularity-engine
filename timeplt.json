@@ -1,0 +1,23 @@
+{
+  "name": "Time Pilot",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "timeplt",
+  "wasmjs_filename": "mametimeplt.js.gz",
+  "wasm_filename": "mametimeplt.wasm.gz",
+  "file_locations": {
+    "mametimeplt.wasm": "mametimeplt.wasm.gz"
+  }
+}

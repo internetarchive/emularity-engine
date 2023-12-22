@@ -1,0 +1,25 @@
+{
+  "name": "Demon",
+  "arcade": "1",
+  "js_filename": "mamecinemat.js.gz",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "demon",
+  "wasmjs_filename": "mamecinemat_wasm.js.gz",
+  "wasm_filename": "mamecinemat_wasm.wasm.gz",
+  "file_locations": {
+    "mamecinemat_wasm.wasm": "mamecinemat_wasm.wasm.gz"
+  }
+}
+

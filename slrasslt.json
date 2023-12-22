@@ -1,0 +1,23 @@
+{
+    "name": "Solar Assault (ver UAA)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        384 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "slrasslt",
+    "wasmjs_filename": "mamegticlub.js.gz",
+    "wasm_filename": "mamegticlub.wasm.gz",
+    "file_locations": {
+        "mamegticlub.wasm": "mamegticlub.wasm.gz"
+    }
+}

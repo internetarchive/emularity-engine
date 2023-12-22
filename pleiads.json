@@ -1,0 +1,23 @@
+{
+  "name": "Pleiads",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    208,
+    248
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pleiads",
+  "wasmjs_filename": "mamephoenix.js.gz",
+  "wasm_filename": "mamephoenix.wasm.gz",
+  "file_locations": {
+    "mamephoenix.wasm": "mamephoenix.wasm.gz"
+  }
+}

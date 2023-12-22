@@ -1,0 +1,23 @@
+{
+  "name": "Iron Horse",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ironhors",
+  "wasmjs_filename": "mameironhors.js.gz",
+  "wasm_filename": "mameironhors.wasm.gz",
+  "file_locations": {
+    "mameironhors.wasm": "mameironhors.wasm.gz"
+  }
+}

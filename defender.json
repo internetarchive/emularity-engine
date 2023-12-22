@@ -1,0 +1,23 @@
+{
+  "name": "Defender",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    292,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "defender",
+  "wasmjs_filename": "mamewilliams.js.gz",
+  "wasm_filename": "mamewilliams.wasm.gz",
+  "file_locations": {
+    "mamewilliams.wasm": "mamewilliams.wasm.gz"
+  }
+}

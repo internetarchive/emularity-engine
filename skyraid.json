@@ -1,0 +1,23 @@
+{
+  "name": "Sky Raider",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "skyraid",
+  "wasmjs_filename": "mameskyraid.js.gz",
+  "wasm_filename": "mameskyraid.wasm.gz",
+  "file_locations": {
+    "mameskyraid.wasm": "mameskyraid.wasm.gz"
+  }
+}

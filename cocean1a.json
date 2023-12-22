@@ -1,0 +1,23 @@
+{
+    "name": "Ocean to Ocean (Medal) (DECO Cassette MD) (No.10-Ver.1,Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "cocean1a",
+    "wasmjs_filename": "mamedecocass.js.gz",
+    "wasm_filename": "mamedecocass.wasm.gz",
+    "file_locations": {
+        "mamedecocass.wasm": "mamedecocass.wasm.gz"
+    }
+}

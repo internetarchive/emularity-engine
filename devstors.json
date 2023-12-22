@@ -1,0 +1,23 @@
+{
+  "name": "Devastators ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    304
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "devstors",
+  "wasmjs_filename": "mamemainevt.js.gz",
+  "wasm_filename": "mamemainevt.wasm.gz",
+  "file_locations": {
+    "mamemainevt.wasm": "mamemainevt.wasm.gz"
+  }
+}

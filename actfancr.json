@@ -1,0 +1,23 @@
+{
+  "name": "Act-Fancer Cybernetick Hyper Weapon ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "actfancr",
+  "wasmjs_filename": "mameactfancr.js.gz",
+  "wasm_filename": "mameactfancr.wasm.gz",
+  "file_locations": {
+    "mameactfancr.wasm": "mameactfancr.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fairchild Channel F",
+  "bios_filenames": [
+    "channelf.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "scale": 3,
+  "native_resolution": [
+    102,
+    58
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "channelf",
+  "wasmjs_filename": "mamechannelf.js.gz",
+  "wasm_filename": "mamechannelf.wasm.gz",
+  "file_locations": {
+    "mamechannelf.wasm": "mamechannelf.wasm.gz"
+  }
+}

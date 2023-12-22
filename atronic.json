@@ -1,0 +1,23 @@
+{
+  "name": "atronic",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "atronic",
+  "wasmjs_filename": "mameatronic.js.gz",
+  "wasm_filename": "mameatronic.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mameatronic.wasm.gz"
+  }
+}

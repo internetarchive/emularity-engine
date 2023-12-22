@@ -1,0 +1,23 @@
+{
+    "name": "KlonDike+",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        200 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "klondkp",
+    "wasmjs_filename": "mameeolith16.js.gz",
+    "wasm_filename": "mameeolith16.wasm.gz",
+    "file_locations": {
+        "mameeolith16.wasm": "mameeolith16.wasm.gz"
+    }
+}

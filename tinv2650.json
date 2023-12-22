@@ -1,0 +1,23 @@
+{
+    "name": "The Invaders",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        720,
+        768 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tinv2650",
+    "wasmjs_filename": "mamezac2650.js.gz",
+    "wasm_filename": "mamezac2650.wasm.gz",
+    "file_locations": {
+        "mamezac2650.wasm": "mamezac2650.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "nagano98",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "nagano98",
+  "wasmjs_filename": "mamekonamigv.js.gz",
+  "wasm_filename": "mamekonamigv.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamekonamigv.wasm.gz"
+  }
+}

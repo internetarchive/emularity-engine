@@ -1,0 +1,23 @@
+{
+    "name": "Taisen Tokkae-dama (ver JAA)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tokkae",
+    "wasmjs_filename": "mamekonamigx.js.gz",
+    "wasm_filename": "mamekonamigx.wasm.gz",
+    "file_locations": {
+        "mamekonamigx.wasm": "mamekonamigx.wasm.gz"
+    }
+}

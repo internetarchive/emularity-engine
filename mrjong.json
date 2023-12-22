@@ -1,0 +1,24 @@
+{
+  "name": "Mr. Jong (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mrjong",
+  "wasmjs_filename": "mamemrjong.js.gz",
+  "wasm_filename": "mamemrjong.wasm.gz",
+  "file_locations": {
+    "mamemrjong.wasm": "mamemrjong.wasm.gz"
+  }
+}
+

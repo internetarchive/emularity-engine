@@ -1,0 +1,23 @@
+{
+    "name": "Pontoon (Tehkan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ponttehk",
+    "wasmjs_filename": "mamelvcards.js.gz",
+    "wasm_filename": "mamelvcards.wasm.gz",
+    "file_locations": {
+        "mamelvcards.wasm": "mamelvcards.wasm.gz"
+    }
+}

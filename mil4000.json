@@ -1,0 +1,23 @@
+{
+    "name": "Millennium Nuovo 4000 (Version 2.0)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mil4000",
+    "wasmjs_filename": "mamemil4000.js.gz",
+    "wasm_filename": "mamemil4000.wasm.gz",
+    "file_locations": {
+        "mamemil4000.wasm": "mamemil4000.wasm.gz"
+    }
+}

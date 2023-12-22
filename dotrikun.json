@@ -1,0 +1,24 @@
+{
+  "name": "Dottori Kun (new version)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    128,
+    192 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dotrikun",
+  "wasmjs_filename": "mamedotrikun.js.gz",
+  "wasm_filename": "mamedotrikun.wasm.gz",
+  "file_locations": {
+    "mamedotrikun.wasm": "mamedotrikun.wasm.gz"
+  }
+}
+

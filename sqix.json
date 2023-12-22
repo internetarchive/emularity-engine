@@ -1,0 +1,23 @@
+{
+  "name": "Super Qix ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sqix",
+  "wasmjs_filename": "mamesuperqix.js.gz",
+  "wasm_filename": "mamesuperqix.wasm.gz",
+  "file_locations": {
+    "mamesuperqix.wasm": "mamesuperqix.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Hyper Olympic",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hyprolym",
+  "wasmjs_filename": "mametrackfld.js.gz",
+  "wasm_filename": "mametrackfld.wasm.gz",
+  "file_locations": {
+    "mametrackfld.wasm": "mametrackfld.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Slot Poker Saiyuki (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "saiyukip",
+    "wasmjs_filename": "mameumipoker.js.gz",
+    "wasm_filename": "mameumipoker.wasm.gz",
+    "file_locations": {
+        "mameumipoker.wasm": "mameumipoker.wasm.gz"
+    }
+}

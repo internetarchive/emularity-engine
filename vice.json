@@ -1,0 +1,15 @@
+{
+  "name": "VICE.js C64",
+  "native_resolution": [
+    768,
+    544
+  ],
+  "extra_args": [
+    "+sound"
+  ],
+  "js_filename": "vice.js.gz",
+  "file_locations": {
+    
+  },
+  "driver": "vice"
+}

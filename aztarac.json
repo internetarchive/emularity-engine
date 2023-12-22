@@ -1,0 +1,24 @@
+{
+  "name": "Aztarac",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ], 
+  "scale": 1,
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "aztarac",
+  "wasmjs_filename": "mameaztarac.js.gz",
+  "wasm_filename": "mameaztarac.wasm.gz",
+  "file_locations": {
+    "mameaztarac.wasm": "mameaztarac.wasm.gz"
+  }
+}

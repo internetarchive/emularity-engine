@@ -1,0 +1,23 @@
+{
+    "name": "Hana Yayoi (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        243 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hnayayoi",
+    "wasmjs_filename": "mamehnayayoi.js.gz",
+    "wasm_filename": "mamehnayayoi.wasm.gz",
+    "file_locations": {
+        "mamehnayayoi.wasm": "mamehnayayoi.wasm.gz"
+    }
+}

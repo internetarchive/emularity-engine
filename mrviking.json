@@ -1,0 +1,24 @@
+{
+    "name": "Mister Viking",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        448,
+        479
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mrviking",
+    "wasmjs_filename": "mamesystem1.js.gz",
+    "wasm_filename": "mamesystem1.wasm.gz",
+    "file_locations": {
+        "mamesystem1.wasm": "mamesystem1.wasm.gz"
+    }
+}

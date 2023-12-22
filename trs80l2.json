@@ -1,0 +1,23 @@
+{
+  "name": "TRS-80 Model I (Level II Basic)",
+  "bios_filenames": [
+    "trs80l2.zip"
+  ],
+  "peripherals": [
+    "flop1",
+    "flop2"
+  ],
+  "native_resolution": [
+    384,
+    192
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "trs80l2",
+  "wasmjs_filename": "mametrs80.js.gz",
+  "wasm_filename": "mametrs80.wasm.gz",
+  "file_locations": {
+    "mametrs80.wasm": "mametrs80.wasm.gz"
+  }
+}

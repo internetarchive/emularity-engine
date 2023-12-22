@@ -1,0 +1,23 @@
+{
+    "name": "Hi Pai Paradise",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hipai",
+    "wasmjs_filename": "mamealeck64.js.gz",
+    "wasm_filename": "mamealeck64.wasm.gz",
+    "file_locations": {
+        "mamealeck64.wasm": "mamealeck64.wasm.gz"
+    }
+}

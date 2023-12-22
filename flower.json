@@ -1,0 +1,23 @@
+{
+  "name": "Flower",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    272
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "flower",
+  "wasmjs_filename": "mameflower.js.gz",
+  "wasm_filename": "mameflower.wasm.gz",
+  "file_locations": {
+    "mameflower.wasm": "mameflower.wasm.gz"
+  }
+}

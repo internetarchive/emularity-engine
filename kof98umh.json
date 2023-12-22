@@ -1,0 +1,23 @@
+{
+  "name": "kof98umh",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kof98umh",
+  "wasmjs_filename": "mamepgm2.js.gz",
+  "wasm_filename": "mamepgm2.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamepgm2.wasm.gz"
+  }
+}

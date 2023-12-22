@@ -1,0 +1,26 @@
+{
+  "name": "Apple IIe (New Driver)",
+  "bios_filenames": [
+    "apple2e.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    560,
+    384
+  ],
+  "extra_args": [
+    "-sl6",
+    "diskii",
+    "-sl4",
+    "\"\""
+  ],
+  "driver": "apple2e",
+  "wasmjs_filename": "mamenapple2e.js.gz",
+  "wasm_filename": "mamenapple2e.wasm.gz",
+  "file_locations": {
+    "mamenapple2e.wasm": "mamenapple2e.wasm.gz"
+  }
+}

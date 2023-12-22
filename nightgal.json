@@ -1,0 +1,23 @@
+{
+    "name": "Night Gal (Japan 840920 AG 1-00)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "nightgal",
+    "wasmjs_filename": "mamenightgal.js.gz",
+    "wasm_filename": "mamenightgal.wasm.gz",
+    "file_locations": {
+        "mamenightgal.wasm": "mamenightgal.wasm.gz"
+    }
+}

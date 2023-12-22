@@ -1,0 +1,24 @@
+{
+  "name": "Zektor",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "scale": "1",
+  "native_resolution": [
+    640,
+    480
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "zektor",
+  "wasmjs_filename": "mamesegag80v.js.gz",
+  "wasm_filename": "mamesegag80v.wasm.gz",
+  "file_locations": {
+    "mamesegag80v.wasm": "mamesegag80v.wasm.gz"
+  }
+}

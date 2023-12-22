@@ -1,0 +1,24 @@
+{
+    "name": "Woodpecker (set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        224,
+        288
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "woodpeck",
+    "wasmjs_filename": "mamepacman.js.gz",
+    "wasm_filename": "mamepacman.wasm.gz",
+    "file_locations": {
+        "mamepacman.wasm": "mamepacman.wasm.gz"
+    }
+}

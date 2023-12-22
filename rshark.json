@@ -1,0 +1,23 @@
+{
+    "name": "R-Shark",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        240,
+        384
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "rshark",
+    "wasmjs_filename": "mamedooyong.js.gz",
+    "wasm_filename": "mamedooyong.wasm.gz",
+    "file_locations": {
+        "mamedooyong.wasm": "mamedooyong.wasm.gz"
+    }
+}

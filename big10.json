@@ -1,0 +1,23 @@
+{
+    "name": "Big 10",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        543,
+        465 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "big10",
+    "wasmjs_filename": "mamebig10.js.gz",
+    "wasm_filename": "mamebig10.wasm.gz",
+    "file_locations": {
+        "mamebig10.wasm": "mamebig10.wasm.gz"
+    }
+}

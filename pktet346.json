@@ -1,0 +1,23 @@
+{
+    "name": "PK Tetris (v346I)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pktet346",
+    "wasmjs_filename": "mameigspoker.js.gz",
+    "wasm_filename": "mameigspoker.wasm.gz",
+    "file_locations": {
+        "mameigspoker.wasm": "mameigspoker.wasm.gz"
+    }
+}

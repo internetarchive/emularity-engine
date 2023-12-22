@@ -1,0 +1,24 @@
+{
+  "name": "Ajax",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    304,
+    448 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ajax",
+  "wasmjs_filename": "mameajax.js.gz",
+  "wasm_filename": "mameajax.wasm.gz",
+  "file_locations": {
+    "mameajax.wasm": "mameajax.wasm.gz"
+  }
+}
+

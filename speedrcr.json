@@ -1,0 +1,23 @@
+{
+    "name": "Speed Racer",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "speedrcr",
+    "wasmjs_filename": "mamenamcofl.js.gz",
+    "wasm_filename": "mamenamcofl.wasm.gz",
+    "file_locations": {
+        "mamenamcofl.wasm": "mamenamcofl.wasm.gz"
+    }
+}

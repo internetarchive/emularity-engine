@@ -1,0 +1,23 @@
+{
+  "name": "Bogey Manor",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bogeyman",
+  "wasmjs_filename": "mamebogeyman.js.gz",
+  "wasm_filename": "mamebogeyman.wasm.gz",
+  "file_locations": {
+    "mamebogeyman.wasm": "mamebogeyman.wasm.gz"
+  }
+}

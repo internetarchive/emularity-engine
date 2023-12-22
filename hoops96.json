@@ -1,0 +1,23 @@
+{
+    "name": "Hoops '96 (Europe-Asia 2.0)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hoops96",
+    "wasmjs_filename": "mamedeco_mlc.js.gz",
+    "wasm_filename": "mamedeco_mlc.wasm.gz",
+    "file_locations": {
+        "mamedeco_mlc.wasm": "mamedeco_mlc.wasm.gz"
+    }
+}

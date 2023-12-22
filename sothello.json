@@ -1,0 +1,23 @@
+{
+    "name": "Super Othello",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        543,
+        465 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sothello",
+    "wasmjs_filename": "mamesothello.js.gz",
+    "wasm_filename": "mamesothello.wasm.gz",
+    "file_locations": {
+        "mamesothello.wasm": "mamesothello.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Firetruck",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    320
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "firetrk",
+  "wasmjs_filename": "mamefiretrk.js.gz",
+  "wasm_filename": "mamefiretrk.wasm.gz",
+  "file_locations": {
+    "mamefiretrk.wasm": "mamefiretrk.wasm.gz"
+  }
+}

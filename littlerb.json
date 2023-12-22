@@ -1,0 +1,23 @@
+{
+    "name": "Little Robin",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        337,
+        245 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "littlerb",
+    "wasmjs_filename": "mamelittlerb.js.gz",
+    "wasm_filename": "mamelittlerb.wasm.gz",
+    "file_locations": {
+        "mamelittlerb.wasm": "mamelittlerb.wasm.gz"
+    }
+}

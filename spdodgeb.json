@@ -1,0 +1,23 @@
+{
+  "name": "Super Dodge Ball ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "spdodgeb",
+  "wasmjs_filename": "mamespdodgeb.js.gz",
+  "wasm_filename": "mamespdodgeb.wasm.gz",
+  "file_locations": {
+    "mamespdodgeb.wasm": "mamespdodgeb.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Man Guan Daheng (Taiwan, V125T1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mgdh",
+    "wasmjs_filename": "mameigs017.js.gz",
+    "wasm_filename": "mameigs017.wasm.gz",
+    "file_locations": {
+        "mameigs017.wasm": "mameigs017.wasm.gz"
+    }
+}

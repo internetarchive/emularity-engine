@@ -1,0 +1,24 @@
+{
+  "name": "Mini Vaders",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "minivadr",
+  "wasmjs_filename": "mameminivadr.js.gz",
+  "wasm_filename": "mameminivadr.wasm.gz",
+  "file_locations": {
+    "mameminivadr.wasm": "mameminivadr.wasm.gz"
+  }
+}
+

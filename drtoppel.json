@@ -1,0 +1,23 @@
+{
+  "name": "Dr. Toppel's Adventure",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "drtoppel",
+  "wasmjs_filename": "mametnzs.js.gz",
+  "wasm_filename": "mametnzs.wasm.gz",
+  "file_locations": {
+    "mametnzs.wasm": "mametnzs.wasm.gz"
+  }
+}

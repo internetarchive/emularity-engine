@@ -1,0 +1,24 @@
+{
+  "name": "Mosaic",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mosaic",
+  "wasmjs_filename": "mamemosaic.js.gz",
+  "wasm_filename": "mamemosaic.wasm.gz",
+  "file_locations": {
+    "mamemosaic.wasm": "mamemosaic.wasm.gz"
+  }
+}
+

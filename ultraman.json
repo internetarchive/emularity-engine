@@ -1,0 +1,24 @@
+{
+  "name": "Ultraman (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ultraman",
+  "wasmjs_filename": "mameultraman.js.gz",
+  "wasm_filename": "mameultraman.wasm.gz",
+  "file_locations": {
+    "mameultraman.wasm": "mameultraman.wasm.gz"
+  }
+}
+

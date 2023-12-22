@@ -1,0 +1,24 @@
+{
+  "name": "TI-89",
+  "bios_filenames": [
+     "ti89.zip"
+   ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    500,
+    1000 
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "ti89",
+  "wasmjs_filename": "ti89.js.gz",
+  "wasm_filename": "ti89.wasm.gz",
+  "file_locations": {
+    "ti89.wasm": "ti89.wasm.gz"
+  }
+}

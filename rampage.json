@@ -1,0 +1,25 @@
+{
+  "name": "Rampage (Rev 3 8-27-86)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    512,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "rampage",
+  "wasmjs_filename": "mamemcr3.js.gz",
+  "wasm_filename": "mamemcr3.wasm.gz",
+  "file_locations": {
+    "mamemcr3.wasm": "mamemcr3.wasm.gz"
+  }
+}
+

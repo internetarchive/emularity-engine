@@ -1,0 +1,23 @@
+{
+    "name": "Quiz Gekiretsu Scramble (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "gekiretu",
+    "wasmjs_filename": "mamequizdna.js.gz",
+    "wasm_filename": "mamequizdna.wasm.gz",
+    "file_locations": {
+        "mamequizdna.wasm": "mamequizdna.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Beatmania III",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args": [
+        "-nodrc"
+    ],
+    "driver": "bm3",
+    "wasmjs_filename": "mamefirebeat.js.gz",
+    "wasm_filename": "mamefirebeat.wasm.gz",
+    "file_locations": {
+        "mamefirebeat.wasm": "mamefirebeat.wasm.gz"
+    }
+}

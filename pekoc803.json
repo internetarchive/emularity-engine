@@ -1,0 +1,23 @@
+{
+    "name": "Player's Edge Plus (PP0803 A5W-A6F) Joker Poker",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        200 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pekoc803",
+    "wasmjs_filename": "mamepeplus.js.gz",
+    "wasm_filename": "mamepeplus.wasm.gz",
+    "file_locations": {
+        "mamepeplus.wasm": "mamepeplus.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Domino Block",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dominob",
+  "wasmjs_filename": "mamedominob.js.gz",
+  "wasm_filename": "mamedominob.wasm.gz",
+  "file_locations": {
+    "mamedominob.wasm": "mamedominob.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "Mr. Do",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    192,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "mrdo",
+  "wasmjs_filename": "mamemrdo.js.gz",
+  "wasm_filename": "mamemrdo.wasm.gz",
+  "file_locations": {
+    "mamemrdo.wasm": "mamemrdo.wasm.gz"
+  }
+}

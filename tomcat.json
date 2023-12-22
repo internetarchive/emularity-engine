@@ -1,0 +1,24 @@
+{
+  "name": "TomCat (prototype)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tomcat",
+  "wasmjs_filename": "mametomcat.js.gz",
+  "wasm_filename": "mametomcat.wasm.gz",
+  "file_locations": {
+    "mametomcat.wasm": "mametomcat.wasm.gz"
+  }
+}
+

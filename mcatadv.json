@@ -1,0 +1,24 @@
+{
+  "name": "Magical Cat Adventure",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mcatadv",
+  "wasmjs_filename": "mamemcatadv.js.gz",
+  "wasm_filename": "mamemcatadv.wasm.gz",
+  "file_locations": {
+    "mamemcatadv.wasm": "mamemcatadv.wasm.gz"
+  }
+}
+

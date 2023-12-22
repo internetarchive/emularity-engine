@@ -1,0 +1,24 @@
+{
+  "name": "Balloon Brothers",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ballbros",
+  "wasmjs_filename": "mametaito_x.js.gz",
+  "wasm_filename": "mametaito_x.wasm.gz",
+  "file_locations": {
+    "mametaito_x.wasm": "mametaito_x.wasm.gz"
+  }
+}
+

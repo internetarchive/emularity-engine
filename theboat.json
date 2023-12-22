@@ -1,0 +1,23 @@
+{
+    "name": "The Boat",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        543,
+        465 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "theboat",
+    "wasmjs_filename": "mametvg01.js.gz",
+    "wasm_filename": "mametvg01.wasm.gz",
+    "file_locations": {
+        "mametvg01.wasm": "mametvg01.wasm.gz"
+    }
+}

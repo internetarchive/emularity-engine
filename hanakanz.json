@@ -1,0 +1,23 @@
+{
+    "name": "Hana Kanzashi (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        336,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hanakanz",
+    "wasmjs_filename": "mameddenlovr.js.gz",
+    "wasm_filename": "mameddenlovr.wasm.gz",
+    "file_locations": {
+        "mameddenlovr.wasm": "mameddenlovr.wasm.gz"
+    }
+}

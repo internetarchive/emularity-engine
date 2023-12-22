@@ -1,0 +1,23 @@
+{
+    "name": "Photo Y2K - Chaoji Bi Yi Bi - Dajia Lai Zhao Cha - Real and Fake (ver. 105)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        448,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "photoy2k",
+    "wasmjs_filename": "mamepgm.js.gz",
+    "wasm_filename": "mamepgm.wasm.gz",
+    "file_locations": {
+        "mamepgm.wasm": "mamepgm.wasm.gz"
+    }
+}

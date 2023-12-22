@@ -1,0 +1,22 @@
+{
+  "name": "Atari2600 PAL",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    352,
+    259
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "a2600p",
+  "file_locations": {
+    "mamea2600.wasm": "mamea2600.wasm.gz"
+  },
+  "wasmjs_filename": "mamea2600.js.gz",
+  "wasm_filename": "mamea2600.wasm.gz"
+}

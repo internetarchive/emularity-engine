@@ -1,0 +1,23 @@
+{
+  "name": "Pinball Action",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pbaction",
+  "wasmjs_filename": "mamepbaction.js.gz",
+  "wasm_filename": "mamepbaction.wasm.gz",
+  "file_locations": {
+    "mamepbaction.wasm": "mamepbaction.wasm.gz"
+  }
+}

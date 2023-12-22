@@ -1,0 +1,23 @@
+{
+    "name": "Tic Tac Trivia (6221-23, U5-0C Horizontal)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tictac",
+    "wasmjs_filename": "mamemerit.js.gz",
+    "wasm_filename": "mamemerit.wasm.gz",
+    "file_locations": {
+        "mamemerit.wasm": "mamemerit.wasm.gz"
+    }
+}

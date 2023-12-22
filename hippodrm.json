@@ -1,0 +1,23 @@
+{
+  "name": "Hippodrome ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hippodrm",
+  "wasmjs_filename": "mamedec0.js.gz",
+  "wasm_filename": "mamedec0.wasm.gz",
+  "file_locations": {
+    "mamedec0.wasm": "mamedec0.wasm.gz"
+  }
+}

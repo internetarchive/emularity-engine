@@ -1,0 +1,23 @@
+{
+  "name": "The Amazing Adventures of Mr. F. Lea",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    248,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mrflea",
+  "wasmjs_filename": "mamemrflea.js.gz",
+  "wasm_filename": "mamemrflea.wasm.gz",
+  "file_locations": {
+    "mamemrflea.wasm": "mamemrflea.wasm.gz"
+  }
+}

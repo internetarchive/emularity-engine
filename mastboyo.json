@@ -1,0 +1,23 @@
+{
+    "name": "Master Boy (1987, Z80 hardware, Covielsa, set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mastboyo",
+    "wasmjs_filename": "mamemastboyo.js.gz",
+    "wasm_filename": "mamemastboyo.wasm.gz",
+    "file_locations": {
+        "mamemastboyo.wasm": "mamemastboyo.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Ojanko High School (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ojankohs",
+    "wasmjs_filename": "mameojankohs.js.gz",
+    "wasm_filename": "mameojankohs.wasm.gz",
+    "file_locations": {
+        "mameojankohs.wasm": "mameojankohs.wasm.gz"
+    }
+}

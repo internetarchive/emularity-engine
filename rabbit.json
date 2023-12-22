@@ -1,0 +1,23 @@
+{
+    "name": "Rabbit (Asia 3-6)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "rabbit",
+    "wasmjs_filename": "mamerabbit.js.gz",
+    "wasm_filename": "mamerabbit.wasm.gz",
+    "file_locations": {
+        "mamerabbit.wasm": "mamerabbit.wasm.gz"
+    }
+}

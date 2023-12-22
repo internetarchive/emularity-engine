@@ -1,0 +1,24 @@
+{
+  "name": "Multi Champ Deluxe (ver. 0106 06-01-2000)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mchampdx",
+  "wasmjs_filename": "mameesd16.js.gz",
+  "wasm_filename": "mameesd16.wasm.gz",
+  "file_locations": {
+    "mameesd16.wasm": "mameesd16.wasm.gz"
+  }
+}
+

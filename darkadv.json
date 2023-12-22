@@ -1,0 +1,23 @@
+{
+  "name": "Dark Adventure",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "darkadv",
+  "wasmjs_filename": "mametwin16.js.gz",
+  "wasm_filename": "mametwin16.wasm.gz",
+  "file_locations": {
+    "mametwin16.wasm": "mametwin16.wasm.gz"
+  }
+}

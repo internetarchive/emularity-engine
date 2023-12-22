@@ -1,0 +1,24 @@
+{
+  "name": "Hammerin' Harry (World M81)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hharry",
+  "wasmjs_filename": "mamem72.js.gz",
+  "wasm_filename": "mamem72.wasm.gz",
+  "file_locations": {
+    "mamem72.wasm": "mamem72.wasm.gz"
+  }
+}
+

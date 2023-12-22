@@ -1,0 +1,23 @@
+{
+    "name": "Ken Sei Mogura: Street Fighter II (Japan 940418 Ver 1.00)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        224
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "kenseim",
+    "wasmjs_filename": "mamekenseim.js.gz",
+    "wasm_filename": "mamekenseim.wasm.gz",
+    "file_locations": {
+        "mamekenseim.wasm": "mamekenseim.wasm.gz"
+    }
+}

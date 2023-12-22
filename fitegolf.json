@@ -1,0 +1,23 @@
+{
+  "name": "Fighting Golf ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    216
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "fitegolf",
+  "wasmjs_filename": "mamesnk.js.gz",
+  "wasm_filename": "mamesnk.wasm.gz",
+  "file_locations": {
+    "mamesnk.wasm": "mamesnk.wasm.gz"
+  }
+}

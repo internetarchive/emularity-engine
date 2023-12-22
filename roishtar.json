@@ -1,0 +1,23 @@
+{
+  "name": "The Return of Ishtar",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "roishtar",
+  "wasmjs_filename": "mamenamcos86.js.gz",
+  "wasm_filename": "mamenamcos86.wasm.gz",
+  "file_locations": {
+    "mamenamcos86.wasm": "mamenamcos86.wasm.gz"
+  }
+}

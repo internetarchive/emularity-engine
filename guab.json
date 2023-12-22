@@ -1,0 +1,23 @@
+{
+    "name": "Give us a Break",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "guab",
+    "wasmjs_filename": "mameguab.js.gz",
+    "wasm_filename": "mameguab.wasm.gz",
+    "file_locations": {
+        "mameguab.wasm": "mameguab.wasm.gz"
+    }
+}

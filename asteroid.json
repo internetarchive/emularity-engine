@@ -1,0 +1,26 @@
+{
+  "name": "Asteroids (rev 4)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    0,
+    0 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "asteroid",
+  "wasmjs_filename": "mameasteroid.js.gz",
+  "wasm_filename": "mameasteroid.wasm.gz",
+  "file_locations": {
+    "mameasteroid.wasm": "mameasteroid.wasm.gz"
+  },
+  "mame_sources": [
+    "src/mame/audio/llander.cpp"
+  ]
+}

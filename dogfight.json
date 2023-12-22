@@ -1,0 +1,23 @@
+{
+  "name": "Dog Fight (Thunderbolt)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dogfight",
+  "wasmjs_filename": "mamezodiack.js.gz",
+  "wasm_filename": "mamezodiack.wasm.gz",
+  "file_locations": {
+    "mamezodiack.wasm": "mamezodiack.wasm.gz"
+  }
+}

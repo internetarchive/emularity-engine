@@ -1,0 +1,23 @@
+{
+  "name": "Fire Trap",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "firetrap",
+  "wasmjs_filename": "mamefiretrap.js.gz",
+  "wasm_filename": "mamefiretrap.wasm.gz",
+  "file_locations": {
+    "mamefiretrap.wasm": "mamefiretrap.wasm.gz"
+  }
+}

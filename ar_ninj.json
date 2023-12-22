@@ -1,0 +1,24 @@
+{
+  "name": "Ninja Mission (Arcadia set 1 V 2.5)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    724,
+    483 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ar_ninj",
+  "wasmjs_filename": "mamearsystems.js.gz",
+  "wasm_filename": "mamearsystems.wasm.gz",
+  "file_locations": {
+    "mamearsystems.wasm": "mamearsystems.wasm.gz"
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+  "name": "Raiden (set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "raiden",
+  "wasmjs_filename": "mameraiden.js.gz",
+  "wasm_filename": "mameraiden.wasm.gz",
+  "file_locations": {
+    "mameraiden.wasm": "mameraiden.wasm.gz"
+  }
+}
+

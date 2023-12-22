@@ -1,0 +1,23 @@
+{
+  "name": "Finalizer - Super Transformation",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    272
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "finalizr",
+  "wasmjs_filename": "mamefinalizr.js.gz",
+  "wasm_filename": "mamefinalizr.wasm.gz",
+  "file_locations": {
+    "mamefinalizr.wasm": "mamefinalizr.wasm.gz"
+  }
+}

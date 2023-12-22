@@ -1,0 +1,24 @@
+{
+    "name": "World Wars (World?)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        224,
+        400
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "worldwar",
+    "wasmjs_filename": "mamesnk.js.gz",
+    "wasm_filename": "mamesnk.wasm.gz",
+    "file_locations": {
+        "mamesnk.wasm": "mamesnk.wasm.gz"
+    }
+}

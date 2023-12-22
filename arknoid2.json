@@ -1,0 +1,23 @@
+{
+  "name": "Arkanoid - Revenge of DOH",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "arknoid2",
+  "wasmjs_filename": "mametnzs.js.gz",
+  "wasm_filename": "mametnzs.wasm.gz",
+  "file_locations": {
+    "mametnzs.wasm": "mametnzs.wasm.gz"
+  }
+}

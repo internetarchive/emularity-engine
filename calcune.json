@@ -1,0 +1,24 @@
+{
+  "name": "Calcune (Japan prototype)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "calcune",
+  "wasmjs_filename": "mamecalcune.js.gz",
+  "wasm_filename": "mamecalcune.wasm.gz",
+  "file_locations": {
+    "mamecalcune.wasm": "mamecalcune.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+    "name": "Run and Gun (ver EAA 1993 10.8)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        416,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "rungun",
+    "wasmjs_filename": "mamerungun.js.gz",
+    "wasm_filename": "mamerungun.wasm.gz",
+    "file_locations": {
+        "mamerungun.wasm": "mamerungun.wasm.gz"
+    }
+}

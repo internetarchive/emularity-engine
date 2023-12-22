@@ -1,0 +1,23 @@
+{
+  "name": "Tiger Heli",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    280
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tigerh",
+  "wasmjs_filename": "mameslapfght.js.gz",
+  "wasm_filename": "mameslapfght.wasm.gz",
+  "file_locations": {
+    "mameslapfght.wasm": "mameslapfght.wasm.gz"
+  }
+}

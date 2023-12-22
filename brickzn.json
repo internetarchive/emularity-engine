@@ -1,0 +1,23 @@
+{
+    "name": "Brick Zone (v6.0 Joystick)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        224,
+        256
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "brickzn",
+    "wasmjs_filename": "mamesuna8.js.gz",
+    "wasm_filename": "mamesuna8.wasm.gz",
+    "file_locations": {
+        "mamesuna8.wasm": "mamesuna8.wasm.gz"
+    }
+}

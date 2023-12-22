@@ -1,0 +1,23 @@
+{
+  "name": "Commando",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "commsega",
+  "wasmjs_filename": "mamerallyx.js.gz",
+  "wasm_filename": "mamerallyx.wasm.gz",
+  "file_locations": {
+    "mamerallyx.wasm": "mamerallyx.wasm.gz"
+  }
+}

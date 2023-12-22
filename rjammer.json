@@ -1,0 +1,23 @@
+{
+  "name": "Roller Jammer",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "rjammer",
+  "wasmjs_filename": "mametubep.js.gz",
+  "wasm_filename": "mametubep.wasm.gz",
+  "file_locations": {
+    "mametubep.wasm": "mametubep.wasm.gz"
+  }
+}

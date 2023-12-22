@@ -1,0 +1,23 @@
+{
+  "name": "gammagic",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "gammagic",
+  "wasmjs_filename": "mamegammagic.js.gz",
+  "wasm_filename": "mamegammagic.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamegammagic.wasm.gz"
+  }
+}

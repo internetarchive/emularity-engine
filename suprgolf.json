@@ -1,0 +1,23 @@
+{
+    "name": "Super Crowns Golf (World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        192 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "suprgolf",
+    "wasmjs_filename": "mamesuprgolf.js.gz",
+    "wasm_filename": "mamesuprgolf.wasm.gz",
+    "file_locations": {
+        "mamesuprgolf.wasm": "mamesuprgolf.wasm.gz"
+    }
+}

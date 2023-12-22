@@ -1,0 +1,23 @@
+{
+  "name": "Champion Baseball",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "champbas",
+  "wasmjs_filename": "mamechampbas.js.gz",
+  "wasm_filename": "mamechampbas.wasm.gz",
+  "file_locations": {
+    "mamechampbas.wasm": "mamechampbas.wasm.gz"
+  }
+}

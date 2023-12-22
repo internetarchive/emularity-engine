@@ -1,0 +1,23 @@
+{
+    "name": "Turbo Force (World set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        240,
+        352
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "turbofrc",
+    "wasmjs_filename": "mameaerofgt.js.gz",
+    "wasm_filename": "mameaerofgt.wasm.gz",
+    "file_locations": {
+        "mameaerofgt.wasm": "mameaerofgt.wasm.gz"
+    }
+}

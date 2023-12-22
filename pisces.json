@@ -1,0 +1,24 @@
+{
+    "name": "Pisces",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        448,
+        768
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pisces",
+    "wasmjs_filename": "mamegalaxian.js.gz",
+    "wasm_filename": "mamegalaxian.wasm.gz",
+    "file_locations": {
+        "mamegalaxian.wasm": "mamegalaxian.wasm.gz"
+    }
+}

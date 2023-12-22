@@ -1,0 +1,24 @@
+{
+    "name": "American Horseshoes (US)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        224,
+        320
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "horshoes",
+    "wasmjs_filename": "mametaito_l.js.gz",
+    "wasm_filename": "mametaito_l.wasm.gz",
+    "file_locations": {
+        "mametaito_l.wasm": "mametaito_l.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sunset Riders (4 Players ver EAC)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ssriders",
+    "wasmjs_filename": "mametmnt.js.gz",
+    "wasm_filename": "mametmnt.wasm.gz",
+    "file_locations": {
+        "mametmnt.wasm": "mametmnt.wasm.gz"
+    }
+}

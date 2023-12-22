@@ -1,0 +1,23 @@
+{
+  "name": "mach3",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    704,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mach3",
+  "wasmjs_filename": "mamegottlieb.js.gz",
+  "wasm_filename": "mamegottlieb.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamegottlieb.wasm.gz"
+  }
+}

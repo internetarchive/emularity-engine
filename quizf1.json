@@ -1,0 +1,23 @@
+{
+    "name": "Quiz F1 1-2 Finish (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "quizf1",
+    "wasmjs_filename": "mamem90.js.gz",
+    "wasm_filename": "mamem90.wasm.gz",
+    "file_locations": {
+        "mamem90.wasm": "mamem90.wasm.gz"
+    }
+}

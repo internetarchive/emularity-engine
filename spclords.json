@@ -1,0 +1,24 @@
+{
+  "name": "Space Lords (rev C)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "spclords",
+  "wasmjs_filename": "mameatarigx2.js.gz",
+  "wasm_filename": "mameatarigx2.wasm.gz",
+  "file_locations": {
+    "mameatarigx2.wasm": "mameatarigx2.wasm.gz"
+  }
+}
+

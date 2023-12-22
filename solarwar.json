@@ -1,0 +1,24 @@
+{
+  "name": "Solar War",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    304,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "solarwar",
+  "wasmjs_filename": "mamevideopin.js.gz",
+  "wasm_filename": "mamevideopin.wasm.gz",
+  "file_locations": {
+    "mamevideopin.wasm": "mamevideopin.wasm.gz"
+  }
+}
+

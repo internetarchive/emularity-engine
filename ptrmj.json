@@ -1,0 +1,23 @@
+{
+    "name": "PT Reach Mahjong (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ptrmj",
+    "wasmjs_filename": "mamem14.js.gz",
+    "wasm_filename": "mamem14.wasm.gz",
+    "file_locations": {
+        "mamem14.wasm": "mamem14.wasm.gz"
+    }
+}

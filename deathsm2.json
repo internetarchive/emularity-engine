@@ -1,0 +1,23 @@
+{
+  "name": "deathsm2",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    200 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "deathsm2",
+  "wasmjs_filename": "mamecavepc.js.gz",
+  "wasm_filename": "mamecavepc.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamecavepc.wasm.gz"
+  }
+}

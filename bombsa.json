@@ -1,0 +1,24 @@
+{
+    "name": "Bombs Away (prototype)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        224,
+        256
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "bombsa",
+    "wasmjs_filename": "mamepsychic5.js.gz",
+    "wasm_filename": "mamepsychic5.wasm.gz",
+    "file_locations": {
+        "mamepsychic5.wasm": "mamepsychic5.wasm.gz"
+    }
+}

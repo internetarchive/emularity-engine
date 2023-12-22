@@ -1,0 +1,23 @@
+{
+    "name": "Card Line",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "cardline",
+    "wasmjs_filename": "mamecardline.js.gz",
+    "wasm_filename": "mamecardline.wasm.gz",
+    "file_locations": {
+        "mamecardline.wasm": "mamecardline.wasm.gz"
+    }
+}

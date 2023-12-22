@@ -1,0 +1,23 @@
+{
+  "name": "Viper",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "viper",
+  "wasmjs_filename": "mameleland.js.gz",
+  "wasm_filename": "mameleland.wasm.gz",
+  "file_locations": {
+    "mameleland.wasm": "mameleland.wasm.gz"
+  }
+}

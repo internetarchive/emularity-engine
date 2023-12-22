@@ -1,0 +1,23 @@
+{
+  "name": "Skull &amp; Crossbones ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    672,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "skullxbo",
+  "wasmjs_filename": "mameskullxbo.js.gz",
+  "wasm_filename": "mameskullxbo.wasm.gz",
+  "file_locations": {
+    "mameskullxbo.wasm": "mameskullxbo.wasm.gz"
+  }
+}

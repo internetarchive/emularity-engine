@@ -1,0 +1,24 @@
+{
+  "name": "Gaplus",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    288
+  ],
+  "extra_args": [
+    "-samplepath",
+    "."
+  ],
+  "driver": "gaplus",
+  "wasmjs_filename": "mamegaplus.js.gz",
+  "wasm_filename": "mamegaplus.wasm.gz",
+  "file_locations": {
+    "mamegaplus.wasm": "mamegaplus.wasm.gz"
+  }
+}

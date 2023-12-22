@@ -1,0 +1,23 @@
+{
+  "name": "quizard3",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    192,
+    22 
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "quizard3",
+  "wasmjs_filename": "mamecdi.js.gz",
+  "wasm_filename": "mamecdi.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamecdi.wasm.gz"
+  }
+}

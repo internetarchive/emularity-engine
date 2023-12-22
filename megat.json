@@ -1,0 +1,23 @@
+{
+    "name": "Pit Boss Megatouch (9234-20-01)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        543,
+        465 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "megat",
+    "wasmjs_filename": "mamemeritm.js.gz",
+    "wasm_filename": "mamemeritm.wasm.gz",
+    "file_locations": {
+        "mamemeritm.wasm": "mamemeritm.wasm.gz"
+    }
+}

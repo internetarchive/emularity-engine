@@ -1,0 +1,23 @@
+{
+    "name": "Mega Play BIOS",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        ,
+         
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "megaplay",
+    "wasmjs_filename": "mamemegaplay.js.gz",
+    "wasm_filename": "mamemegaplay.wasm.gz",
+    "file_locations": {
+        "mamemegaplay.wasm": "mamemegaplay.wasm.gz"
+    }
+}

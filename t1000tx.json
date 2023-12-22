@@ -1,0 +1,23 @@
+{
+  "name": "Tandy 1000 TX",
+  "bios_filenames": [
+    "t1000tx.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    640,
+    400
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "t1000tx",
+  "wasmjs_filename": "mamet1000tx.js.gz",
+  "wasm_filename": "mamet1000tx.wasm.gz",
+  "file_locations": {
+    "mamet1000tx.wasm": "mamet1000tx.wasm.gz"
+  }
+}

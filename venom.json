@@ -1,0 +1,23 @@
+{
+    "name": "Venom THENAMEamp; Spider-Man - Separation Anxiety (SNES bootleg)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        225 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "venom",
+    "wasmjs_filename": "mamesnesb.js.gz",
+    "wasm_filename": "mamesnesb.wasm.gz",
+    "file_locations": {
+        "mamesnesb.wasm": "mamesnesb.wasm.gz"
+    }
+}

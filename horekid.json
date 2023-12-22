@@ -1,0 +1,23 @@
+{
+    "name": "Kid no Hore Hore Daisakusen",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        224,
+        256
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "horekid",
+    "wasmjs_filename": "mameterracre.js.gz",
+    "wasm_filename": "mameterracre.wasm.gz",
+    "file_locations": {
+        "mameterracre.wasm": "mameterracre.wasm.gz"
+    }
+}

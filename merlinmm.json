@@ -1,0 +1,24 @@
+{
+  "name": "Merlins Money Maze",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "merlinmm",
+  "wasmjs_filename": "mamepingpong.js.gz",
+  "wasm_filename": "mamepingpong.wasm.gz",
+  "file_locations": {
+    "mamepingpong.wasm": "mamepingpong.wasm.gz"
+  }
+}
+

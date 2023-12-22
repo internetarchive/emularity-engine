@@ -1,0 +1,23 @@
+{
+  "name": "Blueprint",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "blueprnt",
+  "wasmjs_filename": "mameblueprnt.js.gz",
+  "wasm_filename": "mameblueprnt.wasm.gz",
+  "file_locations": {
+    "mameblueprnt.wasm": "mameblueprnt.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Target Hits (ver 1.1 Checksum 5152)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    232 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "targeth",
+  "wasmjs_filename": "mametargeth.js.gz",
+  "wasm_filename": "mametargeth.wasm.gz",
+  "file_locations": {
+    "mametargeth.wasm": "mametargeth.wasm.gz"
+  }
+}
+

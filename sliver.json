@@ -1,0 +1,23 @@
+{
+    "name": "Sliver (set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        368,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sliver",
+    "wasmjs_filename": "mamesliver.js.gz",
+    "wasm_filename": "mamesliver.wasm.gz",
+    "file_locations": {
+        "mamesliver.wasm": "mamesliver.wasm.gz"
+    }
+}

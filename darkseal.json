@@ -1,0 +1,24 @@
+{
+  "name": "Dark Seal (World revision 3)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "darkseal",
+  "wasmjs_filename": "mamedarkseal.js.gz",
+  "wasm_filename": "mamedarkseal.wasm.gz",
+  "file_locations": {
+    "mamedarkseal.wasm": "mamedarkseal.wasm.gz"
+  }
+}
+

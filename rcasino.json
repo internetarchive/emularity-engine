@@ -1,0 +1,23 @@
+{
+    "name": "Royal Casino (D-2608208A1-2)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "rcasino",
+    "wasmjs_filename": "mamecaswin.js.gz",
+    "wasm_filename": "mamecaswin.wasm.gz",
+    "file_locations": {
+        "mamecaswin.wasm": "mamecaswin.wasm.gz"
+    }
+}

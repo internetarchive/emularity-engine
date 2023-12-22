@@ -1,0 +1,23 @@
+{
+    "name": "Ying Hua Lian 2.0 (China, Ver. 1.02)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "saklove",
+    "wasmjs_filename": "mamesubsino2.js.gz",
+    "wasm_filename": "mamesubsino2.wasm.gz",
+    "file_locations": {
+        "mamesubsino2.wasm": "mamesubsino2.wasm.gz"
+    }
+}

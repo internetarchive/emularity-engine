@@ -1,0 +1,23 @@
+{
+  "name": "Pooyan",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pooyan",
+  "wasmjs_filename": "mamepooyan.js.gz",
+  "wasm_filename": "mamepooyan.wasm.gz",
+  "file_locations": {
+    "mamepooyan.wasm": "mamepooyan.wasm.gz"
+  }
+}

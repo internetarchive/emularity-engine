@@ -1,0 +1,23 @@
+{
+  "name": "Battle Lane!",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "battlane",
+  "wasmjs_filename": "mamebattlane.js.gz",
+  "wasm_filename": "mamebattlane.wasm.gz",
+  "file_locations": {
+    "mamebattlane.wasm": "mamebattlane.wasm.gz"
+  }
+}

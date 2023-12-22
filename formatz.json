@@ -1,0 +1,23 @@
+{
+  "name": "Formation Z",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    248,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "formatz",
+  "wasmjs_filename": "mameaeroboto.js.gz",
+  "wasm_filename": "mameaeroboto.wasm.gz",
+  "file_locations": {
+    "mameaeroboto.wasm": "mameaeroboto.wasm.gz"
+  }
+}

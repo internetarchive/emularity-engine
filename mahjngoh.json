@@ -1,0 +1,23 @@
+{
+  "name": "mahjngoh",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mahjngoh",
+  "wasmjs_filename": "mametaitogn.js.gz",
+  "wasm_filename": "mametaitogn.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mametaitogn.wasm.gz"
+  }
+}

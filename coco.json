@@ -1,0 +1,22 @@
+{
+  "name": "Tandy Color Computer",
+  "bios_filenames": [
+    "coco.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "coco",
+  "wasmjs_filename": "mamecoco12.js.gz",
+  "wasm_filename": "mamecoco12.wasm.gz",
+  "file_locations": {
+    "mamecoco12.wasm": "mamecoco12.wasm.gz"
+  }
+}

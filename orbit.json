@@ -1,0 +1,23 @@
+{
+  "name": "Orbit",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    480
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "orbit",
+  "wasmjs_filename": "mameorbit.js.gz",
+  "wasm_filename": "mameorbit.wasm.gz",
+  "file_locations": {
+    "mameorbit.wasm": "mameorbit.wasm.gz"
+  }
+}

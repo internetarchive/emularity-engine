@@ -1,0 +1,24 @@
+{
+  "name": "Guardians of the 'Hood",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "guardian",
+  "wasmjs_filename": "mameatarig42.js.gz",
+  "wasm_filename": "mameatarig42.wasm.gz",
+  "file_locations": {
+    "mameatarig42.wasm": "mameatarig42.wasm.gz"
+  }
+}
+

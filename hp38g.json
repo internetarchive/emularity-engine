@@ -1,0 +1,24 @@
+{
+  "name": "HP-38g",
+  "bios_filenames": [
+     "hp38g.zip"
+   ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    343,
+    777
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "hp38g",
+  "wasmjs_filename": "hp48.js.gz",
+  "wasm_filename": "hp48.wasm.gz",
+  "file_locations": {
+    "hp48.wasm": "hp48.wasm.gz"
+  }
+}

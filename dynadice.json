@@ -1,0 +1,23 @@
+{
+    "name": "Dynamic Dice",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        272,
+        200 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "dynadice",
+    "wasmjs_filename": "mamedynadice.js.gz",
+    "wasm_filename": "mamedynadice.wasm.gz",
+    "file_locations": {
+        "mamedynadice.wasm": "mamedynadice.wasm.gz"
+    }
+}

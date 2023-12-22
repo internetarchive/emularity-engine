@@ -1,0 +1,24 @@
+{
+  "name": "Burnin' Rubber (DECO Cassette) (US) (set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cburnrub",
+  "wasmjs_filename": "mamedecocass.js.gz",
+  "wasm_filename": "mamedecocass.wasm.gz",
+  "file_locations": {
+    "mamedecocass.wasm": "mamedecocass.wasm.gz"
+  }
+}
+

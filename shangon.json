@@ -1,0 +1,23 @@
+{
+  "name": "Super Hang-On ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    321,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "shangon",
+  "wasmjs_filename": "mamesegaorun.js.gz",
+  "wasm_filename": "mamesegaorun.wasm.gz",
+  "file_locations": {
+    "mamesegaorun.wasm": "mamesegaorun.wasm.gz"
+  }
+}

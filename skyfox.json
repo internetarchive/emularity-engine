@@ -1,0 +1,23 @@
+{
+  "name": "Sky Fox",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    320
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "skyfox",
+  "wasmjs_filename": "mameskyfox.js.gz",
+  "wasm_filename": "mameskyfox.wasm.gz",
+  "file_locations": {
+    "mameskyfox.wasm": "mameskyfox.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Relief Pitcher (set 1 07 Jun 1992 - 28 May 1992)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "relief",
+  "wasmjs_filename": "mamerelief.js.gz",
+  "wasm_filename": "mamerelief.wasm.gz",
+  "file_locations": {
+    "mamerelief.wasm": "mamerelief.wasm.gz"
+  }
+}
+

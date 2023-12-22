@@ -1,0 +1,23 @@
+{
+    "name": "Pachifever",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        280,
+        216 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pachifev",
+    "wasmjs_filename": "mamepachifev.js.gz",
+    "wasm_filename": "mamepachifev.wasm.gz",
+    "file_locations": {
+        "mamepachifev.wasm": "mamepachifev.wasm.gz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Intellivision (Sears)",
+  "bios_filenames": [
+    "intvsrs.zip"
+  ],
+  "peripherals": [
+    "cart1"
+  ],
+  "native_resolution": [
+    378,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "intvsrs",
+  "wasmjs_filename": "mameintv.js.gz",
+  "wasm_filename": "mameintv.wasm.gz",
+  "file_locations": {
+    "mameintv.wasm": "mameintv.wasm.gz"
+  }
+}

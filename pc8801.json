@@ -1,0 +1,21 @@
+{
+  "name": "PC-8801",
+  "bios_filenames": [],
+  "peripherals": [
+    "flop1",
+    "flop2"
+  ],
+  "native_resolution": [
+    640,
+    400
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "pc8801",
+  "wasmjs_filename": "mamepc8801.js.gz",
+  "wasm_filename": "mamepc8801.wasm.gz",
+  "file_locations": {
+    "mamepc8801.wasm": "mamepc8801.wasm.gz"
+  }
+}

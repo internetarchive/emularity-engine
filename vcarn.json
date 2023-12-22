@@ -1,0 +1,23 @@
+{
+    "name": "Video Carnival 1999 - Super Royal Card (Version 0.11)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "vcarn",
+    "wasmjs_filename": "mamespool99.js.gz",
+    "wasm_filename": "mamespool99.wasm.gz",
+    "file_locations": {
+        "mamespool99.wasm": "mamespool99.wasm.gz"
+    }
+}

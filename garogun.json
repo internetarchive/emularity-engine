@@ -1,0 +1,23 @@
+{
+    "name": "Garogun Seroyang (Korea)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "garogun",
+    "wasmjs_filename": "mamenmg5.js.gz",
+    "wasm_filename": "mamenmg5.wasm.gz",
+    "file_locations": {
+        "mamenmg5.wasm": "mamenmg5.wasm.gz"
+    }
+}

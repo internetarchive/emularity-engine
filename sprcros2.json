@@ -1,0 +1,23 @@
+{
+  "name": "Super Cross II",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sprcros2",
+  "wasmjs_filename": "mamesprcros2.js.gz",
+  "wasm_filename": "mamesprcros2.wasm.gz",
+  "file_locations": {
+    "mamesprcros2.wasm": "mamesprcros2.wasm.gz"
+  }
+}

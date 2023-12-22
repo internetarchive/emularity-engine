@@ -1,0 +1,23 @@
+{
+    "name": "Trivia Master (set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "trvmstr",
+    "wasmjs_filename": "mamenaughtyb.js.gz",
+    "wasm_filename": "mamenaughtyb.wasm.gz",
+    "file_locations": {
+        "mamenaughtyb.wasm": "mamenaughtyb.wasm.gz"
+    }
+}

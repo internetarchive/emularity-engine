@@ -1,0 +1,24 @@
+{
+  "name": "Fire Ball (FM Work)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "fball",
+  "wasmjs_filename": "mamelwings.js.gz",
+  "wasm_filename": "mamelwings.wasm.gz",
+  "file_locations": {
+    "mamelwings.wasm": "mamelwings.wasm.gz"
+  }
+}
+

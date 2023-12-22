@@ -1,0 +1,23 @@
+{
+  "name": "Dead Angle",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "deadang",
+  "wasmjs_filename": "mamedeadang.js.gz",
+  "wasm_filename": "mamedeadang.wasm.gz",
+  "file_locations": {
+    "mamedeadang.wasm": "mamedeadang.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Buggy Boy-Speed Buggy (cockpit)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        768,
+        240
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "buggyboy",
+    "wasmjs_filename": "mametx1.js.gz",
+    "wasm_filename": "mametx1.wasm.gz",
+    "file_locations": {
+        "mametx1.wasm": "mametx1.wasm.gz"
+    }
+}

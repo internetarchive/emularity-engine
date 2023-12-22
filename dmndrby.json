@@ -1,0 +1,23 @@
+{
+  "name": "Diamond Derby",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dmndrby",
+  "wasmjs_filename": "mamedmndrby.js.gz",
+  "wasm_filename": "mamedmndrby.wasm.gz",
+  "file_locations": {
+    "mamedmndrby.wasm": "mamedmndrby.wasm.gz"
+  }
+}

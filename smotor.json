@@ -1,0 +1,23 @@
+{
+    "name": "Super Motor (prototype)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "smotor",
+    "wasmjs_filename": "mamesmotor.js.gz",
+    "wasm_filename": "mamesmotor.wasm.gz",
+    "file_locations": {
+        "mamesmotor.wasm": "mamesmotor.wasm.gz"
+    }
+}

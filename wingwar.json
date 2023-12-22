@@ -1,0 +1,23 @@
+{
+    "name": "Wing War (World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        496,
+        384 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "wingwar",
+    "wasmjs_filename": "mamemodel1.js.gz",
+    "wasm_filename": "mamemodel1.wasm.gz",
+    "file_locations": {
+        "mamemodel1.wasm": "mamemodel1.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Freeze (Atari) (prototype English voice 96-10-25)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    360,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "freezeat",
+  "wasmjs_filename": "mamejaguar.js.gz",
+  "wasm_filename": "mamejaguar.wasm.gz",
+  "file_locations": {
+    "mamejaguar.wasm": "mamejaguar.wasm.gz"
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+  "name": "Gals Panic (Unprotected)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "galpanic",
+  "wasmjs_filename": "mamegalpanic.js.gz",
+  "wasm_filename": "mamegalpanic.wasm.gz",
+  "file_locations": {
+    "mamegalpanic.wasm": "mamegalpanic.wasm.gz"
+  }
+}
+

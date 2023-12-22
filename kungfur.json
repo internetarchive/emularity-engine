@@ -1,0 +1,24 @@
+{
+  "name": "Kung-Fu Roushi",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kungfur",
+  "wasmjs_filename": "mamekungfur.js.gz",
+  "wasm_filename": "mamekungfur.wasm.gz",
+  "file_locations": {
+    "mamekungfur.wasm": "mamekungfur.wasm.gz"
+  }
+}
+

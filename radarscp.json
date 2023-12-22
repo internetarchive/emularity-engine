@@ -1,0 +1,23 @@
+{
+  "name": "Radar Scope",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "radarscp",
+  "wasmjs_filename": "mamedkong.js.gz",
+  "wasm_filename": "mamedkong.wasm.gz",
+  "file_locations": {
+    "mamedkong.wasm": "mamedkong.wasm.gz"
+  }
+}

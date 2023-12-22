@@ -1,0 +1,24 @@
+{
+  "name": "Real Bout Fatal Fury - Real Bout Garou Densetsu (NGM-095 ~ NGH-095)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "rbff1",
+  "wasmjs_filename": "mameneogeo.js.gz",
+  "wasm_filename": "mameneogeo.wasm.gz",
+  "file_locations": {
+    "mameneogeo.wasm": "mameneogeo.wasm.gz"
+  }
+}
+

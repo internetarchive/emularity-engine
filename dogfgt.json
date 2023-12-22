@@ -1,0 +1,23 @@
+{
+  "name": "Acrobatic Dog Fight",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dogfgt",
+  "wasmjs_filename": "mamedogfgt.js.gz",
+  "wasm_filename": "mamedogfgt.wasm.gz",
+  "file_locations": {
+    "mamedogfgt.wasm": "mamedogfgt.wasm.gz"
+  }
+}

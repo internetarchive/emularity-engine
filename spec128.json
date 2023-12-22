@@ -1,0 +1,26 @@
+{
+  "name": "ZX Spectrum",
+  "bios_filenames": [
+    "spec128.zip"
+  ],
+  "peripherals": [
+    "dump"
+  ],
+  "native_resolution": [
+    352,
+    296
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "spec128",
+  "wasmjs_filename": "mamespec128.js.gz",
+  "wasm_filename": "mamespec128.wasm.gz",
+  "file_locations": {
+    "mamespec128.wasm": "mamespec128.wasm.gz"
+  },
+  "mame_sources": [
+    "src/mame/drivers/spec128.cpp",
+    "src/mame/machine/microdrv.cpp"
+  ]
+}

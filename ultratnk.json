@@ -1,0 +1,23 @@
+{
+  "name": "Ultra Tank",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ultratnk",
+  "wasmjs_filename": "mameultratnk.js.gz",
+  "wasm_filename": "mameultratnk.wasm.gz",
+  "file_locations": {
+    "mameultratnk.wasm": "mameultratnk.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wrestle War ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    320
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "wrestwar",
+  "wasmjs_filename": "mamesegas16b.js.gz",
+  "wasm_filename": "mamesegas16b.wasm.gz",
+  "file_locations": {
+    "mamesegas16b.wasm": "mamesegas16b.wasm.gz"
+  }
+}

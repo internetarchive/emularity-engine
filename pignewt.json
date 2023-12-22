@@ -1,0 +1,23 @@
+{
+  "name": "Pig Newton",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pignewt",
+  "wasmjs_filename": "mamesegag80r.js.gz",
+  "wasm_filename": "mamesegag80r.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamesegag80r.wasm.gz"
+  }
+}

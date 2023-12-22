@@ -1,0 +1,24 @@
+{
+  "name": "Miss World '96 (Nude) (C-3000A PCB set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "missw96",
+  "wasmjs_filename": "mameexpro02.js.gz",
+  "wasm_filename": "mameexpro02.wasm.gz",
+  "file_locations": {
+    "mameexpro02.wasm": "mameexpro02.wasm.gz"
+  }
+}
+

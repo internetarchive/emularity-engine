@@ -1,0 +1,24 @@
+{
+  "name": "HP-48s",
+  "bios_filenames": [
+     "hp48sx.zip"
+   ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    429,
+    514
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "hp48s",
+  "wasmjs_filename": "hp48.js.gz",
+  "wasm_filename": "hp48.wasm.gz",
+  "file_locations": {
+    "hp48.wasm": "hp48.wasm.gz"
+  }
+}

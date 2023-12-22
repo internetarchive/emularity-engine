@@ -1,0 +1,23 @@
+{
+  "name": "Beast Busters ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "bbusters",
+  "wasmjs_filename": "mamebbusters.js.gz",
+  "wasm_filename": "mamebbusters.wasm.gz",
+  "file_locations": {
+    "mamebbusters.wasm": "mamebbusters.wasm.gz"
+  }
+}

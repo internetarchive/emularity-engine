@@ -1,0 +1,23 @@
+{
+    "name": "Golden Arrow (Standard G8-03)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "gldarrow",
+    "wasmjs_filename": "mamemeyc8088.js.gz",
+    "wasm_filename": "mamemeyc8088.wasm.gz",
+    "file_locations": {
+        "mamemeyc8088.wasm": "mamemeyc8088.wasm.gz"
+    }
+}

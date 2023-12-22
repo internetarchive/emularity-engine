@@ -1,0 +1,23 @@
+{
+  "name": "firefox",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    704,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "firefox",
+  "wasmjs_filename": "mamefirefox.js.gz",
+  "wasm_filename": "mamefirefox.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamefirefox.wasm.gz"
+  }
+}

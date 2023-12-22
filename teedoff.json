@@ -1,0 +1,23 @@
+{
+  "name": "Tee'd Off",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "teedoff",
+  "wasmjs_filename": "mametehkanwc.js.gz",
+  "wasm_filename": "mametehkanwc.wasm.gz",
+  "file_locations": {
+    "mametehkanwc.wasm": "mametehkanwc.wasm.gz"
+  }
+}

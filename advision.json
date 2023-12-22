@@ -1,0 +1,23 @@
+{
+  "name": "Adventure Vision",
+  "bios_filenames": [
+    "advision.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    200
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "advision",
+  "file_locations": {
+     "mameadvision.wasm": "mameadvision.wasm.gz"
+  },
+  "wasmjs_filename": "mameadvision.js.gz",
+  "wasm_filename": "mameadvision.wasm.gz"
+}
+

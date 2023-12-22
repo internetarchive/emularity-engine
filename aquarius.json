@@ -1,0 +1,22 @@
+{
+  "name": "Mattel Aquarius",
+  "bios_filenames": [
+    "aquarius.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    200
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "aquarius",
+  "wasmjs_filename": "mameaquarius.js.gz",
+  "wasm_filename": "mameaquarius.wasm.gz",
+  "file_locations": {
+    "mameaquarius.wasm": "mameaquarius.wasm.gz"
+  }
+}

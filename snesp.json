@@ -1,0 +1,23 @@
+{
+  "name": "Super Nintendo Entertainment System / Super Famicom (PAL)",
+  "bios_filenames": [
+   "snes.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    512,
+    480
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "snespal",
+  "wasmjs_filename": "mamesnes.js.gz",
+  "wasm_filename": "mamesnes.wasm.gz",
+  "file_locations": {
+    "mamesnes.wasm": "mamesnes.wasm.gz"
+  }
+}

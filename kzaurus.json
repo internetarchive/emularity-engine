@@ -1,0 +1,23 @@
+{
+    "name": "Pittanko Zaurus",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        360,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "kzaurus",
+    "wasmjs_filename": "mamekonmedal68k.js.gz",
+    "wasm_filename": "mamekonmedal68k.wasm.gz",
+    "file_locations": {
+        "mamekonmedal68k.wasm": "mamekonmedal68k.wasm.gz"
+    }
+}

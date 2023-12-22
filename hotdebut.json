@@ -1,0 +1,23 @@
+{
+    "name": "Quiz de Idol! Hot Debut (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hotdebut",
+    "wasmjs_filename": "mamepsikyo4.js.gz",
+    "wasm_filename": "mamepsikyo4.wasm.gz",
+    "file_locations": {
+        "mamepsikyo4.wasm": "mamepsikyo4.wasm.gz"
+    }
+}

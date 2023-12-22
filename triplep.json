@@ -1,0 +1,23 @@
+{
+  "name": "Triple Punch",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "triplep",
+  "wasmjs_filename": "mamescramble.js.gz",
+  "wasm_filename": "mamescramble.wasm.gz",
+  "file_locations": {
+    "mamescramble.wasm": "mamescramble.wasm.gz"
+  }
+}

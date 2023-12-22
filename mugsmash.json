@@ -1,0 +1,24 @@
+{
+  "name": "Mug Smashers",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mugsmash",
+  "wasmjs_filename": "mamemugsmash.js.gz",
+  "wasm_filename": "mamemugsmash.wasm.gz",
+  "file_locations": {
+    "mamemugsmash.wasm": "mamemugsmash.wasm.gz"
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+    "name": "Battle Bakraid - Unlimited Version (USA) (Tue Jun 8 1999)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        240,
+        320
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "bbakraid",
+    "wasmjs_filename": "mametoaplan2.js.gz",
+    "wasm_filename": "mametoaplan2.wasm.gz",
+    "file_locations": {
+        "mametoaplan2.wasm": "mametoaplan2.wasm.gz"
+    }
+}

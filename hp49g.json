@@ -1,0 +1,24 @@
+{
+  "name": "HP-49g",
+  "bios_filenames": [
+     "hp49g.zip"
+   ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    395,
+    838
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "hp49g",
+  "wasmjs_filename": "hp48.js.gz",
+  "wasm_filename": "hp48.wasm.gz",
+  "file_locations": {
+    "hp48.wasm": "hp48.wasm.gz"
+  }
+}

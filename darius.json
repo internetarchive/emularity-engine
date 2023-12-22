@@ -1,0 +1,23 @@
+{
+    "name": "Darius (World rev 2)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "darius",
+    "wasmjs_filename": "mamedarius.js.gz",
+    "wasm_filename": "mamedarius.wasm.gz",
+    "file_locations": {
+        "mamedarius.wasm": "mamedarius.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Adventure Quiz Capcom World 2 (Japan 920611)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "cworld2j",
+    "wasmjs_filename": "mamecps1.js.gz",
+    "wasm_filename": "mamecps1.wasm.gz",
+    "file_locations": {
+        "mamecps1.wasm": "mamecps1.wasm.gz"
+    }
+}

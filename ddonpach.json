@@ -1,0 +1,24 @@
+{
+  "name": "DoDonPachi (International Master Ver. 97-02-05)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    320
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ddonpach",
+  "wasmjs_filename": "mamecave.js.gz",
+  "wasm_filename": "mamecave.wasm.gz",
+  "file_locations": {
+    "mamecave.wasm": "mamecave.wasm.gz"
+  }
+}
+

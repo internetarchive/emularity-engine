@@ -1,0 +1,24 @@
+{
+  "name": "Pushman (Korea set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pushman",
+  "wasmjs_filename": "mametigeroad.js.gz",
+  "wasm_filename": "mametigeroad.wasm.gz",
+  "file_locations": {
+    "mametigeroad.wasm": "mametigeroad.wasm.gz"
+  }
+}
+

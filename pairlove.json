@@ -1,0 +1,24 @@
+{
+  "name": "Pairs Love",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    384
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pairlove",
+  "wasmjs_filename": "mameseta.js.gz",
+  "wasm_filename": "mameseta.wasm.gz",
+  "file_locations": {
+    "mameseta.wasm": "mameseta.wasm.gz"
+  }
+}
+

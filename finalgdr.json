@@ -1,0 +1,23 @@
+{
+    "name": "Final Godori (Korea, version 2.20.5915)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        236 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "finalgdr",
+    "wasmjs_filename": "mamevamphalf.js.gz",
+    "wasm_filename": "mamevamphalf.wasm.gz",
+    "file_locations": {
+        "mamevamphalf.wasm": "mamevamphalf.wasm.gz"
+    }
+}

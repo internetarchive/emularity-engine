@@ -1,0 +1,23 @@
+{
+    "name": "Grand Cross v1.02F",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "gcpinbal",
+    "wasmjs_filename": "mamegcpinbal.js.gz",
+    "wasm_filename": "mamegcpinbal.wasm.gz",
+    "file_locations": {
+        "mamegcpinbal.wasm": "mamegcpinbal.wasm.gz"
+    }
+}

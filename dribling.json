@@ -1,0 +1,23 @@
+{
+  "name": "Dribbling",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    216
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dribling",
+  "wasmjs_filename": "mamedribling.js.gz",
+  "wasm_filename": "mamedribling.wasm.gz",
+  "file_locations": {
+    "mamedribling.wasm": "mamedribling.wasm.gz"
+  }
+}

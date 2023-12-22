@@ -1,0 +1,23 @@
+{
+  "name": "Super Draw Poker",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "supdrapo",
+  "wasmjs_filename": "mamesupdrapo.js.gz",
+  "wasm_filename": "mamesupdrapo.wasm.gz",
+  "file_locations": {
+    "mamesupdrapo.wasm": "mamesupdrapo.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Splatter House (World new version (SH3))",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "splatter",
+  "wasmjs_filename": "mamenamcos1.js.gz",
+  "wasm_filename": "mamenamcos1.wasm.gz",
+  "file_locations": {
+    "mamenamcos1.wasm": "mamenamcos1.wasm.gz"
+  }
+}
+

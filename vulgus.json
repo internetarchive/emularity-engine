@@ -1,0 +1,23 @@
+{
+  "name": "Vulgus",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "vulgus",
+  "wasmjs_filename": "mamevulgus.js.gz",
+  "wasm_filename": "mamevulgus.wasm.gz",
+  "file_locations": {
+    "mamevulgus.wasm": "mamevulgus.wasm.gz"
+  }
+}

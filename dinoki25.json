@@ -1,0 +1,23 @@
+{
+  "name": "dinoki25",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dinoki25",
+  "wasmjs_filename": "mamesegasp.js.gz",
+  "wasm_filename": "mamesegasp.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamesegasp.wasm.gz"
+  }
+}

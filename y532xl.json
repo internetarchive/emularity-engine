@@ -1,0 +1,22 @@
+{
+  "name": "532 XL Yelo",
+  "bios_filenames": [
+     "y532xl.zip"
+   ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    800,
+    800
+  ],
+  "extra_args": [
+  ],
+  "driver": "yeno_532xl",
+  "wasmjs_filename": "y532xl.js.gz",
+  "wasm_filename": "y532xl.wasm.gz",
+  "file_locations": {
+    "y532xl.wasm": "y532xl.wasm.gz"
+  }
+}

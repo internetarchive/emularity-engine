@@ -1,0 +1,23 @@
+{
+  "name": "cryptklr",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "cryptklr",
+  "wasmjs_filename": "mamekonamigq.js.gz",
+  "wasm_filename": "mamekonamigq.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamekonamigq.wasm.gz"
+  }
+}

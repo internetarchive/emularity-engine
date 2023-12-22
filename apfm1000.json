@@ -1,0 +1,22 @@
+{
+  "name": "APF M-1000",
+  "bios_filenames": [
+    "apfm1000.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "apfm1000",
+  "wasmjs_filename": "mameapf.js.gz",
+  "wasm_filename": "mameapf.wasm.gz",
+  "file_locations": {
+    "mameapf.wasm": "mameapf.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Xenophobe",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    480
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "xenophob",
+  "wasmjs_filename": "mamemcr68.js.gz",
+  "wasm_filename": "mamemcr68.wasm.gz",
+  "file_locations": {
+    "mamemcr68.wasm": "mamemcr68.wasm.gz"
+  }
+}

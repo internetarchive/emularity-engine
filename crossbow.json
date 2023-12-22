@@ -1,0 +1,24 @@
+{
+  "name": "Crossbow (version 2.0)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "crossbow",
+  "wasmjs_filename": "mameexidy440.js.gz",
+  "wasm_filename": "mameexidy440.wasm.gz",
+  "file_locations": {
+    "mameexidy440.wasm": "mameexidy440.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "Odyssey 2",
+  "bios_filenames": [ 
+    "odyssey2.zip",
+    "i8244.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    243
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "odyssey2",
+  "wasmjs_filename": "mameodyssey2.js.gz",
+  "wasm_filename": "mameodyssey2.wasm.gz",
+  "file_locations": {
+    "mameodyssey2.wasm": "mameodyssey2.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Satan of Saturn",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "satansat",
+  "wasmjs_filename": "mamesnk6502.js.gz",
+  "wasm_filename": "mamesnk6502.wasm.gz",
+  "file_locations": {
+    "mamesnk6502.wasm": "mamesnk6502.wasm.gz"
+  }
+}

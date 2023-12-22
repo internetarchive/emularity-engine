@@ -1,0 +1,23 @@
+{
+    "name": "New Cross Pang",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        236 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "newxpang",
+    "wasmjs_filename": "mamevamphalf.js.gz",
+    "wasm_filename": "mamevamphalf.wasm.gz",
+    "file_locations": {
+        "mamevamphalf.wasm": "mamevamphalf.wasm.gz"
+    }
+}

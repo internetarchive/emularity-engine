@@ -1,0 +1,23 @@
+{
+  "name": "Pool Shark",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    255,
+    232
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "poolshrk",
+  "wasmjs_filename": "mamepoolshrk.js.gz",
+  "wasm_filename": "mamepoolshrk.wasm.gz",
+  "file_locations": {
+    "mamepoolshrk.wasm": "mamepoolshrk.wasm.gz"
+  }
+}

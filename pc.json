@@ -1,0 +1,20 @@
+{
+  "name": "IBM PC",
+  "bios_filenames": [],
+  "peripherals": [
+    "flop1"
+  ],
+  "native_resolution": [
+    640,
+    400
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "pc",
+  "wasmjs_filename": "pc.js.gz",
+  "wasm_filename": "pc.wasm.gz",
+  "file_locations": {
+    "pc.wasm": "pc.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Maikobana [BET] (Japan 900911)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mmaiko",
+    "wasmjs_filename": "mamenbmj8891.js.gz",
+    "wasm_filename": "mamenbmj8891.wasm.gz",
+    "file_locations": {
+        "mamenbmj8891.wasm": "mamenbmj8891.wasm.gz"
+    }
+}

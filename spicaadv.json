@@ -1,0 +1,23 @@
+{
+  "name": "spicaadv",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "spicaadv",
+  "wasmjs_filename": "mametaitotx.js.gz",
+  "wasm_filename": "mametaitotx.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mametaitotx.wasm.gz"
+  }
+}

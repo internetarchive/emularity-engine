@@ -1,0 +1,23 @@
+{
+    "name": "TX-1 (World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tx1",
+    "wasmjs_filename": "mametx1.js.gz",
+    "wasm_filename": "mametx1.wasm.gz",
+    "file_locations": {
+        "mametx1.wasm": "mametx1.wasm.gz"
+    }
+}

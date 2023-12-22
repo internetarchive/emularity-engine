@@ -1,0 +1,23 @@
+{
+    "name": "Grand Tour",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "grndtour",
+    "wasmjs_filename": "mameiqblock.js.gz",
+    "wasm_filename": "mameiqblock.wasm.gz",
+    "file_locations": {
+        "mameiqblock.wasm": "mameiqblock.wasm.gz"
+    }
+}

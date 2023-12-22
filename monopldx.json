@@ -1,0 +1,23 @@
+{
+    "name": "Monopoly Deluxe (JPM) (Version 6) (SYSTEM5 VIDEO)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        508,
+        254 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "monopldx",
+    "wasmjs_filename": "mamejpmsys5.js.gz",
+    "wasm_filename": "mamejpmsys5.wasm.gz",
+    "file_locations": {
+        "mamejpmsys5.wasm": "mamejpmsys5.wasm.gz"
+    }
+}

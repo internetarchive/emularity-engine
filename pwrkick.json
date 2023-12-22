@@ -1,0 +1,24 @@
+{
+  "name": "Power Kick (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pwrkick",
+  "wasmjs_filename": "mametoaplan2.js.gz",
+  "wasm_filename": "mametoaplan2.wasm.gz",
+  "file_locations": {
+    "mametoaplan2.wasm": "mametoaplan2.wasm.gz"
+  }
+}
+

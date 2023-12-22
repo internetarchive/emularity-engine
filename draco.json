@@ -1,0 +1,23 @@
+{
+    "name": "Draco",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        294,
+        294 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "draco",
+    "wasmjs_filename": "mamecidelsa.js.gz",
+    "wasm_filename": "mamecidelsa.wasm.gz",
+    "file_locations": {
+        "mamecidelsa.wasm": "mamecidelsa.wasm.gz"
+    }
+}

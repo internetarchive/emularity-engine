@@ -1,0 +1,24 @@
+{
+  "name": "Chanbara",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "chanbara",
+  "wasmjs_filename": "mamechanbara.js.gz",
+  "wasm_filename": "mamechanbara.wasm.gz",
+  "file_locations": {
+    "mamechanbara.wasm": "mamechanbara.wasm.gz"
+  }
+}
+

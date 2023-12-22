@@ -1,0 +1,23 @@
+{
+    "name": "Sigma Poker 2000",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sigma2k",
+    "wasmjs_filename": "mameampoker2.js.gz",
+    "wasm_filename": "mameampoker2.wasm.gz",
+    "file_locations": {
+        "mameampoker2.wasm": "mameampoker2.wasm.gz"
+    }
+}

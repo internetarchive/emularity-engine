@@ -1,0 +1,23 @@
+{
+  "name": "Silk Worm ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "silkworm",
+  "wasmjs_filename": "mametecmo.js.gz",
+  "wasm_filename": "mametecmo.wasm.gz",
+  "file_locations": {
+    "mametecmo.wasm": "mametecmo.wasm.gz"
+  }
+}

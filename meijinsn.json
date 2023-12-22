@@ -1,0 +1,23 @@
+{
+    "name": "Meijinsen (set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        232,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "meijinsn",
+    "wasmjs_filename": "mamemeijinsn.js.gz",
+    "wasm_filename": "mamemeijinsn.wasm.gz",
+    "file_locations": {
+        "mamemeijinsn.wasm": "mamemeijinsn.wasm.gz"
+    }
+}

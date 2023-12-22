@@ -1,0 +1,23 @@
+{
+    "name": "Extreme Downhill (v1.5)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "extdwnhl",
+    "wasmjs_filename": "mameseta.js.gz",
+    "wasm_filename": "mameseta.wasm.gz",
+    "file_locations": {
+        "mameseta.wasm": "mameseta.wasm.gz"
+    }
+}

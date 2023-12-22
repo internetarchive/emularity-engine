@@ -1,0 +1,23 @@
+{
+  "name": "Roc N' Rope",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "rocnrope",
+  "wasmjs_filename": "mamerocnrope.js.gz",
+  "wasm_filename": "mamerocnrope.wasm.gz",
+  "file_locations": {
+    "mamerocnrope.wasm": "mamerocnrope.wasm.gz"
+  }
+}

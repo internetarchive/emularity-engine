@@ -1,0 +1,23 @@
+{
+    "name": "Time Attacker",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        200,
+        232 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tattack",
+    "wasmjs_filename": "mametattack.js.gz",
+    "wasm_filename": "mametattack.wasm.gz",
+    "file_locations": {
+        "mametattack.wasm": "mametattack.wasm.gz"
+    }
+}

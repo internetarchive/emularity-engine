@@ -1,0 +1,23 @@
+{
+    "name": "Riviera Hi-Score (2131-08, U5-4A)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "riviera",
+    "wasmjs_filename": "mamemerit.js.gz",
+    "wasm_filename": "mamemerit.wasm.gz",
+    "file_locations": {
+        "mamemerit.wasm": "mamemerit.wasm.gz"
+    }
+}

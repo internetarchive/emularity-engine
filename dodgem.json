@@ -1,0 +1,24 @@
+{
+    "name": "Dodg'em",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        720,
+        768
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "dodgem",
+    "wasmjs_filename": "mamezac2650.js.gz",
+    "wasm_filename": "mamezac2650.wasm.gz",
+    "file_locations": {
+        "mamezac2650.wasm": "mamezac2650.wasm.gz"
+    }
+}

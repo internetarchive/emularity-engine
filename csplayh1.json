@@ -1,0 +1,23 @@
+{
+  "name": "csplayh1",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    543,
+    465 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "csplayh1",
+  "wasmjs_filename": "mamecsplayh5.js.gz",
+  "wasm_filename": "mamecsplayh5.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamecsplayh5.wasm.gz"
+  }
+}

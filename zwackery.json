@@ -1,0 +1,24 @@
+{
+    "name": "Zwackery",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        512,
+        480
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "zwackery",
+    "wasmjs_filename": "mamezwackery.js.gz",
+    "wasm_filename": "mamezwackery.wasm.gz",
+    "file_locations": {
+        "mamezwackery.wasm": "mamezwackery.wasm.gz"
+    }
+}

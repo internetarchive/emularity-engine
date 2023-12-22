@@ -1,0 +1,24 @@
+{
+  "name": "Karate Blazers (World set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    352,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "karatblz",
+  "wasmjs_filename": "mameaerofgt.js.gz",
+  "wasm_filename": "mameaerofgt.wasm.gz",
+  "file_locations": {
+    "mameaerofgt.wasm": "mameaerofgt.wasm.gz"
+  }
+}
+

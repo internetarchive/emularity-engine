@@ -1,0 +1,23 @@
+{
+  "name": "Track and Field",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "trackfld",
+  "wasmjs_filename": "mametrackfld.js.gz",
+  "wasm_filename": "mametrackfld.wasm.gz",
+  "file_locations": {
+    "mametrackfld.wasm": "mametrackfld.wasm.gz"
+  }
+}

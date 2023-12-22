@@ -1,0 +1,23 @@
+{
+    "name": "Grand Slam (Mega Play)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+	    256,
+	    240
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mp_gslam",
+    "wasmjs_filename": "mamemegaplay.js.gz",
+    "wasm_filename": "mamemegaplay.wasm.gz",
+    "file_locations": {
+        "mamemegaplay.wasm": "mamemegaplay.wasm.gz"
+    }
+}

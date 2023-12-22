@@ -1,0 +1,24 @@
+{
+  "name": "Fancy World - Earth of Crisis",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "fncywld",
+  "wasmjs_filename": "mametumbleb.js.gz",
+  "wasm_filename": "mametumbleb.wasm.gz",
+  "file_locations": {
+    "mametumbleb.wasm": "mametumbleb.wasm.gz"
+  }
+}
+

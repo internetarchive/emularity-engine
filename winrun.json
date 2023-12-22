@@ -1,0 +1,23 @@
+{
+    "name": "Winning Run (World) (89-06-06, Ver.09)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        496,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "winrun",
+    "wasmjs_filename": "mamenamcos21.js.gz",
+    "wasm_filename": "mamenamcos21.wasm.gz",
+    "file_locations": {
+        "mamenamcos21.wasm": "mamenamcos21.wasm.gz"
+    }
+}

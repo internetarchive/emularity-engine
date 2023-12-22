@@ -1,0 +1,23 @@
+{
+    "name": "Jangou Lady (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "jngolady",
+    "wasmjs_filename": "mamejangou.js.gz",
+    "wasm_filename": "mamejangou.wasm.gz",
+    "file_locations": {
+        "mamejangou.wasm": "mamejangou.wasm.gz"
+    }
+}

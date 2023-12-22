@@ -1,0 +1,23 @@
+{
+    "name": "Jong Yu Ki (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "janyuki",
+    "wasmjs_filename": "mamedynax.js.gz",
+    "wasm_filename": "mamedynax.wasm.gz",
+    "file_locations": {
+        "mamedynax.wasm": "mamedynax.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Player's Edge Plus (X002247P+XP000038) Standard Draw Poker",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        200 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pex2247p",
+    "wasmjs_filename": "mamepeplus.js.gz",
+    "wasm_filename": "mamepeplus.wasm.gz",
+    "file_locations": {
+        "mamepeplus.wasm": "mamepeplus.wasm.gz"
+    }
+}

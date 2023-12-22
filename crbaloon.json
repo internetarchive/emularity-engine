@@ -1,0 +1,23 @@
+{
+  "name": "Crazy Balloon",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "crbaloon",
+  "wasmjs_filename": "mamecrbaloon.js.gz",
+  "wasm_filename": "mamecrbaloon.wasm.gz",
+  "file_locations": {
+    "mamecrbaloon.wasm": "mamecrbaloon.wasm.gz"
+  }
+}

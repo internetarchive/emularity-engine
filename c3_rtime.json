@@ -1,0 +1,23 @@
+{
+  "name": "c3_rtime",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "c3_rtime",
+  "wasmjs_filename": "mamebfm_swp.js.gz",
+  "wasm_filename": "mamebfm_swp.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamebfm_swp.wasm.gz"
+  }
+}

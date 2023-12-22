@@ -1,0 +1,24 @@
+{
+  "name": "Mortal Kombat (handheld)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    734,
+    540 
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "tmkombat",
+  "wasmjs_filename": "mamehh_sm510.js.gz",
+  "wasm_filename": "mamehh_sm510.wasm.gz",
+  "file_locations": {
+    "mamehh_sm510.wasm": "mamehh_sm510.wasm.gz"
+  }
+}

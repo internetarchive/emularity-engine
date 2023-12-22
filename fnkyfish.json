@@ -1,0 +1,23 @@
+{
+  "name": "Funky Fish",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    512
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "fnkyfish",
+  "wasmjs_filename": "mamekangaroo.js.gz",
+  "wasm_filename": "mamekangaroo.wasm.gz",
+  "file_locations": {
+    "mamekangaroo.wasm": "mamekangaroo.wasm.gz"
+  }
+}

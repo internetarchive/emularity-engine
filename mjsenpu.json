@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Senpu",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mjsenpu",
+    "wasmjs_filename": "mamemjsenpu.js.gz",
+    "wasm_filename": "mamemjsenpu.wasm.gz",
+    "file_locations": {
+        "mamemjsenpu.wasm": "mamemjsenpu.wasm.gz"
+    }
+}

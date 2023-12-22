@@ -1,0 +1,23 @@
+{
+    "name": "Poka Poka Satan (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ppsatan",
+    "wasmjs_filename": "mamecave.js.gz",
+    "wasm_filename": "mamecave.wasm.gz",
+    "file_locations": {
+        "mamecave.wasm": "mamecave.wasm.gz"
+    }
+}

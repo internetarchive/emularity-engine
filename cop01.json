@@ -1,0 +1,23 @@
+{
+  "name": "Cop 01",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cop01",
+  "wasmjs_filename": "mamecop01.js.gz",
+  "wasm_filename": "mamecop01.wasm.gz",
+  "file_locations": {
+    "mamecop01.wasm": "mamecop01.wasm.gz"
+  }
+}

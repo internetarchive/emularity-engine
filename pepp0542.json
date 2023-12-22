@@ -1,0 +1,23 @@
+{
+    "name": "Player's Edge Plus (PP0542) One Eyed Jacks Wild Poker (CG2243)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        200 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pepp0542",
+    "wasmjs_filename": "mamepeplus.js.gz",
+    "wasm_filename": "mamepeplus.wasm.gz",
+    "file_locations": {
+        "mamepeplus.wasm": "mamepeplus.wasm.gz"
+    }
+}

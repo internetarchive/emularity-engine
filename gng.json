@@ -1,0 +1,23 @@
+{
+  "name": "Ghosts'n Goblins",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "gng",
+  "wasmjs_filename": "mamegng.js.gz",
+  "wasm_filename": "mamegng.wasm.gz",
+  "file_locations": {
+    "mamegng.wasm": "mamegng.wasm.gz"
+  }
+}

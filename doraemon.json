@@ -1,0 +1,23 @@
+{
+    "name": "Doraemon no Eawase Montage (prototype)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "doraemon",
+    "wasmjs_filename": "mamechampbwl.js.gz",
+    "wasm_filename": "mamechampbwl.wasm.gz",
+    "file_locations": {
+        "mamechampbwl.wasm": "mamechampbwl.wasm.gz"
+    }
+}

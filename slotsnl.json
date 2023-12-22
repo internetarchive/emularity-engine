@@ -1,0 +1,23 @@
+{
+    "name": "Slots (Dutch, Game Card 95-750-368)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        400,
+        280 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "slotsnl",
+    "wasmjs_filename": "mamebfm_sc2.js.gz",
+    "wasm_filename": "mamebfm_sc2.wasm.gz",
+    "file_locations": {
+        "mamebfm_sc2.wasm": "mamebfm_sc2.wasm.gz"
+    }
+}

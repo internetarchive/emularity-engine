@@ -1,0 +1,23 @@
+{
+  "name": "Bongo",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "bongo",
+  "wasmjs_filename": "mamegalaxold.js.gz",
+  "wasm_filename": "mamegalaxold.wasm.gz",
+  "file_locations": {
+    "mamegalaxold.wasm": "mamegalaxold.wasm.gz"
+  }
+}

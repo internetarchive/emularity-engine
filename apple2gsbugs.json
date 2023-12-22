@@ -1,0 +1,27 @@
+{
+  "name": "Apple IIgs BuGS Edition",
+  "bios_filenames": [
+    "apple2gs.zip"
+  ],
+  "peripherals": [
+    "hard1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    704,
+    462
+  ],
+  "extra_args": [
+    "-video",
+    "soft",
+    "-mouse",
+    "-sl7",
+    "cffa2"
+  ],
+  "driver": "apple2gs",
+  "wasmjs_filename": "mameapple2gs.js.gz",
+  "wasm_filename": "mameapple2gs.wasm.gz",
+  "file_locations": {
+    "mameapple2gs.wasm": "mameapple2gs.wasm.gz"
+  }
+}

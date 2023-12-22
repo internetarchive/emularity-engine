@@ -1,0 +1,24 @@
+{
+  "name": "Touchmaster (v3.00 Euro)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    400,
+    256 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "tm",
+  "wasmjs_filename": "mametmaster.js.gz",
+  "wasm_filename": "mametmaster.wasm.gz",
+  "file_locations": {
+    "mametmaster.wasm": "mametmaster.wasm.gz"
+  }
+}
+

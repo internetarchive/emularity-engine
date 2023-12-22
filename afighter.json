@@ -1,0 +1,24 @@
+{
+  "name": "Action Fighter (FD1089A 317-0018)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    448 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "afighter",
+  "wasmjs_filename": "mamesegas16a.js.gz",
+  "wasm_filename": "mamesegas16a.wasm.gz",
+  "file_locations": {
+    "mamesegas16a.wasm": "mamesegas16a.wasm.gz"
+  }
+}
+

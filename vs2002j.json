@@ -1,0 +1,23 @@
+{
+  "name": "vs2002j",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "vs2002j",
+  "wasmjs_filename": "mametriforce.js.gz",
+  "wasm_filename": "mametriforce.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mametriforce.wasm.gz"
+  }
+}

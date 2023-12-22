@@ -1,0 +1,23 @@
+{
+    "name": "Joryuu Syougi Kyoushitsu (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        336,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "jsk",
+    "wasmjs_filename": "mamessv.js.gz",
+    "wasm_filename": "mamessv.wasm.gz",
+    "file_locations": {
+        "mamessv.wasm": "mamessv.wasm.gz"
+    }
+}

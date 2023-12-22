@@ -1,0 +1,24 @@
+{
+    "name": "Tekken Tag Tournament (World TEG2-VER.C1 set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        640,
+        480
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tektagt",
+    "wasmjs_filename": "mamenamcos12.js.gz",
+    "wasm_filename": "mamenamcos12.wasm.gz",
+    "file_locations": {
+        "mamenamcos12.wasm": "mamenamcos12.wasm.gz"
+    }
+}

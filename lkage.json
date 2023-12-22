@@ -1,0 +1,23 @@
+{
+  "name": "The Legend of Kage",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "lkage",
+  "wasmjs_filename": "mamelkage.js.gz",
+  "wasm_filename": "mamelkage.wasm.gz",
+  "file_locations": {
+    "mamelkage.wasm": "mamelkage.wasm.gz"
+  }
+}

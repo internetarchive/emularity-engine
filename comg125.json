@@ -1,0 +1,23 @@
+{
+    "name": "Cal Omega - Game 12.5 (Bingo)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        248 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "comg125",
+    "wasmjs_filename": "mamecalomega.js.gz",
+    "wasm_filename": "mamecalomega.wasm.gz",
+    "file_locations": {
+        "mamecalomega.wasm": "mamecalomega.wasm.gz"
+    }
+}

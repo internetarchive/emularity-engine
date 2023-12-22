@@ -1,0 +1,24 @@
+{
+  "name": "Fishin' Frenzy (prototype)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    360,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "fishfren",
+  "wasmjs_filename": "mamejaguar.js.gz",
+  "wasm_filename": "mamejaguar.wasm.gz",
+  "file_locations": {
+    "mamejaguar.wasm": "mamejaguar.wasm.gz"
+  }
+}
+

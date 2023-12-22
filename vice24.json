@@ -1,0 +1,15 @@
+{
+  "name": "VICE.js C64 2.4 (With Sound)",
+  "native_resolution": [
+    768,
+    544
+  ],
+  "extra_args": [
+    "-soundfragsize", "2", "-soundrate", "22050", "-soundsync", "0"
+  ],
+  "js_filename": "vice24.js.gz",
+  "file_locations": {
+    
+  },
+  "driver": "vice"
+}

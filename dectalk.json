@@ -1,0 +1,24 @@
+{
+  "name": "DECtalk DTC-01",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "dectalk",
+  "wasmjs_filename": "mamedectalk.js.gz",
+  "wasm_filename": "mamedectalk.wasm.gz",
+  "file_locations": {
+    "mamedectalk.wasm": "mamedectalk.wasm.gz"
+  }
+}

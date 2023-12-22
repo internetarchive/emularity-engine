@@ -1,0 +1,23 @@
+{
+    "name": "Long Hu Bang (China, V035C)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "lhb",
+    "wasmjs_filename": "mameigs011.js.gz",
+    "wasm_filename": "mameigs011.wasm.gz",
+    "file_locations": {
+        "mameigs011.wasm": "mameigs011.wasm.gz"
+    }
+}

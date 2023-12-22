@@ -1,0 +1,23 @@
+{
+  "name": "kov3hd",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    1,280,
+    720 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kov3hd",
+  "wasmjs_filename": "mamepgm3.js.gz",
+  "wasm_filename": "mamepgm3.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamepgm3.wasm.gz"
+  }
+}

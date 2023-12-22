@@ -1,0 +1,23 @@
+{
+    "name": "Multipede (Centipede-Millipede multigame kit)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "multiped",
+    "wasmjs_filename": "mamecentiped.js.gz",
+    "wasm_filename": "mamecentiped.wasm.gz",
+    "file_locations": {
+        "mamecentiped.wasm": "mamecentiped.wasm.gz"
+    }
+}

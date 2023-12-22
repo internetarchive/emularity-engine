@@ -1,0 +1,23 @@
+{
+    "name": "Super World Stadium '99 (Japan, SS91-VER.A3)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sws99",
+    "wasmjs_filename": "mamenamcos12.js.gz",
+    "wasm_filename": "mamenamcos12.wasm.gz",
+    "file_locations": {
+        "mamenamcos12.wasm": "mamenamcos12.wasm.gz"
+    }
+}

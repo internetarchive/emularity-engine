@@ -1,0 +1,23 @@
+{
+    "name": "Stadium Hero '96 (Europe, EAJ)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "stadhr96",
+    "wasmjs_filename": "mamedeco_mlc.js.gz",
+    "wasm_filename": "mamedeco_mlc.wasm.gz",
+    "file_locations": {
+        "mamedeco_mlc.wasm": "mamedeco_mlc.wasm.gz"
+    }
+}

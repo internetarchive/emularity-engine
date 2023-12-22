@@ -1,0 +1,25 @@
+{
+  "name": "Narc (rev 7.00)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    512,
+    400 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "narc",
+  "wasmjs_filename": "mamemidyunit.js.gz",
+  "wasm_filename": "mamemidyunit.wasm.gz",
+  "file_locations": {
+    "mamemidyunit.wasm": "mamemidyunit.wasm.gz"
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+  "name": "Rolling Crush (version 1.07.E - 1999-02-11 Trust license)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    308,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "rolcrush",
+  "wasmjs_filename": "mamedreamwld.js.gz",
+  "wasm_filename": "mamedreamwld.wasm.gz",
+  "file_locations": {
+    "mamedreamwld.wasm": "mamedreamwld.wasm.gz"
+  }
+}
+

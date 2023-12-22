@@ -1,0 +1,23 @@
+{
+  "name": "DRIVER",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    XRES,
+    YRES 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "DRIVER",
+  "wasmjs_filename": "mameDONKY.js.gz",
+  "wasm_filename": "mameDONKY.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mameDONKY.wasm.gz"
+  }
+}

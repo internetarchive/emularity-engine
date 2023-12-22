@@ -1,0 +1,24 @@
+{
+  "name": "Kram (set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kram",
+  "wasmjs_filename": "mameqix.js.gz",
+  "wasm_filename": "mameqix.wasm.gz",
+  "file_locations": {
+    "mameqix.wasm": "mameqix.wasm.gz"
+  }
+}
+

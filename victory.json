@@ -1,0 +1,23 @@
+{
+  "name": "Victory",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "victory",
+  "wasmjs_filename": "mamevictory.js.gz",
+  "wasm_filename": "mamevictory.wasm.gz",
+  "file_locations": {
+    "mamevictory.wasm": "mamevictory.wasm.gz"
+  }
+}

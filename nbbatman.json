@@ -1,0 +1,23 @@
+{
+    "name": "Ninja Baseball Bat Man (World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "nbbatman",
+    "wasmjs_filename": "mamem92.js.gz",
+    "wasm_filename": "mamem92.wasm.gz",
+    "file_locations": {
+        "mamem92.wasm": "mamem92.wasm.gz"
+    }
+}

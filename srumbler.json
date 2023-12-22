@@ -1,0 +1,23 @@
+{
+  "name": "The Speed Rumbler",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    352
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "srumbler",
+  "wasmjs_filename": "mamesrumbler.js.gz",
+  "wasm_filename": "mamesrumbler.wasm.gz",
+  "file_locations": {
+    "mamesrumbler.wasm": "mamesrumbler.wasm.gz"
+  }
+}

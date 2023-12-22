@@ -1,0 +1,23 @@
+{
+    "name": "Megatouch 6 (9255-80-01 R0A, Standard version)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        543,
+        465 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "megat6",
+    "wasmjs_filename": "mamemeritm.js.gz",
+    "wasm_filename": "mamemeritm.wasm.gz",
+    "file_locations": {
+        "mamemeritm.wasm": "mamemeritm.wasm.gz"
+    }
+}

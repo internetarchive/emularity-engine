@@ -1,0 +1,23 @@
+{
+    "name": "The Last Apostle Puppetshow",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "lastapos",
+    "wasmjs_filename": "mamehomedata.js.gz",
+    "wasm_filename": "mamehomedata.wasm.gz",
+    "file_locations": {
+        "mamehomedata.wasm": "mamehomedata.wasm.gz"
+    }
+}

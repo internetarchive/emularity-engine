@@ -1,0 +1,23 @@
+{
+    "name": "Go Go Mr. Yamaguchi - Yuke Yuke Yamaguchi-kun",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "yamagchi",
+    "wasmjs_filename": "mametsamurai.js.gz",
+    "wasm_filename": "mametsamurai.wasm.gz",
+    "file_locations": {
+        "mametsamurai.wasm": "mametsamurai.wasm.gz"
+    }
+}

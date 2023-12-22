@@ -1,0 +1,24 @@
+{
+  "name": "Matrimelee - Shin Gouketsuji Ichizoku Toukon (NGM-2660 ~ NGH-2660)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "matrim",
+  "wasmjs_filename": "mameneogeo.js.gz",
+  "wasm_filename": "mameneogeo.wasm.gz",
+  "file_locations": {
+    "mameneogeo.wasm": "mameneogeo.wasm.gz"
+  }
+}
+

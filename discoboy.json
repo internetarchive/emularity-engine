@@ -1,0 +1,23 @@
+{
+    "name": "Disco Boy",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "discoboy",
+    "wasmjs_filename": "mamediscoboy.js.gz",
+    "wasm_filename": "mamediscoboy.wasm.gz",
+    "file_locations": {
+        "mamediscoboy.wasm": "mamediscoboy.wasm.gz"
+    }
+}

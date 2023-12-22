@@ -1,0 +1,24 @@
+{
+  "name": "The Punisher (World 930422)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "punisher",
+  "wasmjs_filename": "mamecps1.js.gz",
+  "wasm_filename": "mamecps1.wasm.gz",
+  "file_locations": {
+    "mamecps1.wasm": "mamecps1.wasm.gz"
+  }
+}
+

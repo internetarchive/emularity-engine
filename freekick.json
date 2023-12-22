@@ -1,0 +1,23 @@
+{
+  "name": "Free Kick",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "freekick",
+  "wasmjs_filename": "mamefreekick.js.gz",
+  "wasm_filename": "mamefreekick.wasm.gz",
+  "file_locations": {
+    "mamefreekick.wasm": "mamefreekick.wasm.gz"
+  }
+}

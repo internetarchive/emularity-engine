@@ -1,0 +1,23 @@
+{
+    "name": "Vegas Roulette",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "vroulet",
+    "wasmjs_filename": "mamevroulet.js.gz",
+    "wasm_filename": "mamevroulet.wasm.gz",
+    "file_locations": {
+        "mamevroulet.wasm": "mamevroulet.wasm.gz"
+    }
+}

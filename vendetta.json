@@ -1,0 +1,24 @@
+{
+  "name": "Vendetta (World 4 Players ver. T)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    304,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "vendetta",
+  "wasmjs_filename": "mamevendetta.js.gz",
+  "wasm_filename": "mamevendetta.wasm.gz",
+  "file_locations": {
+    "mamevendetta.wasm": "mamevendetta.wasm.gz"
+  }
+}
+

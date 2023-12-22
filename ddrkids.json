@@ -1,0 +1,23 @@
+{
+  "name": "ddrkids",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    400,
+    300 
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "ddrkids",
+  "wasmjs_filename": "mamekonamigs.js.gz",
+  "wasm_filename": "mamekonamigs.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamekonamigs.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Taisen Idol-Mahjong Final Romance 2 (Japan, newer)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        352,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "fromanc2",
+    "wasmjs_filename": "mamefromanc2.js.gz",
+    "wasm_filename": "mamefromanc2.wasm.gz",
+    "file_locations": {
+        "mamefromanc2.wasm": "mamefromanc2.wasm.gz"
+    }
+}

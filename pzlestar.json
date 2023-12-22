@@ -1,0 +1,23 @@
+{
+    "name": "Puzzle Star (Sang Ho Soft)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        543,
+        465 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pzlestar",
+    "wasmjs_filename": "mamesangho.js.gz",
+    "wasm_filename": "mamesangho.wasm.gz",
+    "file_locations": {
+        "mamesangho.wasm": "mamesangho.wasm.gz"
+    }
+}

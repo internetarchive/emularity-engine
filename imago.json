@@ -1,0 +1,24 @@
+{
+  "name": "Imago (cocktail set)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "imago",
+  "wasmjs_filename": "mamefastfred.js.gz",
+  "wasm_filename": "mamefastfred.wasm.gz",
+  "file_locations": {
+    "mamefastfred.wasm": "mamefastfred.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+    "name": "Lethal Enforcers II: Gun Fighters (ver EAA)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "le2",
+    "wasmjs_filename": "mamekonamigx.js.gz",
+    "wasm_filename": "mamekonamigx.wasm.gz",
+    "file_locations": {
+        "mamekonamigx.wasm": "mamekonamigx.wasm.gz"
+    }
+}

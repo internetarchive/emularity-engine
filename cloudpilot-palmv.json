@@ -1,0 +1,17 @@
+{
+  "name": "Cloudpilot Palm V Emulation",
+  "native_resolution": [
+    160,
+    320
+  ],
+  "extra_args": [
+    ""
+  ],
+  "js_filename": "cloudpilot-emu.js",
+  "file_locations": {
+  "cloudpilot_web.wasm": "cloudpilot_web.wasm",
+  "cloudpilot-emu.js.map": "cloudpilot-emu.js.map"
+  },
+  "driver": "palmV",
+  "bios_filenames": ["Palm-V-4.0.rom", "session.img"]
+}

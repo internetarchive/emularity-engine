@@ -1,0 +1,22 @@
+{
+  "name": "Emerson Arcadia 2001",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    384,
+    262
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "arcadia",
+  "wasmjs_filename": "mamearcadia.js.gz",
+  "wasm_filename": "mamearcadia.wasm.gz",
+  "file_locations": {
+    "mamearcadia.wasm": "mamearcadia.wasm.gz"
+  }
+}

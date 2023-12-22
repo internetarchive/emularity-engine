@@ -1,0 +1,24 @@
+{
+  "name": "Dkong2Handheld",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    960,
+    618
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "gnw_dkong2",
+  "wasmjs_filename": "mamehh_sm510.js.gz",
+  "wasm_filename": "mamehh_sm510.wasm.gz",
+  "file_locations": {
+    "mamehh_sm510.wasm": "mamehh_sm510.wasm.gz"
+  }
+}

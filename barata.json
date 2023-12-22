@@ -1,0 +1,23 @@
+{
+    "name": "Dona Barata (early prototype)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        ,
+         
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "barata",
+    "wasmjs_filename": "mamebarata.js.gz",
+    "wasm_filename": "mamebarata.wasm.gz",
+    "file_locations": {
+        "mamebarata.wasm": "mamebarata.wasm.gz"
+    }
+}

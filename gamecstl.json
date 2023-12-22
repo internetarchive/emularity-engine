@@ -1,0 +1,23 @@
+{
+  "name": "gamecstl",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    200 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "gamecstl",
+  "wasmjs_filename": "mamegamecstl.js.gz",
+  "wasm_filename": "mamegamecstl.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamegamecstl.wasm.gz"
+  }
+}

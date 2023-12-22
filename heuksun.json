@@ -1,0 +1,23 @@
+{
+    "name": "Heuk Sun Baek Sa (Korea)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "heuksun",
+    "wasmjs_filename": "mamecrospang.js.gz",
+    "wasm_filename": "mamecrospang.wasm.gz",
+    "file_locations": {
+        "mamecrospang.wasm": "mamecrospang.wasm.gz"
+    }
+}

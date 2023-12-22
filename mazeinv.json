@@ -1,0 +1,24 @@
+{
+  "name": "Maze Invaders (prototype)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mazeinv",
+  "wasmjs_filename": "mamecentiped.js.gz",
+  "wasm_filename": "mamecentiped.wasm.gz",
+  "file_locations": {
+    "mamecentiped.wasm": "mamecentiped.wasm.gz"
+  }
+}
+

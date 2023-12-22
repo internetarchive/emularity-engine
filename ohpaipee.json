@@ -1,0 +1,23 @@
+{
+    "name": "Oh! Paipee (Japan 890227)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ohpaipee",
+    "wasmjs_filename": "mamenbmj8900.js.gz",
+    "wasm_filename": "mamenbmj8900.wasm.gz",
+    "file_locations": {
+        "mamenbmj8900.wasm": "mamenbmj8900.wasm.gz"
+    }
+}

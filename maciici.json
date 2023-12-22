@@ -1,0 +1,23 @@
+{
+  "name": "Apple Macintosh IIci",
+  "bios_filenames": [
+    "maciici.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    640,
+    480
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "maciici",
+  "wasmjs_filename": "maciici.js.gz",
+  "wasm_filename": "maciici.wasm.gz",
+  "file_locations": {
+    "mac.wasm": "maciici.wasm.gz"
+  }
+}

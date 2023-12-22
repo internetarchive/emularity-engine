@@ -1,0 +1,23 @@
+{
+    "name": "Top XXI (Version 1.2)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "top21",
+    "wasmjs_filename": "mamemil4000.js.gz",
+    "wasm_filename": "mamemil4000.wasm.gz",
+    "file_locations": {
+        "mamemil4000.wasm": "mamemil4000.wasm.gz"
+    }
+}

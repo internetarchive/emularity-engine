@@ -1,0 +1,23 @@
+{
+    "name": "Crystals Colours (Ver 1.02)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "crystalc",
+    "wasmjs_filename": "mamesnookr10.js.gz",
+    "wasm_filename": "mamesnookr10.wasm.gz",
+    "file_locations": {
+        "mamesnookr10.wasm": "mamesnookr10.wasm.gz"
+    }
+}

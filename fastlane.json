@@ -1,0 +1,23 @@
+{
+  "name": "Fast Lane",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    280
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "fastlane",
+  "wasmjs_filename": "mamefastlane.js.gz",
+  "wasm_filename": "mamefastlane.wasm.gz",
+  "file_locations": {
+    "mamefastlane.wasm": "mamefastlane.wasm.gz"
+  }
+}

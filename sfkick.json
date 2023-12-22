@@ -1,0 +1,24 @@
+{
+    "name": "Super Free Kick (set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        465,
+        543
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sfkick",
+    "wasmjs_filename": "mamesfkick.js.gz",
+    "wasm_filename": "mamesfkick.wasm.gz",
+    "file_locations": {
+        "mamesfkick.wasm": "mamesfkick.wasm.gz"
+    }
+}

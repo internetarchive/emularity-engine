@@ -1,0 +1,23 @@
+{
+    "name": "Trivia Madness - Series A Question set",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "trvmadns",
+    "wasmjs_filename": "mametrvmadns.js.gz",
+    "wasm_filename": "mametrvmadns.wasm.gz",
+    "file_locations": {
+        "mametrvmadns.wasm": "mametrvmadns.wasm.gz"
+    }
+}

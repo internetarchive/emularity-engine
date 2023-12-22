@@ -1,0 +1,24 @@
+{
+  "name": "Vs. Hogan's Alley (set HA4-1 E-1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hogalley",
+  "wasmjs_filename": "mamevsnes.js.gz",
+  "wasm_filename": "mamevsnes.wasm.gz",
+  "file_locations": {
+    "mamevsnes.wasm": "mamevsnes.wasm.gz"
+  }
+}
+

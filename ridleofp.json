@@ -1,0 +1,23 @@
+{
+  "name": "Riddle of Pythagoras",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    192,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ridleofp",
+  "wasmjs_filename": "mamesegae.js.gz",
+  "wasm_filename": "mamesegae.wasm.gz",
+  "file_locations": {
+    "mamesegae.wasm": "mamesegae.wasm.gz"
+  }
+}

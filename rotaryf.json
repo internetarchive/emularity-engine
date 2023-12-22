@@ -1,0 +1,23 @@
+{
+  "name": "Rotary Fighter",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    232,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "rotaryf",
+  "wasmjs_filename": "mamerotaryf.js.gz",
+  "wasm_filename": "mamerotaryf.wasm.gz",
+  "file_locations": {
+    "mamerotaryf.wasm": "mamerotaryf.wasm.gz"
+  }
+}

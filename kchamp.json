@@ -1,0 +1,23 @@
+{
+  "name": "Karate Champ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kchamp",
+  "wasmjs_filename": "mamekchamp.js.gz",
+  "wasm_filename": "mamekchamp.wasm.gz",
+  "file_locations": {
+    "mamekchamp.wasm": "mamekchamp.wasm.gz"
+  }
+}

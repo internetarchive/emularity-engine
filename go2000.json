@@ -1,0 +1,23 @@
+{
+    "name": "Go 2000",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "go2000",
+    "wasmjs_filename": "mamego2000.js.gz",
+    "wasm_filename": "mamego2000.wasm.gz",
+    "file_locations": {
+        "mamego2000.wasm": "mamego2000.wasm.gz"
+    }
+}

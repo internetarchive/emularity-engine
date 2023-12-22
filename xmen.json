@@ -1,0 +1,24 @@
+{
+  "name": "X-Men (4 Players ver UBB)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    304,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "xmen",
+  "wasmjs_filename": "mamexmen.js.gz",
+  "wasm_filename": "mamexmen.wasm.gz",
+  "file_locations": {
+    "mamexmen.wasm": "mamexmen.wasm.gz"
+  }
+}
+

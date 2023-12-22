@@ -1,0 +1,23 @@
+{
+  "name": "Tunnel Hunt",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tunhunt",
+  "wasmjs_filename": "mametunhunt.js.gz",
+  "wasm_filename": "mametunhunt.wasm.gz",
+  "file_locations": {
+    "mametunhunt.wasm": "mametunhunt.wasm.gz"
+  }
+}

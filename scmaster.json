@@ -1,0 +1,23 @@
+{
+    "name": "Super Cherry Master (v1.0)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "scmaster",
+    "wasmjs_filename": "mamegoldstar.js.gz",
+    "wasm_filename": "mamegoldstar.wasm.gz",
+    "file_locations": {
+        "mamegoldstar.wasm": "mamegoldstar.wasm.gz"
+    }
+}

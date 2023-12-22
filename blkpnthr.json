@@ -1,0 +1,23 @@
+{
+  "name": "Black Panther",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "blkpnthr",
+  "wasmjs_filename": "mamenemesis.js.gz",
+  "wasm_filename": "mamenemesis.wasm.gz",
+  "file_locations": {
+    "mamenemesis.wasm": "mamenemesis.wasm.gz"
+  }
+}

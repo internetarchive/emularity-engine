@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Kyou Jidai (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        464,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mjkjidai",
+    "wasmjs_filename": "mamemjkjidai.js.gz",
+    "wasm_filename": "mamemjkjidai.wasm.gz",
+    "file_locations": {
+        "mamemjkjidai.wasm": "mamemjkjidai.wasm.gz"
+    }
+}

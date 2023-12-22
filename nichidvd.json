@@ -1,0 +1,23 @@
+{
+    "name": "Nichibutsu High Rate DVD BIOS",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        543,
+        465 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "nichidvd",
+    "wasmjs_filename": "mamecsplayh5.js.gz",
+    "wasm_filename": "mamecsplayh5.wasm.gz",
+    "file_locations": {
+        "mamecsplayh5.wasm": "mamecsplayh5.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Taisen Mahjong Final Romance R (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        352,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "fromancr",
+    "wasmjs_filename": "mamefromanc2.js.gz",
+    "wasm_filename": "mamefromanc2.wasm.gz",
+    "file_locations": {
+        "mamefromanc2.wasm": "mamefromanc2.wasm.gz"
+    }
+}

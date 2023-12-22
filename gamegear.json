@@ -1,0 +1,22 @@
+{
+  "name": "Game Gear (Europe/America)",
+  "bios_filenames": [
+    "gamegear.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    160,
+    144
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "gamegear",
+  "wasmjs_filename": "mamesms.js.gz",
+  "wasm_filename": "mamesms.wasm.gz",
+  "file_locations": {
+    "mamesms.wasm": "mamesms.wasm.gz"
+  }
+}

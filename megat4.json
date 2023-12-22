@@ -1,0 +1,23 @@
+{
+    "name": "Megatouch IV (9255-40-01 R0E, Standard version)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        543,
+        465 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "megat4",
+    "wasmjs_filename": "mamemeritm.js.gz",
+    "wasm_filename": "mamemeritm.wasm.gz",
+    "file_locations": {
+        "mamemeritm.wasm": "mamemeritm.wasm.gz"
+    }
+}

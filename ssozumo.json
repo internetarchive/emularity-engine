@@ -1,0 +1,23 @@
+{
+  "name": "Syusse Oozumou",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ssozumo",
+  "wasmjs_filename": "mamessozumo.js.gz",
+  "wasm_filename": "mamessozumo.wasm.gz",
+  "file_locations": {
+    "mamessozumo.wasm": "mamessozumo.wasm.gz"
+  }
+}

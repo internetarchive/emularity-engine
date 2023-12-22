@@ -1,0 +1,23 @@
+{
+    "name": "Forte Card (Ver 110, Spanish)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        600,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "fortecrd",
+    "wasmjs_filename": "mamefortecar.js.gz",
+    "wasm_filename": "mamefortecar.wasm.gz",
+    "file_locations": {
+        "mamefortecar.wasm": "mamefortecar.wasm.gz"
+    }
+}

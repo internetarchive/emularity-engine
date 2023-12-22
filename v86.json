@@ -1,0 +1,20 @@
+{
+  "name": "v86",
+  "scale": 1,
+  "native_resolution": [
+    800,
+    600
+  ],
+  "peripherals": [
+    "fda",
+    "fdb",
+    "hda",
+    "hdb",
+    "cdrom"
+  ],
+  "bios_filename": "seabios.bin",
+  "vga_bios_filename": "vgabios.bin",
+  "js_filename": null,
+  "wasmjs_filename": "libv86.js.gz",
+  "wasm_filename": "v86.wasm.gz"
+}

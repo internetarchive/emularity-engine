@@ -1,0 +1,23 @@
+{
+    "name": "Princess Clara Daisakusen (J 960910 V1.000)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        352,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "prikura",
+    "wasmjs_filename": "mamestv.js.gz",
+    "wasm_filename": "mamestv.wasm.gz",
+    "file_locations": {
+        "mamestv.wasm": "mamestv.wasm.gz"
+    }
+}

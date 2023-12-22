@@ -1,0 +1,23 @@
+{
+  "name": "Coors Light Bowling",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    245,
+    360
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "clbowl",
+  "wasmjs_filename": "mamecapbowl.js.gz",
+  "wasm_filename": "mamecapbowl.wasm.gz",
+  "file_locations": {
+    "mamecapbowl.wasm": "mamecapbowl.wasm.gz"
+  }
+}

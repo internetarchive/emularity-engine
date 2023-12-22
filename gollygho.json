@@ -1,0 +1,24 @@
+{
+  "name": "Golly! Ghost!",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    224 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "gollygho",
+  "wasmjs_filename": "mamenamcos2.js.gz",
+  "wasm_filename": "mamenamcos2.wasm.gz",
+  "file_locations": {
+    "mamenamcos2.wasm": "mamenamcos2.wasm.gz"
+  }
+}
+

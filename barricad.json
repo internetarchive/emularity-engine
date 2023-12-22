@@ -1,0 +1,23 @@
+{
+    "name": "Barricade",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        192 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "barricad",
+    "wasmjs_filename": "mamehitme.js.gz",
+    "wasm_filename": "mamehitme.wasm.gz",
+    "file_locations": {
+        "mamehitme.wasm": "mamehitme.wasm.gz"
+    }
+}

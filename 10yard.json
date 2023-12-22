@@ -1,0 +1,24 @@
+{
+  "name": "10-Yard Fight (World set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "10yard",
+  "wasmjs_filename": "mamem58.js.gz",
+  "wasm_filename": "mamem58.wasm.gz",
+  "file_locations": {
+    "mamem58.wasm": "mamem58.wasm.gz"
+  }
+}
+

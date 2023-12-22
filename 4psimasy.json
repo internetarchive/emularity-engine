@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong 4P Simasyo (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "4psimasy",
+    "wasmjs_filename": "mameniyanpai.js.gz",
+    "wasm_filename": "mameniyanpai.wasm.gz",
+    "file_locations": {
+        "mameniyanpai.wasm": "mameniyanpai.wasm.gz"
+    }
+}

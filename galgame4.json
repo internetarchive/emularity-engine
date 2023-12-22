@@ -1,0 +1,23 @@
+{
+    "name": "Galaxy Games StarPak 4 (prototype)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        400,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "galgame4",
+    "wasmjs_filename": "mamegalgames.js.gz",
+    "wasm_filename": "mamegalgames.wasm.gz",
+    "file_locations": {
+        "mamegalgames.wasm": "mamegalgames.wasm.gz"
+    }
+}

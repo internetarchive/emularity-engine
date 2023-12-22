@@ -1,0 +1,23 @@
+{
+  "name": "Sauro",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sauro",
+  "wasmjs_filename": "mamesauro.js.gz",
+  "wasm_filename": "mamesauro.wasm.gz",
+  "file_locations": {
+    "mamesauro.wasm": "mamesauro.wasm.gz"
+  }
+}

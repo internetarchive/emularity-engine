@@ -1,0 +1,23 @@
+{
+    "name": "Alien Crush (United Amusements PC Engine)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        1088,
+        242 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "aliencr",
+    "wasmjs_filename": "mameuapce.js.gz",
+    "wasm_filename": "mameuapce.wasm.gz",
+    "file_locations": {
+        "mameuapce.wasm": "mameuapce.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Virtual Mahjong 2 - My Fair Lady (J 980608 V1.000)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        352,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "myfairld",
+    "wasmjs_filename": "mamestv.js.gz",
+    "wasm_filename": "mamestv.wasm.gz",
+    "file_locations": {
+        "mamestv.wasm": "mamestv.wasm.gz"
+    }
+}

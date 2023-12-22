@@ -1,0 +1,24 @@
+{
+  "name": "Lady Master of Kung Fu (set 1 newer)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ladymstr",
+  "wasmjs_filename": "mametsamurai.js.gz",
+  "wasm_filename": "mametsamurai.wasm.gz",
+  "file_locations": {
+    "mametsamurai.wasm": "mametsamurai.wasm.gz"
+  }
+}
+

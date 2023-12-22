@@ -1,0 +1,23 @@
+{
+  "name": "Wily Tower",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "wilytowr",
+  "wasmjs_filename": "mamem63.js.gz",
+  "wasm_filename": "mamem63.wasm.gz",
+  "file_locations": {
+    "mamem63.wasm": "mamem63.wasm.gz"
+  }
+}

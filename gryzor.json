@@ -1,0 +1,23 @@
+{
+  "name": "Gryzor",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    280
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "gryzor",
+  "wasmjs_filename": "mamecontra.js.gz",
+  "wasm_filename": "mamecontra.wasm.gz",
+  "file_locations": {
+    "mamecontra.wasm": "mamecontra.wasm.gz"
+  }
+}

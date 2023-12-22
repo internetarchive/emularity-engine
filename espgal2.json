@@ -1,0 +1,23 @@
+{
+    "name": "Espgaluda II (2005-11-14 MASTER VER)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "espgal2",
+    "wasmjs_filename": "mamecv1k.js.gz",
+    "wasm_filename": "mamecv1k.wasm.gz",
+    "file_locations": {
+        "mamecv1k.wasm": "mamecv1k.wasm.gz"
+    }
+}

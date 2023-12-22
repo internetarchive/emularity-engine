@@ -1,0 +1,23 @@
+{
+    "name": "Glass (Ver 1.1, Break Edition, Checksum 49D5E66B, Version 1994)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        368,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "glass",
+    "wasmjs_filename": "mameglass.js.gz",
+    "wasm_filename": "mameglass.wasm.gz",
+    "file_locations": {
+        "mameglass.wasm": "mameglass.wasm.gz"
+    }
+}

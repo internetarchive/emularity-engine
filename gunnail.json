@@ -1,0 +1,24 @@
+{
+    "name": "GunNail (28th May. 1992)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        224,
+        384
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "gunnail",
+    "wasmjs_filename": "mamenmk16.js.gz",
+    "wasm_filename": "mamenmk16.wasm.gz",
+    "file_locations": {
+        "mamenmk16.wasm": "mamenmk16.wasm.gz"
+    }
+}

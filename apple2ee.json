@@ -1,0 +1,23 @@
+{
+  "name": "Apple IIe Enhanced",
+  "bios_filenames": [
+    "apple2e.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    560,
+    384
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "apple2ee",
+  "wasmjs_filename": "apple2e.js.gz",
+  "wasm_filename": "apple2e.wasm.gz",
+  "file_locations": {
+    "apple2e.wasm": "apple2e.wasm.gz"
+  }
+}

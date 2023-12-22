@@ -1,0 +1,23 @@
+{
+    "name": "Car Jamboree",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "carjmbre",
+    "wasmjs_filename": "mamecarjmbre.js.gz",
+    "wasm_filename": "mamecarjmbre.wasm.gz",
+    "file_locations": {
+        "mamecarjmbre.wasm": "mamecarjmbre.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Funky Bee",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    236
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "funkybee",
+  "wasmjs_filename": "mamefunkybee.js.gz",
+  "wasm_filename": "mamefunkybee.wasm.gz",
+  "file_locations": {
+    "mamefunkybee.wasm": "mamefunkybee.wasm.gz"
+  }
+}

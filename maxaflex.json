@@ -1,0 +1,23 @@
+{
+    "name": "Max-A-Flex",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        336,
+        225 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "maxaflex",
+    "wasmjs_filename": "mamemaxaflex.js.gz",
+    "wasm_filename": "mamemaxaflex.wasm.gz",
+    "file_locations": {
+        "mamemaxaflex.wasm": "mamemaxaflex.wasm.gz"
+    }
+}

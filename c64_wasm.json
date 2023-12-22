@@ -1,0 +1,23 @@
+{
+  "name": "Commodore 64",
+  "bios_filenames": [],
+  "peripherals": [
+    "flop"
+  ],
+  "native_resolution": [
+    418,
+    235
+  ],
+  "extra_args": [
+    "-joy1",
+    "joy",
+    "-joy2",
+    "joy"
+  ],
+  "driver": "c64",
+  "wasmjs_filename": "mamec64_wasm.js.gz",
+  "wasm_filename": "mamec64.wasm.wasm.gz",
+  "file_locations": {
+    "mamec64.wasm.wasm": "mamec64.wasm.wasm.gz"
+  }
+}

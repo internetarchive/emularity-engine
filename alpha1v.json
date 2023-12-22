@@ -1,0 +1,23 @@
+{
+    "name": "Alpha One (Vision Electronics)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        240,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "alpha1v",
+    "wasmjs_filename": "mamem52.js.gz",
+    "wasm_filename": "mamem52.wasm.gz",
+    "file_locations": {
+        "mamem52.wasm": "mamem52.wasm.gz"
+    }
+}

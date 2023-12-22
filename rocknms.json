@@ -1,0 +1,23 @@
+{
+    "name": "Rock'n MegaSession (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "rocknms",
+    "wasmjs_filename": "mametetrisp2.js.gz",
+    "wasm_filename": "mametetrisp2.wasm.gz",
+    "file_locations": {
+        "mametetrisp2.wasm": "mametetrisp2.wasm.gz"
+    }
+}

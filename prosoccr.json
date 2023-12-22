@@ -1,0 +1,23 @@
+{
+  "name": "Pro Soccer",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "prosoccr",
+  "wasmjs_filename": "mameliberate.js.gz",
+  "wasm_filename": "mameliberate.wasm.gz",
+  "file_locations": {
+    "mameliberate.wasm": "mameliberate.wasm.gz"
+  }
+}

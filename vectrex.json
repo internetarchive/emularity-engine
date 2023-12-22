@@ -1,0 +1,22 @@
+{
+  "name": "GCE Vectrex",
+  "bios_filenames": [
+    "vectrex.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    480,
+    640
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "vectrex",
+  "file_locations": {
+    "mamevectrex.wasm": "mamevectrex.wasm.gz"
+  },
+  "wasmjs_filename": "mamevectrex.js.gz",
+  "wasm_filename": "mamevectrex.wasm.gz"
+}

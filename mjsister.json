@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Sisters (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mjsister",
+    "wasmjs_filename": "mamemjsister.js.gz",
+    "wasm_filename": "mamemjsister.wasm.gz",
+    "file_locations": {
+        "mamemjsister.wasm": "mamemjsister.wasm.gz"
+    }
+}

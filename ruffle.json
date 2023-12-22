@@ -1,0 +1,13 @@
+{
+  "name": "RUFFLE Flash Emulation",
+  "native_resolution": [
+    800,
+    600 
+  ],
+  "extra_args": [
+    ""
+  ],
+  "js_filename": "ruffle.js",
+  "driver": "ruffle"
+}
+

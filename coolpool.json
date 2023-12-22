@@ -1,0 +1,24 @@
+{
+  "name": "Cool Pool",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "coolpool",
+  "wasmjs_filename": "mamecoolpool.js.gz",
+  "wasm_filename": "mamecoolpool.wasm.gz",
+  "file_locations": {
+    "mamecoolpool.wasm": "mamecoolpool.wasm.gz"
+  }
+}
+

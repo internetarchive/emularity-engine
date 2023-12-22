@@ -1,0 +1,24 @@
+{
+  "name": "Toobin' ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    384,
+    512
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "toobin",
+  "wasmjs_filename": "mametoobin.js.gz",
+  "wasm_filename": "mametoobin.wasm.gz",
+  "file_locations": {
+    "mametoobin.wasm": "mametoobin.wasm.gz"
+  }
+}

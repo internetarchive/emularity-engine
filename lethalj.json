@@ -1,0 +1,24 @@
+{
+    "name": "Lethal Justice (Version 2.3)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        512,
+        472
+    ],
+    "extra_args": [
+        "-mouse"
+    ],
+    "driver": "lethalj",
+    "wasmjs_filename": "mamelethalj.js.gz",
+    "wasm_filename": "mamelethalj.wasm.gz",
+    "file_locations": {
+        "mamelethalj.wasm": "mamelethalj.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fire One",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "fireone",
+  "wasmjs_filename": "mamestarfire.js.gz",
+  "wasm_filename": "mamestarfire.wasm.gz",
+  "file_locations": {
+    "mamestarfire.wasm": "mamestarfire.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "mtchxl5k",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mtchxl5k",
+  "wasmjs_filename": "mamemtouchxl.js.gz",
+  "wasm_filename": "mamemtouchxl.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamemtouchxl.wasm.gz"
+  }
+}

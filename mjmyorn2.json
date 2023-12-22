@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong The Mysterious Orient Part 2 ~ Exotic Dream ~ [BET] (Japan, v1.00)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        336,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mjmyorn2",
+    "wasmjs_filename": "mameddenlovr.js.gz",
+    "wasm_filename": "mameddenlovr.wasm.gz",
+    "file_locations": {
+        "mameddenlovr.wasm": "mameddenlovr.wasm.gz"
+    }
+}

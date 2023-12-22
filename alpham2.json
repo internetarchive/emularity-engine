@@ -1,0 +1,24 @@
+{
+  "name": "Alpha Mission II - ASO II - Last Guardian (NGM-007 ~ NGH-007)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "alpham2",
+  "wasmjs_filename": "mameneogeo.js.gz",
+  "wasm_filename": "mameneogeo.wasm.gz",
+  "file_locations": {
+    "mameneogeo.wasm": "mameneogeo.wasm.gz"
+  }
+}
+

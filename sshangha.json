@@ -1,0 +1,24 @@
+{
+  "name": "Super Shanghai Dragon's Eye (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sshangha",
+  "wasmjs_filename": "mamesshangha.js.gz",
+  "wasm_filename": "mamesshangha.wasm.gz",
+  "file_locations": {
+    "mamesshangha.wasm": "mamesshangha.wasm.gz"
+  }
+}
+

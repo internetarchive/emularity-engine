@@ -1,0 +1,23 @@
+{
+  "name": "md23do",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "md23do",
+  "wasmjs_filename": "mame3do.js.gz",
+  "wasm_filename": "mame3do.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mame3do.wasm.gz"
+  }
+}

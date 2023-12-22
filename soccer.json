@@ -1,0 +1,24 @@
+{
+  "name": "Atari Soccer",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    304,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "soccer",
+  "wasmjs_filename": "mameatarifb.js.gz",
+  "wasm_filename": "mameatarifb.wasm.gz",
+  "file_locations": {
+    "mameatarifb.wasm": "mameatarifb.wasm.gz"
+  }
+}
+

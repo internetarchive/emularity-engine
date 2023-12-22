@@ -1,0 +1,24 @@
+{
+  "name": "carnking",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    384 
+  ],
+  "extra_args": [
+    "-mouse",
+    "-nodrc"
+  ],
+  "driver": "carnking",
+  "wasmjs_filename": "mameiteagle.js.gz",
+  "wasm_filename": "mameiteagle.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mameiteagle.wasm.gz"
+  }
+}

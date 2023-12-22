@@ -1,0 +1,23 @@
+{
+  "name": "Strike Bowling",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sbowling",
+  "wasmjs_filename": "mamesbowling.js.gz",
+  "wasm_filename": "mamesbowling.wasm.gz",
+  "file_locations": {
+    "mamesbowling.wasm": "mamesbowling.wasm.gz"
+  }
+}

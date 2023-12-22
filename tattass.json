@@ -1,0 +1,23 @@
+{
+    "name": "Tattoo Assassins (US prototype, Mar 14 1995)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tattass",
+    "wasmjs_filename": "mamedeco32.js.gz",
+    "wasm_filename": "mamedeco32.wasm.gz",
+    "file_locations": {
+        "mamedeco32.wasm": "mamedeco32.wasm.gz"
+    }
+}

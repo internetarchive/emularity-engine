@@ -1,0 +1,23 @@
+{
+  "name": "wargods",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    400 
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "wargods",
+  "wasmjs_filename": "mamemidvunit.js.gz",
+  "wasm_filename": "mamemidvunit.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamemidvunit.wasm.gz"
+  }
+}

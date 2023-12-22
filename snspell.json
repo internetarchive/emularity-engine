@@ -1,0 +1,24 @@
+{
+  "name": "Speak and Spell (US, 1979 Version)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    500,
+    706 
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "snspell",
+  "wasmjs_filename": "mametispeak.js.gz",
+  "wasm_filename": "mametispeak.wasm.gz",
+  "file_locations": {
+    "mametispeak.wasm": "mametispeak.wasm.gz"
+  }
+}

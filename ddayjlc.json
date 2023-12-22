@@ -1,0 +1,23 @@
+{
+  "name": "D-Day",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ddayjlc",
+  "wasmjs_filename": "mameddayjlc.js.gz",
+  "wasm_filename": "mameddayjlc.wasm.gz",
+  "file_locations": {
+    "mameddayjlc.wasm": "mameddayjlc.wasm.gz"
+  }
+}

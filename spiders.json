@@ -1,0 +1,23 @@
+{
+  "name": "Spiders",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "spiders",
+  "wasmjs_filename": "mamespiders.js.gz",
+  "wasm_filename": "mamespiders.wasm.gz",
+  "file_locations": {
+    "mamespiders.wasm": "mamespiders.wasm.gz"
+  }
+}

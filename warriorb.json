@@ -1,0 +1,23 @@
+{
+    "name": "Warrior Blade - Rastan Saga Episode III (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        240
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "warriorb",
+    "wasmjs_filename": "mamewarriorb.js.gz",
+    "wasm_filename": "mamewarriorb.wasm.gz",
+    "file_locations": {
+        "mamewarriorb.wasm": "mamewarriorb.wasm.gz"
+    }
+}

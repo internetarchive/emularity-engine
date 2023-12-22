@@ -1,0 +1,23 @@
+{
+    "name": "Ojousan (Japan 871204)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ojousan",
+    "wasmjs_filename": "mamenbmj8688.js.gz",
+    "wasm_filename": "mamenbmj8688.wasm.gz",
+    "file_locations": {
+        "mamenbmj8688.wasm": "mamenbmj8688.wasm.gz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Intellivision",
+  "bios_filenames": [
+    "intv.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    240,
+    189
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "intv",
+  "wasmjs_filename": "mameintv.js.gz",
+  "wasm_filename": "mameintv.wasm.gz",
+  "file_locations": {
+    "mameintv.wasm": "mameintv.wasm.gz"
+  }
+}

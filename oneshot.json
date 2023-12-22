@@ -1,0 +1,23 @@
+{
+    "name": "One Shot One Kill",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "oneshot",
+    "wasmjs_filename": "mameoneshot.js.gz",
+    "wasm_filename": "mameoneshot.wasm.gz",
+    "file_locations": {
+        "mameoneshot.wasm": "mameoneshot.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Kabuki-Z (World)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kabukiz",
+  "wasmjs_filename": "mametnzs.js.gz",
+  "wasm_filename": "mametnzs.wasm.gz",
+  "file_locations": {
+    "mametnzs.wasm": "mametnzs.wasm.gz"
+  }
+}
+

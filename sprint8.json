@@ -1,0 +1,24 @@
+{
+  "name": "Sprint 8",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    496,
+    232 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sprint8",
+  "wasmjs_filename": "mamesprint8.js.gz",
+  "wasm_filename": "mamesprint8.wasm.gz",
+  "file_locations": {
+    "mamesprint8.wasm": "mamesprint8.wasm.gz"
+  }
+}
+

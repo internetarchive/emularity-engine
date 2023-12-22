@@ -1,0 +1,24 @@
+{
+  "name": "Puzzle Uo Poko (International)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "uopoko",
+  "wasmjs_filename": "mamecave.js.gz",
+  "wasm_filename": "mamecave.wasm.gz",
+  "file_locations": {
+    "mamecave.wasm": "mamecave.wasm.gz"
+  }
+}
+

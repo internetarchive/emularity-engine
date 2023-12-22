@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Tomy",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "drtomy",
+  "wasmjs_filename": "mamedrtomy.js.gz",
+  "wasm_filename": "mamedrtomy.wasm.gz",
+  "file_locations": {
+    "mamedrtomy.wasm": "mamedrtomy.wasm.gz"
+  }
+}
+

@@ -1,0 +1,25 @@
+{
+  "name": "CXG Ch-2001 Chess Computer",
+  "bios_filenames": [
+     "ch2001.zip",
+     "chess.zip"
+   ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    800,
+    900
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "ch2001",
+  "wasmjs_filename": "ch2001.js.gz",
+  "wasm_filename": "ch2001.wasm.gz",
+  "file_locations": {
+    "ch2001.wasm": "ch2001.wasm.gz"
+  }
+}

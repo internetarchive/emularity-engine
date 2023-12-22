@@ -1,0 +1,23 @@
+{
+  "name": "Lady Bug",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    192,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ladybug",
+  "wasmjs_filename": "mameladybug.js.gz",
+  "wasm_filename": "mameladybug.wasm.gz",
+  "file_locations": {
+    "mameladybug.wasm": "mameladybug.wasm.gz"
+  }
+}

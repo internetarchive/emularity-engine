@@ -1,0 +1,23 @@
+{
+    "name": "Super Derby (Playmark, v.07.03)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sderby",
+    "wasmjs_filename": "mamesderby.js.gz",
+    "wasm_filename": "mamesderby.wasm.gz",
+    "file_locations": {
+        "mamesderby.wasm": "mamesderby.wasm.gz"
+    }
+}

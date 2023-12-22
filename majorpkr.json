@@ -1,0 +1,23 @@
+{
+    "name": "Major Poker (set 1, v2.0)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        560,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "majorpkr",
+    "wasmjs_filename": "mamemajorpkr.js.gz",
+    "wasm_filename": "mamemajorpkr.wasm.gz",
+    "file_locations": {
+        "mamemajorpkr.wasm": "mamemajorpkr.wasm.gz"
+    }
+}

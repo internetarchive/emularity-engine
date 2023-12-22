@@ -1,0 +1,23 @@
+{
+    "name": "Quiz Panicuru Fantasy",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "quizpani",
+    "wasmjs_filename": "mamequizpani.js.gz",
+    "wasm_filename": "mamequizpani.wasm.gz",
+    "file_locations": {
+        "mamequizpani.wasm": "mamequizpani.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Knightmare",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kngtmare",
+  "wasmjs_filename": "mamegottlieb.js.gz",
+  "wasm_filename": "mamegottlieb.wasm.gz",
+  "file_locations": {
+    "mamegottlieb.wasm": "mamegottlieb.wasm.gz"
+  }
+}

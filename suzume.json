@@ -1,0 +1,23 @@
+{
+    "name": "Watashiha Suzumechan (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "suzume",
+    "wasmjs_filename": "mameroyalmah.js.gz",
+    "wasm_filename": "mameroyalmah.wasm.gz",
+    "file_locations": {
+        "mameroyalmah.wasm": "mameroyalmah.wasm.gz"
+    }
+}

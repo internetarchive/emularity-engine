@@ -1,0 +1,23 @@
+{
+  "name": "Psychic 5",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "psychic5",
+  "wasmjs_filename": "mamepsychic5.js.gz",
+  "wasm_filename": "mamepsychic5.wasm.gz",
+  "file_locations": {
+    "mamepsychic5.wasm": "mamepsychic5.wasm.gz"
+  }
+}

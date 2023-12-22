@@ -1,0 +1,23 @@
+{
+    "name": "Super Lucky Roulette",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "roul",
+    "wasmjs_filename": "mameroul.js.gz",
+    "wasm_filename": "mameroul.wasm.gz",
+    "file_locations": {
+        "mameroul.wasm": "mameroul.wasm.gz"
+    }
+}

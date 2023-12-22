@@ -1,0 +1,23 @@
+{
+    "name": "Winning Run Suzuka Grand Prix (Japan) (89-12-03, Ver.02)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        496,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "winrungp",
+    "wasmjs_filename": "mamenamcos21.js.gz",
+    "wasm_filename": "mamenamcos21.wasm.gz",
+    "file_locations": {
+        "mamenamcos21.wasm": "mamenamcos21.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Escape from the Planet of the Robot Monsters ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    336,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "eprom",
+  "wasmjs_filename": "mameeprom.js.gz",
+  "wasm_filename": "mameeprom.wasm.gz",
+  "file_locations": {
+    "mameeprom.wasm": "mameeprom.wasm.gz"
+  }
+}

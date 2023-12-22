@@ -1,0 +1,23 @@
+{
+    "name": "Super Chase - Criminal Termination (World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "superchs",
+    "wasmjs_filename": "mamesuperchs.js.gz",
+    "wasm_filename": "mamesuperchs.wasm.gz",
+    "file_locations": {
+        "mamesuperchs.wasm": "mamesuperchs.wasm.gz"
+    }
+}

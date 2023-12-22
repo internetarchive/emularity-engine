@@ -1,0 +1,24 @@
+{
+    "name": "Grudge Match (Yankee Game Technology)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        400,
+        240
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "grmatch",
+    "wasmjs_filename": "mameitech8.js.gz",
+    "wasm_filename": "mameitech8.wasm.gz",
+    "file_locations": {
+        "mameitech8.wasm": "mameitech8.wasm.gz"
+    }
+}

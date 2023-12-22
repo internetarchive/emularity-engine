@@ -1,0 +1,23 @@
+{
+    "name": "Tottemo E Jong",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "totmejan",
+    "wasmjs_filename": "mamegoodejan.js.gz",
+    "wasm_filename": "mamegoodejan.wasm.gz",
+    "file_locations": {
+        "mamegoodejan.wasm": "mamegoodejan.wasm.gz"
+    }
+}

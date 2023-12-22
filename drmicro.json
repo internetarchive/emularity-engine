@@ -1,0 +1,23 @@
+{
+  "name": "Dr. Micro",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "drmicro",
+  "wasmjs_filename": "mamedrmicro.js.gz",
+  "wasm_filename": "mamedrmicro.wasm.gz",
+  "file_locations": {
+    "mamedrmicro.wasm": "mamedrmicro.wasm.gz"
+  }
+}

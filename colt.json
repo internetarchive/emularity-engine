@@ -1,0 +1,23 @@
+{
+  "name": "Colt",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "colt",
+  "wasmjs_filename": "mamenycaptor.js.gz",
+  "wasm_filename": "mamenycaptor.wasm.gz",
+  "file_locations": {
+    "mamenycaptor.wasm": "mamenycaptor.wasm.gz"
+  }
+}

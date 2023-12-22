@@ -1,0 +1,23 @@
+{
+    "name": "Motor Raid - Twin",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        496,
+        384 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "motoraid",
+    "wasmjs_filename": "mamemodel2.js.gz",
+    "wasm_filename": "mamemodel2.wasm.gz",
+    "file_locations": {
+        "mamemodel2.wasm": "mamemodel2.wasm.gz"
+    }
+}

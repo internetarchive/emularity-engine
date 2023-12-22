@@ -1,0 +1,23 @@
+{
+    "name": "Trophy Hunting - Bear THENAMEamp; Moose V1.00",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "trophyh",
+    "wasmjs_filename": "mameseta2.js.gz",
+    "wasm_filename": "mameseta2.wasm.gz",
+    "file_locations": {
+        "mameseta2.wasm": "mameseta2.wasm.gz"
+    }
+}

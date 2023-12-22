@@ -1,0 +1,23 @@
+{
+    "name": "System 573 BIOS",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sys573",
+    "wasmjs_filename": "mameksys573.js.gz",
+    "wasm_filename": "mameksys573.wasm.gz",
+    "file_locations": {
+        "mameksys573.wasm": "mameksys573.wasm.gz"
+    }
+}

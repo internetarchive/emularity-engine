@@ -1,0 +1,23 @@
+{
+    "name": "Wild Arrow (color, Standard V4.8)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "wldarrow",
+    "wasmjs_filename": "mamemeyc8080.js.gz",
+    "wasm_filename": "mamemeyc8080.wasm.gz",
+    "file_locations": {
+        "mamemeyc8080.wasm": "mamemeyc8080.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tetris the Absolute The Grand Master 2",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tgm2",
+  "wasmjs_filename": "mamepsikyosh.js.gz",
+  "wasm_filename": "mamepsikyosh.wasm.gz",
+  "file_locations": {
+    "mamepsikyosh.wasm": "mamepsikyosh.wasm.gz"
+  }
+}
+

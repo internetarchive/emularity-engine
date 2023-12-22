@@ -1,0 +1,23 @@
+{
+    "name": "Killer Instinct (SNES bootleg)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        225 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "kinstb",
+    "wasmjs_filename": "mamesnesb.js.gz",
+    "wasm_filename": "mamesnesb.wasm.gz",
+    "file_locations": {
+        "mamesnesb.wasm": "mamesnesb.wasm.gz"
+    }
+}

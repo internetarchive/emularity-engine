@@ -1,0 +1,23 @@
+{
+  "name": "Van-Van Car",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "vanvan",
+  "wasmjs_filename": "mamepacman.js.gz",
+  "wasm_filename": "mamepacman.wasm.gz",
+  "file_locations": {
+    "mamepacman.wasm": "mamepacman.wasm.gz"
+  }
+}

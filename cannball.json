@@ -1,0 +1,24 @@
+{
+  "name": "Cannon Ball (Yun Sung horizontal)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cannball",
+  "wasmjs_filename": "mameyunsung8.js.gz",
+  "wasm_filename": "mameyunsung8.wasm.gz",
+  "file_locations": {
+    "mameyunsung8.wasm": "mameyunsung8.wasm.gz"
+  }
+}
+

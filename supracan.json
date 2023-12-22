@@ -1,0 +1,22 @@
+{
+  "name": "Super A'Can",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "supracan",
+  "wasmjs_filename": "mamesupracan.js.gz",
+  "wasm_filename": "mamesupracan.wasm.gz",
+  "file_locations": {
+    "mamesupracan.wasm": "mamesupracan.wasm.gz"
+  }
+}

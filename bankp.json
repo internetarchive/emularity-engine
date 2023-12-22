@@ -1,0 +1,23 @@
+{
+  "name": "Bank Panic",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bankp",
+  "wasmjs_filename": "mamebankp.js.gz",
+  "wasm_filename": "mamebankp.wasm.gz",
+  "file_locations": {
+    "mamebankp.wasm": "mamebankp.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Arabian",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    234,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "arabian",
+  "wasmjs_filename": "mamearabian.js.gz",
+  "wasm_filename": "mamearabian.wasm.gz",
+  "file_locations": {
+    "mamearabian.wasm": "mamearabian.wasm.gz"
+  }
+}

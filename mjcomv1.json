@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Comic Gekijou Vol.1 (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        336,
+        239 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mjcomv1",
+    "wasmjs_filename": "mamedynax.js.gz",
+    "wasm_filename": "mamedynax.wasm.gz",
+    "file_locations": {
+        "mamedynax.wasm": "mamedynax.wasm.gz"
+    }
+}

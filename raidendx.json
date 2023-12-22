@@ -1,0 +1,24 @@
+{
+  "name": "Raiden DX (UK)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    320
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "raidendx",
+  "wasmjs_filename": "mameraiden2.js.gz",
+  "wasm_filename": "mameraiden2.wasm.gz",
+  "file_locations": {
+    "mameraiden2.wasm": "mameraiden2.wasm.gz"
+  }
+}
+

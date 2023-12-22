@@ -1,0 +1,23 @@
+{
+    "name": "Scorpion (set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        768,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "scorpion",
+    "wasmjs_filename": "mamegalaxian.js.gz",
+    "wasm_filename": "mamegalaxian.wasm.gz",
+    "file_locations": {
+        "mamegalaxian.wasm": "mamegalaxian.wasm.gz"
+    }
+}

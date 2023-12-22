@@ -1,0 +1,16 @@
+{
+  "name": "DOSBox-X",
+  "scale": 1,
+  "native_resolution": [
+    640,
+    480
+  ],
+  "extra_args": [
+    ""
+  ],
+  "wasmjs_filename": "dosbox-x.js.gz",
+  "wasm_filename": "dosbox-x.wasm.gz",
+  "file_locations": {
+  },
+  "driver": "dosbox"
+}

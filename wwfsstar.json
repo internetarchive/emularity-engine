@@ -1,0 +1,23 @@
+{
+  "name": "WWF Superstars ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "wwfsstar",
+  "wasmjs_filename": "mamewwfsstar.js.gz",
+  "wasm_filename": "mamewwfsstar.wasm.gz",
+  "file_locations": {
+    "mamewwfsstar.wasm": "mamewwfsstar.wasm.gz"
+  }
+}

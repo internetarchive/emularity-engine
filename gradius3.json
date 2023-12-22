@@ -1,0 +1,23 @@
+{
+  "name": "Gradius III ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "gradius3",
+  "wasmjs_filename": "mamegradius3.js.gz",
+  "wasm_filename": "mamegradius3.wasm.gz",
+  "file_locations": {
+    "mamegradius3.wasm": "mamegradius3.wasm.gz"
+  }
+}

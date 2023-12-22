@@ -1,0 +1,23 @@
+{
+  "name": "Cosmic Chasm",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    480,
+    640
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cchasm",
+  "wasmjs_filename": "mamecchasm.js.gz",
+  "wasm_filename": "mamecchasm.wasm.gz",
+  "file_locations": {
+    "mamecchasm.wasm": "mamecchasm.wasm.gz"
+  }
+}

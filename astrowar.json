@@ -1,0 +1,23 @@
+{
+    "name": "Astro Wars",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        240,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "astrowar",
+    "wasmjs_filename": "mamegalaxia.js.gz",
+    "wasm_filename": "mamegalaxia.wasm.gz",
+    "file_locations": {
+        "mamegalaxia.wasm": "mamegalaxia.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Triple Hunt",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "triplhnt",
+  "wasmjs_filename": "mametriplhnt.js.gz",
+  "wasm_filename": "mametriplhnt.wasm.gz",
+  "file_locations": {
+    "mametriplhnt.wasm": "mametriplhnt.wasm.gz"
+  }
+}
+

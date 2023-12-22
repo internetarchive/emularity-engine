@@ -1,0 +1,23 @@
+{
+    "name": "Shooting Master (8751 315-5159a)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "shtngmst",
+    "wasmjs_filename": "mamesystem1.js.gz",
+    "wasm_filename": "mamesystem1.wasm.gz",
+    "file_locations": {
+        "mamesystem1.wasm": "mamesystem1.wasm.gz"
+    }
+}

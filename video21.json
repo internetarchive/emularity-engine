@@ -1,0 +1,23 @@
+{
+    "name": "Video 21",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "video21",
+    "wasmjs_filename": "mamevideo21.js.gz",
+    "wasm_filename": "mamevideo21.wasm.gz",
+    "file_locations": {
+        "mamevideo21.wasm": "mamevideo21.wasm.gz"
+    }
+}

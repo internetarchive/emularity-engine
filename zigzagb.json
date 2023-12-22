@@ -1,0 +1,23 @@
+{
+    "name": "Zig Zag (Dig Dug conversion on Galaxian hardware bootleg set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        448,
+        768
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "zigzagb",
+    "wasmjs_filename": "mamegalaxian.js.gz",
+    "wasm_filename": "mamegalaxian.wasm.gz",
+    "file_locations": {
+        "mamegalaxian.wasm": "mamegalaxian.wasm.gz"
+    }
+}

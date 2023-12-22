@@ -1,0 +1,23 @@
+{
+  "name": "Haunted Castle ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hcastle",
+  "wasmjs_filename": "mamehcastle.js.gz",
+  "wasm_filename": "mamehcastle.wasm.gz",
+  "file_locations": {
+    "mamehcastle.wasm": "mamehcastle.wasm.gz"
+  }
+}

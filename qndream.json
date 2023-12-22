@@ -1,0 +1,23 @@
+{
+    "name": "Quiz Nanairo Dreams: Nijiirochou no Kiseki (Japan 96086)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "qndream",
+    "wasmjs_filename": "mamecps2.js.gz",
+    "wasm_filename": "mamecps2.wasm.gz",
+    "file_locations": {
+        "mamecps2.wasm": "mamecps2.wasm.gz"
+    }
+}

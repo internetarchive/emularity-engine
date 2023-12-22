@@ -1,0 +1,23 @@
+{
+    "name": "Bare Knuckle III (bootleg of Megadrive version)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "barek3mb",
+    "wasmjs_filename": "mamemegadriv_acbl.js.gz",
+    "wasm_filename": "mamemegadriv_acbl.wasm.gz",
+    "file_locations": {
+        "mamemegadriv_acbl.wasm": "mamemegadriv_acbl.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "7 e Mezzo",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        232 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "7mezzo",
+    "wasmjs_filename": "mamemagicfly.js.gz",
+    "wasm_filename": "mamemagicfly.wasm.gz",
+    "file_locations": {
+        "mamemagicfly.wasm": "mamemagicfly.wasm.gz"
+    }
+}

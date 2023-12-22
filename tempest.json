@@ -1,0 +1,23 @@
+{
+  "name": "Tempest",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    244,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tempest",
+  "wasmjs_filename": "mametempest.js.gz",
+  "wasm_filename": "mametempest.wasm.gz",
+  "file_locations": {
+    "mametempest.wasm": "mametempest.wasm.gz"
+  }
+}

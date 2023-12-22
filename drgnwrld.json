@@ -1,0 +1,24 @@
+{
+    "name": "Dragon World V040O)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        512,
+        480
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "drgnwrld",
+    "wasmjs_filename": "mameigs011.js.gz",
+    "wasm_filename": "mameigs011.wasm.gz",
+    "file_locations": {
+        "mameigs011.wasm": "mameigs011.wasm.gz"
+    }
+}

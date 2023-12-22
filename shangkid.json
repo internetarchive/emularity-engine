@@ -1,0 +1,23 @@
+{
+  "name": "Shanghai Kid",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "shangkid",
+  "wasmjs_filename": "mameshangkid.js.gz",
+  "wasm_filename": "mameshangkid.wasm.gz",
+  "file_locations": {
+    "mameshangkid.wasm": "mameshangkid.wasm.gz"
+  }
+}

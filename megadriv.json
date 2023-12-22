@@ -1,0 +1,22 @@
+{
+  "name": "Sega Mega Drive",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    224
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "megadriv",
+  "wasmjs_filename": "mamemegadriv.js.gz",
+  "wasm_filename": "mamemegadriv.wasm.gz",
+  "file_locations": {
+    "mamemegadriv.wasm": "mamemegadriv.wasm.gz"
+  }
+}

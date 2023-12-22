@@ -1,0 +1,23 @@
+{
+    "name": "Tokimeki Mahjong Paradise - Dear My Love",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tmmjprd",
+    "wasmjs_filename": "mametmmjprd.js.gz",
+    "wasm_filename": "mametmmjprd.wasm.gz",
+    "file_locations": {
+        "mametmmjprd.wasm": "mametmmjprd.wasm.gz"
+    }
+}

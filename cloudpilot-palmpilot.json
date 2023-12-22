@@ -1,0 +1,17 @@
+{
+  "name": "Cloudpilot Palm Pilot Emulation",
+  "native_resolution": [
+    160,
+    320
+  ],
+  "extra_args": [
+    ""
+  ],
+  "js_filename": "cloudpilot-emu.js",
+  "file_locations": {
+  "cloudpilot_web.wasm": "cloudpilot_web.wasm",
+  "cloudpilot-emu.js.map": "cloudpilot-emu.js.map"
+  },
+  "driver": "palmPilot",
+  "bios_filenames": ["Palm-OS-2.0-Pro-en.rom", "palmpilot-session.img"]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Star Force",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "starforc",
+  "wasmjs_filename": "mamesenjyo.js.gz",
+  "wasm_filename": "mamesenjyo.wasm.gz",
+  "file_locations": {
+    "mamesenjyo.wasm": "mamesenjyo.wasm.gz"
+  }
+}

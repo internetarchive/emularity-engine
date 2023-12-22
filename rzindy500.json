@@ -1,0 +1,24 @@
+{
+  "name": "R-Zone: Indy 500",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    712,
+    540 
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "rzindy500",
+  "wasmjs_filename": "mamerzone.js.gz",
+  "wasm_filename": "mamerzone.wasm.gz",
+  "file_locations": {
+    "mamerzone.wasm": "mamerzone.wasm.gz"
+  }
+}

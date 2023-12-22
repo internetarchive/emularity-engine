@@ -1,0 +1,23 @@
+{
+    "name": "Ganbare Chinsan Ooshoubu (MC-8123A, 317-5012)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        464,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "chinsan",
+    "wasmjs_filename": "mamechinsan.js.gz",
+    "wasm_filename": "mamechinsan.wasm.gz",
+    "file_locations": {
+        "mamechinsan.wasm": "mamechinsan.wasm.gz"
+    }
+}

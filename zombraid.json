@@ -1,0 +1,24 @@
+{
+  "name": "Zombie Raid (9-28-95 US)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    240 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "zombraid",
+  "wasmjs_filename": "mameseta.js.gz",
+  "wasm_filename": "mameseta.wasm.gz",
+  "file_locations": {
+    "mameseta.wasm": "mameseta.wasm.gz"
+  }
+}
+

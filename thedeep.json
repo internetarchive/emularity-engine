@@ -1,0 +1,23 @@
+{
+  "name": "The Deep ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    248,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "thedeep",
+  "wasmjs_filename": "mamethedeep.js.gz",
+  "wasm_filename": "mamethedeep.wasm.gz",
+  "file_locations": {
+    "mamethedeep.wasm": "mamethedeep.wasm.gz"
+  }
+}

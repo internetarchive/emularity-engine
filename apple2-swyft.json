@@ -1,0 +1,27 @@
+{
+  "name": "Apple IIe with Swyft",
+  "bios_filenames": [
+    "apple2e.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "native_resolution": [
+    560,
+    384
+  ],
+  "extra_args": [
+    "-s3",
+    "swyft",
+    "-sl6",
+    "diskii",
+    "-sl4",
+    "\"\""
+  ],
+  "driver": "apple2e",
+  "wasmjs_filename": "mameapple2e.js.gz",
+  "wasm_filename": "mameapple2e.wasm.gz",
+  "file_locations": {
+    "mameapple2e.wasm": "mameapple2e.wasm.gz"
+  }
+}

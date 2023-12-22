@@ -1,0 +1,23 @@
+{
+    "name": "Blasto",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "blasto",
+    "wasmjs_filename": "mameblockade.js.gz",
+    "wasm_filename": "mameblockade.wasm.gz",
+    "file_locations": {
+        "mameblockade.wasm": "mameblockade.wasm.gz"
+    }
+}

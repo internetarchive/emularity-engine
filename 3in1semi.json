@@ -1,0 +1,24 @@
+{
+  "name": "New HyperMan (3-in-1 with Cookie FULLNAME Bibi FULLNAME HyperMan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "3in1semi",
+  "wasmjs_filename": "mamesnowbros.js.gz",
+  "wasm_filename": "mamesnowbros.wasm.gz",
+  "file_locations": {
+    "mamesnowbros.wasm": "mamesnowbros.wasm.gz"
+  }
+}
+

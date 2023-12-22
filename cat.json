@@ -1,0 +1,24 @@
+{
+  "name": "Canon Cat",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    672,
+    344
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "cat",
+  "wasmjs_filename": "mamecat.js.gz",
+  "wasm_filename": "mamecat.wasm.gz",
+  "file_locations": {
+    "mamecat.wasm": "mamecat.wasm.gz"
+  }
+}

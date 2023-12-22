@@ -1,0 +1,23 @@
+{
+    "name": "Happy Tour",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hapytour",
+    "wasmjs_filename": "mameghosteo.js.gz",
+    "wasm_filename": "mameghosteo.wasm.gz",
+    "file_locations": {
+        "mameghosteo.wasm": "mameghosteo.wasm.gz"
+    }
+}

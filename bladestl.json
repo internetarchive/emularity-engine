@@ -1,0 +1,23 @@
+{
+  "name": "Blades of Steel",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bladestl",
+  "wasmjs_filename": "mamebladestl.js.gz",
+  "wasm_filename": "mamebladestl.wasm.gz",
+  "file_locations": {
+    "mamebladestl.wasm": "mamebladestl.wasm.gz"
+  }
+}

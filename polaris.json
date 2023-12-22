@@ -1,0 +1,24 @@
+{
+  "name": "Polaris (Latest version)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    260
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "polaris",
+  "wasmjs_filename": "mame8080bw.js.gz",
+  "wasm_filename": "mame8080bw.wasm.gz",
+  "file_locations": {
+    "mame8080bw.wasm": "mame8080bw.wasm.gz"
+  }
+}
+

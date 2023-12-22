@@ -1,0 +1,23 @@
+{
+    "name": "Spotty (Ver. 2.0.2)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "spotty",
+    "wasmjs_filename": "mamelimenko.js.gz",
+    "wasm_filename": "mamelimenko.wasm.gz",
+    "file_locations": {
+        "mamelimenko.wasm": "mamelimenko.wasm.gz"
+    }
+}

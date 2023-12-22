@@ -1,0 +1,23 @@
+{
+    "name": "Show Hand (Italy)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "showhand",
+    "wasmjs_filename": "mameastrcorp.js.gz",
+    "wasm_filename": "mameastrcorp.wasm.gz",
+    "file_locations": {
+        "mameastrcorp.wasm": "mameastrcorp.wasm.gz"
+    }
+}

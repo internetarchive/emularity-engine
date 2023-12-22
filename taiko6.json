@@ -1,0 +1,23 @@
+{
+  "name": "taiko6",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "taiko6",
+  "wasmjs_filename": "mamenamcos10.js.gz",
+  "wasm_filename": "mamenamcos10.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamenamcos10.wasm.gz"
+  }
+}

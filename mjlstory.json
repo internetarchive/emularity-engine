@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Jikken Love Story (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mjlstory",
+    "wasmjs_filename": "mamenbmj8991.js.gz",
+    "wasm_filename": "mamenbmj8991.wasm.gz",
+    "file_locations": {
+        "mamenbmj8991.wasm": "mamenbmj8991.wasm.gz"
+    }
+}

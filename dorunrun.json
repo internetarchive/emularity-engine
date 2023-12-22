@@ -1,0 +1,23 @@
+{
+  "name": "Do! Run Run",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    192
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dorunrun",
+  "wasmjs_filename": "mamedocastle.js.gz",
+  "wasm_filename": "mamedocastle.wasm.gz",
+  "file_locations": {
+    "mamedocastle.wasm": "mamedocastle.wasm.gz"
+  }
+}

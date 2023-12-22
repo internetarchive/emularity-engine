@@ -1,0 +1,23 @@
+{
+    "name": "K.G. Bird (4VXFC5341, New Zealand, 5c)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        304,
+        216 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "kgbird",
+    "wasmjs_filename": "mamearistmk4.js.gz",
+    "wasm_filename": "mamearistmk4.wasm.gz",
+    "file_locations": {
+        "mamearistmk4.wasm": "mamearistmk4.wasm.gz"
+    }
+}

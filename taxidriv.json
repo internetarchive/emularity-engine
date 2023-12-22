@@ -1,0 +1,23 @@
+{
+    "name": "Taxi Driver",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        208 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "taxidriv",
+    "wasmjs_filename": "mametaxidriv.js.gz",
+    "wasm_filename": "mametaxidriv.wasm.gz",
+    "file_locations": {
+        "mametaxidriv.wasm": "mametaxidriv.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Miss Bubble II",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "missb2",
+    "wasmjs_filename": "mamemissb2.js.gz",
+    "wasm_filename": "mamemissb2.wasm.gz",
+    "file_locations": {
+        "mamemissb2.wasm": "mamemissb2.wasm.gz"
+    }
+}

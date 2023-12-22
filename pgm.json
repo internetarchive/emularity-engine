@@ -1,0 +1,23 @@
+{
+    "name": "PGM (Polygame Master) System BIOS",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        448,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pgm",
+    "wasmjs_filename": "mamepgm.js.gz",
+    "wasm_filename": "mamepgm.wasm.gz",
+    "file_locations": {
+        "mamepgm.wasm": "mamepgm.wasm.gz"
+    }
+}

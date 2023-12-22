@@ -1,0 +1,23 @@
+{
+    "name": "Battle of the Solar System (rev. 1.1a 7-23-92)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        576,
+        400 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "botss",
+    "wasmjs_filename": "mamemicro3d.js.gz",
+    "wasm_filename": "mamemicro3d.wasm.gz",
+    "file_locations": {
+        "mamemicro3d.wasm": "mamemicro3d.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Strata Bowling (V3)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "stratab",
+  "wasmjs_filename": "mameitech8.js.gz",
+  "wasm_filename": "mameitech8.wasm.gz",
+  "file_locations": {
+    "mameitech8.wasm": "mameitech8.wasm.gz"
+  }
+}
+

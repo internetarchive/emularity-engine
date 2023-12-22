@@ -1,0 +1,23 @@
+{
+  "name": "Omega Fighter",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    192,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "omegaf",
+  "wasmjs_filename": "mameninjakd2.js.gz",
+  "wasm_filename": "mameninjakd2.wasm.gz",
+  "file_locations": {
+    "mameninjakd2.wasm": "mameninjakd2.wasm.gz"
+  }
+}

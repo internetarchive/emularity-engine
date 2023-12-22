@@ -1,0 +1,23 @@
+{
+    "name": "The New Crystal Maze Featuring Ocean Zone (v2.2) (MPU4 Video)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        504,
+        296 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "v4cmaze2",
+    "wasmjs_filename": "mamempu4vid.js.gz",
+    "wasm_filename": "mamempu4vid.wasm.gz",
+    "file_locations": {
+        "mamempu4vid.wasm": "mamempu4vid.wasm.gz"
+    }
+}

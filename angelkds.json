@@ -1,0 +1,23 @@
+{
+  "name": "Angel Kids ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "angelkds",
+  "wasmjs_filename": "mameangelkds.js.gz",
+  "wasm_filename": "mameangelkds.wasm.gz",
+  "file_locations": {
+    "mameangelkds.wasm": "mameangelkds.wasm.gz"
+  }
+}

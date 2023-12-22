@@ -1,0 +1,24 @@
+{
+  "name": "Gridlee",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args": [
+    "-samplepath",
+    "."
+  ],
+  "driver": "gridlee",
+  "wasmjs_filename": "mamegridlee.js.gz",
+  "wasm_filename": "mamegridlee.wasm.gz",
+  "file_locations": {
+    "mamegridlee.wasm": "mamegridlee.wasm.gz"
+  }
+}

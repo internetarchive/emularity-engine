@@ -1,0 +1,23 @@
+{
+  "name": "Wiz",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "wiz",
+  "wasmjs_filename": "mamewiz.js.gz",
+  "wasm_filename": "mamewiz.wasm.gz",
+  "file_locations": {
+    "mamewiz.wasm": "mamewiz.wasm.gz"
+  }
+}

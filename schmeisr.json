@@ -1,0 +1,24 @@
+{
+  "name": "Schmeiser Robo (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "schmeisr",
+  "wasmjs_filename": "mamerohga.js.gz",
+  "wasm_filename": "mamerohga.wasm.gz",
+  "file_locations": {
+    "mamerohga.wasm": "mamerohga.wasm.gz"
+  }
+}
+

@@ -1,0 +1,25 @@
+{
+  "name": "Apple IIgs",
+  "bios_filenames": [
+    "apple2gs.zip"
+  ],
+  "peripherals": [
+    "flop3"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    704,
+    462
+  ],
+  "extra_args": [
+    "-video",
+    "soft",
+    "-mouse"
+  ],
+  "driver": "apple2gs",
+  "wasmjs_filename": "mameapple2gs.js.gz",
+  "wasm_filename": "mameapple2gs.wasm.gz",
+  "file_locations": {
+    "mameapple2gs.wasm": "mameapple2gs.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Combat School (joystick)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "combatsc",
+  "wasmjs_filename": "mamecombatsc.js.gz",
+  "wasm_filename": "mamecombatsc.wasm.gz",
+  "file_locations": {
+    "mamecombatsc.wasm": "mamecombatsc.wasm.gz"
+  }
+}
+

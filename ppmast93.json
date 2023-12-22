@@ -1,0 +1,23 @@
+{
+    "name": "Ping Pong Masters '93",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ppmast93",
+    "wasmjs_filename": "mameppmast93.js.gz",
+    "wasm_filename": "mameppmast93.wasm.gz",
+    "file_locations": {
+        "mameppmast93.wasm": "mameppmast93.wasm.gz"
+    }
+}

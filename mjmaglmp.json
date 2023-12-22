@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Magic Lamp (v. JAA02)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        480,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mjmaglmp",
+    "wasmjs_filename": "mamebmcpokr.js.gz",
+    "wasm_filename": "mamebmcpokr.wasm.gz",
+    "file_locations": {
+        "mamebmcpokr.wasm": "mamebmcpokr.wasm.gz"
+    }
+}

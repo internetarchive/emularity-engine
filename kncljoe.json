@@ -1,0 +1,23 @@
+{
+  "name": "Knuckle Joe",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kncljoe",
+  "wasmjs_filename": "mamekncljoe.js.gz",
+  "wasm_filename": "mamekncljoe.wasm.gz",
+  "file_locations": {
+    "mamekncljoe.wasm": "mamekncljoe.wasm.gz"
+  }
+}

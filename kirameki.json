@@ -1,0 +1,23 @@
+{
+    "name": "Kirameki Star Road (Ver 2.10J 1997-08-29)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "kirameki",
+    "wasmjs_filename": "mametaito_f3.js.gz",
+    "wasm_filename": "mametaito_f3.wasm.gz",
+    "file_locations": {
+        "mametaito_f3.wasm": "mametaito_f3.wasm.gz"
+    }
+}

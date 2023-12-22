@@ -1,0 +1,23 @@
+{
+  "name": "a51site4",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    240 
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "a51site4",
+  "wasmjs_filename": "mamemediagx.js.gz",
+  "wasm_filename": "mamemediagx.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamemediagx.wasm.gz"
+  }
+}

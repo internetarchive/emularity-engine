@@ -1,0 +1,23 @@
+{
+    "name": "4-in-1 (version SWS1-052587)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        432,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sms4in1",
+    "wasmjs_filename": "mamesmsmcorp.js.gz",
+    "wasm_filename": "mamesmsmcorp.wasm.gz",
+    "file_locations": {
+        "mamesmsmcorp.wasm": "mamesmsmcorp.wasm.gz"
+    }
+}

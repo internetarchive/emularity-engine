@@ -1,0 +1,23 @@
+{
+  "name": "Mighty Guy",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mightguy",
+  "wasmjs_filename": "mamecop01.js.gz",
+  "wasm_filename": "mamecop01.wasm.gz",
+  "file_locations": {
+    "mamecop01.wasm": "mamecop01.wasm.gz"
+  }
+}

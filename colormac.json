@@ -1,0 +1,11 @@
+{
+  "name": "MacII vMac emulation",
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "bios_filenames": [
+    "macii.zip"
+  ],
+  "driver": "vmac"
+}

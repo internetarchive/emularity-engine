@@ -1,0 +1,23 @@
+{
+  "name": "Top Speed ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "topspeed",
+  "wasmjs_filename": "mametopspeed.js.gz",
+  "wasm_filename": "mametopspeed.wasm.gz",
+  "file_locations": {
+    "mametopspeed.wasm": "mametopspeed.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Pata Pata Panic",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    480,
+    352 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "patapata",
+  "wasmjs_filename": "mamepatapata.js.gz",
+  "wasm_filename": "mamepatapata.wasm.gz",
+  "file_locations": {
+    "mamepatapata.wasm": "mamepatapata.wasm.gz"
+  }
+}
+

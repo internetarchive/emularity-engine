@@ -1,0 +1,23 @@
+{
+  "name": "heatof11",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    384 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "heatof11",
+  "wasmjs_filename": "mamekonamim2.js.gz",
+  "wasm_filename": "mamekonamim2.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamekonamim2.wasm.gz"
+  }
+}

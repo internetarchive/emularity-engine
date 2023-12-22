@@ -1,0 +1,24 @@
+{
+  "name": "Hatris (US)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    352,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hatris",
+  "wasmjs_filename": "mamepipedrm.js.gz",
+  "wasm_filename": "mamepipedrm.wasm.gz",
+  "file_locations": {
+    "mamepipedrm.wasm": "mamepipedrm.wasm.gz"
+  }
+}
+

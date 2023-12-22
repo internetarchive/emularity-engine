@@ -1,0 +1,24 @@
+{
+    "name": "Battletoads",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        512,
+        448
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "btoads",
+    "wasmjs_filename": "mamebtoads.js.gz",
+    "wasm_filename": "mamebtoads.wasm.gz",
+    "file_locations": {
+        "mamebtoads.wasm": "mamebtoads.wasm.gz"
+    }
+}

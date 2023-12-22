@@ -1,0 +1,24 @@
+{
+  "name": "The Legend of Silkroad",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    380,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "silkroad",
+  "wasmjs_filename": "mamesilkroad.js.gz",
+  "wasm_filename": "mamesilkroad.wasm.gz",
+  "file_locations": {
+    "mamesilkroad.wasm": "mamesilkroad.wasm.gz"
+  }
+}
+

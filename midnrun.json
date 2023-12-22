@@ -1,0 +1,23 @@
+{
+    "name": "Midnight Run: Road Fighter 2 (EAA, Euro v1.11)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        384 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "midnrun",
+    "wasmjs_filename": "mamezr107.js.gz",
+    "wasm_filename": "mamezr107.wasm.gz",
+    "file_locations": {
+        "mamezr107.wasm": "mamezr107.wasm.gz"
+    }
+}

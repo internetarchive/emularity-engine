@@ -1,0 +1,22 @@
+{
+  "name": "Bally Astrocade",
+  "bios_filenames": [
+    "astrocde.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    352,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "astrocde",
+  "wasmjs_filename": "mameastrohome.js.gz",
+  "wasm_filename": "mameastrohome.wasm.gz",
+  "file_locations": {
+    "mameastrohome.wasm": "mameastrohome.wasm.gz"
+  }
+}

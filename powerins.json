@@ -1,0 +1,24 @@
+{
+  "name": "Power Instinct (USA)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "powerins",
+  "wasmjs_filename": "mamepowerins.js.gz",
+  "wasm_filename": "mamepowerins.wasm.gz",
+  "file_locations": {
+    "mamepowerins.wasm": "mamepowerins.wasm.gz"
+  }
+}
+

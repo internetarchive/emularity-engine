@@ -1,0 +1,23 @@
+{
+    "name": "Wheels THENAMEamp; Fire",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        336,
+        248 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "wheelfir",
+    "wasmjs_filename": "mamewheelfir.js.gz",
+    "wasm_filename": "mamewheelfir.wasm.gz",
+    "file_locations": {
+        "mamewheelfir.wasm": "mamewheelfir.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Video Pinball",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    304
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "videopin",
+  "wasmjs_filename": "mamevideopin.js.gz",
+  "wasm_filename": "mamevideopin.wasm.gz",
+  "file_locations": {
+    "mamevideopin.wasm": "mamevideopin.wasm.gz"
+  }
+}

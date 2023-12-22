@@ -1,0 +1,24 @@
+{
+  "name": "Dragon Bowl (set 1 encrypted program)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "drgnbowl",
+  "wasmjs_filename": "mamegaiden.js.gz",
+  "wasm_filename": "mamegaiden.wasm.gz",
+  "file_locations": {
+    "mamegaiden.wasm": "mamegaiden.wasm.gz"
+  }
+}
+

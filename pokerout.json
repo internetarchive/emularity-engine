@@ -1,0 +1,23 @@
+{
+    "name": "Potten's Poker stealth with Breakout front game",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        280,
+        216 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pokerout",
+    "wasmjs_filename": "mamepokerout.js.gz",
+    "wasm_filename": "mamepokerout.wasm.gz",
+    "file_locations": {
+        "mamepokerout.wasm": "mamepokerout.wasm.gz"
+    }
+}

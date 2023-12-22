@@ -1,0 +1,24 @@
+{
+  "name": "Steel Force",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    368,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "stlforce",
+  "wasmjs_filename": "mamestlforce.js.gz",
+  "wasm_filename": "mamestlforce.wasm.gz",
+  "file_locations": {
+    "mamestlforce.wasm": "mamestlforce.wasm.gz"
+  }
+}
+

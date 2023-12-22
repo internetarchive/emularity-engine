@@ -1,0 +1,23 @@
+{
+    "name": "Trivia ? Whiz (6221-13, U5-0B Edition 4)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "trvwz4",
+    "wasmjs_filename": "mamemerit.js.gz",
+    "wasm_filename": "mamemerit.wasm.gz",
+    "file_locations": {
+        "mamemerit.wasm": "mamemerit.wasm.gz"
+    }
+}

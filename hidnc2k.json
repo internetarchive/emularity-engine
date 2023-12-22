@@ -1,0 +1,23 @@
+{
+    "name": "Hidden Catch 2000 (AT89c52 protected)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hidnc2k",
+    "wasmjs_filename": "mameeolith.js.gz",
+    "wasm_filename": "mameeolith.wasm.gz",
+    "file_locations": {
+        "mameeolith.wasm": "mameeolith.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "The Main Event (4 Players ver. Y)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mainevt",
+  "wasmjs_filename": "mamemainevt.js.gz",
+  "wasm_filename": "mamemainevt.wasm.gz",
+  "file_locations": {
+    "mamemainevt.wasm": "mamemainevt.wasm.gz"
+  }
+}
+

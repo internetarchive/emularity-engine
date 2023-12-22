@@ -1,0 +1,23 @@
+{
+  "name": "Super Contra",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    288
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "scontra",
+  "wasmjs_filename": "mamethunderx.js.gz",
+  "wasm_filename": "mamethunderx.wasm.gz",
+  "file_locations": {
+    "mamethunderx.wasm": "mamethunderx.wasm.gz"
+  }
+}

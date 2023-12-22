@@ -1,0 +1,23 @@
+{
+  "name": "Mermaid",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mermaid",
+  "wasmjs_filename": "mamemermaid.js.gz",
+  "wasm_filename": "mamemermaid.wasm.gz",
+  "file_locations": {
+    "mamemermaid.wasm": "mamemermaid.wasm.gz"
+  }
+}

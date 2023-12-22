@@ -1,0 +1,23 @@
+{
+  "name": "Strength & Skill",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "strnskil",
+  "wasmjs_filename": "mamestrnskil.js.gz",
+  "wasm_filename": "mamestrnskil.wasm.gz",
+  "file_locations": {
+    "mamestrnskil.wasm": "mamestrnskil.wasm.gz"
+  }
+}

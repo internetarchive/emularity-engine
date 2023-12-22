@@ -1,0 +1,23 @@
+{
+  "name": "Berzerk",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "berzerk",
+  "wasmjs_filename": "mameberzerk.js.gz",
+  "wasm_filename": "mameberzerk.wasm.gz",
+  "file_locations": {
+    "mameberzerk.wasm": "mameberzerk.wasm.gz"
+  }
+}

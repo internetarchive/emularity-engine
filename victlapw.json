@@ -1,0 +1,23 @@
+{
+    "name": "Ace Driver: Victory Lap (Rev. ADV2, World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "victlapw",
+    "wasmjs_filename": "mamenamcos22.js.gz",
+    "wasm_filename": "mamenamcos22.wasm.gz",
+    "file_locations": {
+        "mamenamcos22.wasm": "mamenamcos22.wasm.gz"
+    }
+}

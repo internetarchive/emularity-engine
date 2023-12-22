@@ -1,0 +1,23 @@
+{
+  "name": "Talbot",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "talbot",
+  "wasmjs_filename": "mamechampbas.js.gz",
+  "wasm_filename": "mamechampbas.wasm.gz",
+  "file_locations": {
+    "mamechampbas.wasm": "mamechampbas.wasm.gz"
+  }
+}

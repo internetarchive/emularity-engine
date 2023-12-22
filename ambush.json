@@ -1,0 +1,23 @@
+{
+  "name": "Ambush",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    222
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ambush",
+  "wasmjs_filename": "mameambush.js.gz",
+  "wasm_filename": "mameambush.wasm.gz",
+  "file_locations": {
+    "mameambush.wasm": "mameambush.wasm.gz"
+  }
+}

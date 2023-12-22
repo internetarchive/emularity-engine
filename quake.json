@@ -1,0 +1,23 @@
+{
+  "name": "quake",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "quake",
+  "wasmjs_filename": "mamequakeat.js.gz",
+  "wasm_filename": "mamequakeat.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamequakeat.wasm.gz"
+  }
+}

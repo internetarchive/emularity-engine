@@ -1,0 +1,23 @@
+{
+    "name": "Ojanko Club (Japan, Program Ver. 1.3)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ojankoc",
+    "wasmjs_filename": "mameojankohs.js.gz",
+    "wasm_filename": "mameojankohs.wasm.gz",
+    "file_locations": {
+        "mameojankohs.wasm": "mameojankohs.wasm.gz"
+    }
+}

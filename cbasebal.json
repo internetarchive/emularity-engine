@@ -1,0 +1,23 @@
+{
+  "name": "Capcom Baseball ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cbasebal",
+  "wasmjs_filename": "mamecbasebal.js.gz",
+  "wasm_filename": "mamecbasebal.wasm.gz",
+  "file_locations": {
+    "mamecbasebal.wasm": "mamecbasebal.wasm.gz"
+  }
+}

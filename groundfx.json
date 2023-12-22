@@ -1,0 +1,23 @@
+{
+    "name": "Ground Effects - Super Ground Effects (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        232 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "groundfx",
+    "wasmjs_filename": "mamegroundfx.js.gz",
+    "wasm_filename": "mamegroundfx.wasm.gz",
+    "file_locations": {
+        "mamegroundfx.wasm": "mamegroundfx.wasm.gz"
+    }
+}

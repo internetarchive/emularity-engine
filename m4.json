@@ -1,0 +1,23 @@
+{
+    "name": "M-4",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        260,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "m4",
+    "wasmjs_filename": "mamemw8080bw.js.gz",
+    "wasm_filename": "mamemw8080bw.wasm.gz",
+    "file_locations": {
+        "mamemw8080bw.wasm": "mamemw8080bw.wasm.gz"
+    }
+}

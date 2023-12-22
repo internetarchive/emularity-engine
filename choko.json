@@ -1,0 +1,24 @@
+{
+  "name": "Janpai Puzzle Choukou (Japan 010820)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "choko",
+  "wasmjs_filename": "mamecps2.js.gz",
+  "wasm_filename": "mamecps2.wasm.gz",
+  "file_locations": {
+    "mamecps2.wasm": "mamecps2.wasm.gz"
+  }
+}
+

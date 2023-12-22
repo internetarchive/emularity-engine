@@ -1,0 +1,23 @@
+{
+  "name": "Chinese Hero",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    288
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "chinhero",
+  "wasmjs_filename": "mameshangkid.js.gz",
+  "wasm_filename": "mameshangkid.wasm.gz",
+  "file_locations": {
+    "mameshangkid.wasm": "mameshangkid.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cyberball 2072 ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    672,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "cyberbal2p",
+  "wasmjs_filename": "mamecyberbal.js.gz",
+  "wasm_filename": "mamecyberbal.wasm.gz",
+  "file_locations": {
+    "mamecyberbal.wasm": "mamecyberbal.wasm.gz"
+  }
+}

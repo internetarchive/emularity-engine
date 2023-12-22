@@ -1,0 +1,23 @@
+{
+    "name": "Xexex (ver EAA)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "xexex",
+    "wasmjs_filename": "mamexexex.js.gz",
+    "wasm_filename": "mamexexex.wasm.gz",
+    "file_locations": {
+        "mamexexex.wasm": "mamexexex.wasm.gz"
+    }
+}

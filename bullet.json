@@ -1,0 +1,24 @@
+{
+  "name": "Bullet (FD1094 317-0041)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bullet",
+  "wasmjs_filename": "mamesegas16b.js.gz",
+  "wasm_filename": "mamesegas16b.wasm.gz",
+  "file_locations": {
+    "mamesegas16b.wasm": "mamesegas16b.wasm.gz"
+  }
+}
+

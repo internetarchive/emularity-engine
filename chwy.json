@@ -1,0 +1,24 @@
+{
+  "name": "Highway Chase (DECO Cassette) (US)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "chwy",
+  "wasmjs_filename": "mamedecocass.js.gz",
+  "wasm_filename": "mamedecocass.wasm.gz",
+  "file_locations": {
+    "mamedecocass.wasm": "mamedecocass.wasm.gz"
+  }
+}
+

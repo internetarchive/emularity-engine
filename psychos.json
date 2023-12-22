@@ -1,0 +1,24 @@
+{
+  "name": "Psycho Soldier (US)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    400,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "psychos",
+  "wasmjs_filename": "mamesnk.js.gz",
+  "wasm_filename": "mamesnk.wasm.gz",
+  "file_locations": {
+    "mamesnk.wasm": "mamesnk.wasm.gz"
+  }
+}
+

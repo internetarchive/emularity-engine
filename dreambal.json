@@ -1,0 +1,23 @@
+{
+    "name": "Dream Ball (Japan V2.4)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "dreambal",
+    "wasmjs_filename": "mamedreambal.js.gz",
+    "wasm_filename": "mamedreambal.wasm.gz",
+    "file_locations": {
+        "mamedreambal.wasm": "mamedreambal.wasm.gz"
+    }
+}

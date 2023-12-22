@@ -1,0 +1,23 @@
+{
+  "name": "Tugboat",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tugboat",
+  "wasmjs_filename": "mametugboat.js.gz",
+  "wasm_filename": "mametugboat.wasm.gz",
+  "file_locations": {
+    "mametugboat.wasm": "mametugboat.wasm.gz"
+  }
+}

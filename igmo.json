@@ -1,0 +1,23 @@
+{
+  "name": "IGMO",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    236,
+    272
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "igmo",
+  "wasmjs_filename": "mameepos.js.gz",
+  "wasm_filename": "mameepos.wasm.gz",
+  "file_locations": {
+    "mameepos.wasm": "mameepos.wasm.gz"
+  }
+}

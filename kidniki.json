@@ -1,0 +1,23 @@
+{
+  "name": "Kid Niki - Radical Ninja",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kidniki",
+  "wasmjs_filename": "mamem62.js.gz",
+  "wasm_filename": "mamem62.wasm.gz",
+  "file_locations": {
+    "mamem62.wasm": "mamem62.wasm.gz"
+  }
+}

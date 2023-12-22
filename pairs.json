@@ -1,0 +1,24 @@
+{
+  "name": "Pairs (V1.2 09-30-94)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pairs",
+  "wasmjs_filename": "mameitech32.js.gz",
+  "wasm_filename": "mameitech32.wasm.gz",
+  "file_locations": {
+    "mameitech32.wasm": "mameitech32.wasm.gz"
+  }
+}
+

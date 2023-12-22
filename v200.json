@@ -1,0 +1,24 @@
+{
+  "name": "TI v200",
+  "bios_filenames": [
+     "v200.zip"
+   ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    796,
+    547
+  ],
+  "extra_args": [
+    "-artpath",
+    "emulator"
+  ],
+  "driver": "v200",
+  "wasmjs_filename": "ti89.js.gz",
+  "wasm_filename": "ti89.wasm.gz",
+  "file_locations": {
+    "ti89.wasm": "ti89.wasm.gz"
+  }
+}

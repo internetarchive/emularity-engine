@@ -1,0 +1,23 @@
+{
+    "name": "Janken Man Kattara Ageru",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+         480
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "jankenmn",
+    "wasmjs_filename": "mamejankenmn.js.gz",
+    "wasm_filename": "mamejankenmn.wasm.gz",
+    "file_locations": {
+        "mamejankenmn.wasm": "mamejankenmn.wasm.gz"
+    }
+}

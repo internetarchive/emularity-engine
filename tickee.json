@@ -1,0 +1,24 @@
+{
+  "name": "Tickee Tickats",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    200 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "tickee",
+  "wasmjs_filename": "mametickee.js.gz",
+  "wasm_filename": "mametickee.wasm.gz",
+  "file_locations": {
+    "mametickee.wasm": "mametickee.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+    "name": "Happy Jackie (v110U)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "jackie",
+    "wasmjs_filename": "mamejackie.js.gz",
+    "wasm_filename": "mamejackie.wasm.gz",
+    "file_locations": {
+        "mamejackie.wasm": "mamejackie.wasm.gz"
+    }
+}

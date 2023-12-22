@@ -1,0 +1,24 @@
+{
+  "name": "Hot Pinball",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    512
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hotpinbl",
+  "wasmjs_filename": "mamegalspnbl.js.gz",
+  "wasm_filename": "mamegalspnbl.wasm.gz",
+  "file_locations": {
+    "mamegalspnbl.wasm": "mamegalspnbl.wasm.gz"
+  }
+}
+

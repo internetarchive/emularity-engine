@@ -1,0 +1,23 @@
+{
+  "name": "zgundm",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "zgundm",
+  "wasmjs_filename": "mamenamcops2.js.gz",
+  "wasm_filename": "mamenamcops2.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamenamcops2.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Mayjinsen 2",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        384 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mayjisn2",
+    "wasmjs_filename": "mamesimple_st0016.js.gz",
+    "wasm_filename": "mamesimple_st0016.wasm.gz",
+    "file_locations": {
+        "mamesimple_st0016.wasm": "mamesimple_st0016.wasm.gz"
+    }
+}

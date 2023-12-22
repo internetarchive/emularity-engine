@@ -1,0 +1,23 @@
+{
+    "name": "Lord of Gun (USA)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        448,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "lordgun",
+    "wasmjs_filename": "mamelordgun.js.gz",
+    "wasm_filename": "mamelordgun.wasm.gz",
+    "file_locations": {
+        "mamelordgun.wasm": "mamelordgun.wasm.gz"
+    }
+}

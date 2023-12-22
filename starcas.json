@@ -1,0 +1,23 @@
+{
+    "name": "Star Castle (version 3)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480	
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "starcas",
+    "wasmjs_filename": "mamecinemat.js.gz",
+    "wasm_filename": "mamecinemat.wasm.gz",
+    "file_locations": {
+        "mamecinemat.wasm": "mamecinemat.wasm.gz"
+    }
+}

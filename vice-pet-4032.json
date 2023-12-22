@@ -1,0 +1,15 @@
+{
+  "name": "VICE.js PET 3.2 ReSID",
+  "native_resolution": [
+    0,
+    0
+  ],
+  "extra_args": [
+    "-soundfragsize", "4", "-soundrate", "48000", "-soundsync", "2", "-soundbufsize", "150", "-residsamp", "0", "-chdir", "/emulator/", "-config", "/emulator/vice.conf", "-model", "4032"
+  ],
+  "js_filename": "vice-pet.js.gz",
+  "file_locations": {
+    
+  },
+  "driver": "vice"
+}

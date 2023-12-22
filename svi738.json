@@ -1,0 +1,20 @@
+{
+  "name": "Spectravideo SVI-738 (MSX1)",
+  "bios_filenames": [],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    240,
+    216
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "svi738",
+  "wasmjs_filename": "mamemsx.js.gz",
+  "wasm_filename": "mamemsx.wasm.gz",
+  "file_locations": {
+    "mamemsx.wasm": "mamemsx.wasm.gz"
+  }
+}

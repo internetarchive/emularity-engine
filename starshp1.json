@@ -1,0 +1,23 @@
+{
+    "name": "Starship 1",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "starshp1",
+    "wasmjs_filename": "mamestarshp1.js.gz",
+    "wasm_filename": "mamestarshp1.wasm.gz",
+    "file_locations": {
+        "mamestarshp1.wasm": "mamestarshp1.wasm.gz"
+    }
+}

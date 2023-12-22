@@ -1,0 +1,23 @@
+{
+  "name": "Super Basketball",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sbasketb",
+  "wasmjs_filename": "mamesbasketb.js.gz",
+  "wasm_filename": "mamesbasketb.wasm.gz",
+  "file_locations": {
+    "mamesbasketb.wasm": "mamesbasketb.wasm.gz"
+  }
+}

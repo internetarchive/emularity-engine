@@ -1,0 +1,23 @@
+{
+    "name": "Silver Millennium",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        240,
+        320
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "silvmil",
+    "wasmjs_filename": "mamesilvmil.js.gz",
+    "wasm_filename": "mamesilvmil.wasm.gz",
+    "file_locations": {
+        "mamesilvmil.wasm": "mamesilvmil.wasm.gz"
+    }
+}

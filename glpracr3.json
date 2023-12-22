@@ -1,0 +1,23 @@
+{
+    "name": "Gallop Racer 3 (Export)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "glpracr3",
+    "wasmjs_filename": "mamezn.js.gz",
+    "wasm_filename": "mamezn.wasm.gz",
+    "file_locations": {
+        "mamezn.wasm": "mamezn.wasm.gz"
+    }
+}

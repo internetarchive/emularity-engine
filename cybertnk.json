@@ -1,0 +1,23 @@
+{
+    "name": "Cyber Tank (v1.4)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "cybertnk",
+    "wasmjs_filename": "mamecybertnk.js.gz",
+    "wasm_filename": "mamecybertnk.wasm.gz",
+    "file_locations": {
+        "mamecybertnk.wasm": "mamecybertnk.wasm.gz"
+    }
+}

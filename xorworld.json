@@ -1,0 +1,24 @@
+{
+  "name": "Xor World (prototype)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "xorworld",
+  "wasmjs_filename": "mamexorworld.js.gz",
+  "wasm_filename": "mamexorworld.wasm.gz",
+  "file_locations": {
+    "mamexorworld.wasm": "mamexorworld.wasm.gz"
+  }
+}
+

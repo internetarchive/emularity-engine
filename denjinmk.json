@@ -1,0 +1,24 @@
+{
+  "name": "Denjin Makai",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "denjinmk",
+  "wasmjs_filename": "mamelegionna.js.gz",
+  "wasm_filename": "mamelegionna.wasm.gz",
+  "file_locations": {
+    "mamelegionna.wasm": "mamelegionna.wasm.gz"
+  }
+}
+

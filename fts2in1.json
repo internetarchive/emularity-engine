@@ -1,0 +1,23 @@
+{
+    "name": "Super Two In One",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "fts2in1",
+    "wasmjs_filename": "mamefuntech.js.gz",
+    "wasm_filename": "mamefuntech.wasm.gz",
+    "file_locations": {
+        "mamefuntech.wasm": "mamefuntech.wasm.gz"
+    }
+}

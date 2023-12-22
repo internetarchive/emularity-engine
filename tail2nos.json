@@ -1,0 +1,23 @@
+{
+  "name": "Tail to Nose - Great Championship",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    320
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tail2nos",
+  "wasmjs_filename": "mametail2nos.js.gz",
+  "wasm_filename": "mametail2nos.wasm.gz",
+  "file_locations": {
+    "mametail2nos.wasm": "mametail2nos.wasm.gz"
+  }
+}

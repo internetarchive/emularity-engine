@@ -1,0 +1,23 @@
+{
+    "name": "39 in 1 MAME bootleg (GNO-V000)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        296,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "39in1",
+    "wasmjs_filename": "mame39in1.js.gz",
+    "wasm_filename": "mame39in1.wasm.gz",
+    "file_locations": {
+        "mame39in1.wasm": "mame39in1.wasm.gz"
+    }
+}

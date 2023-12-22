@@ -1,0 +1,24 @@
+{
+  "name": "Touchmaster 5000 (v7.10 Standard)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    400,
+    256 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "tm5k",
+  "wasmjs_filename": "mametmaster.js.gz",
+  "wasm_filename": "mametmaster.wasm.gz",
+  "file_locations": {
+    "mametmaster.wasm": "mametmaster.wasm.gz"
+  }
+}
+

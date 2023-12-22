@@ -1,0 +1,23 @@
+{
+  "name": "Joyful Road",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    320
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "joyfulr",
+  "wasmjs_filename": "mamemunchmo.js.gz",
+  "wasm_filename": "mamemunchmo.wasm.gz",
+  "file_locations": {
+    "mamemunchmo.wasm": "mamemunchmo.wasm.gz"
+  }
+}

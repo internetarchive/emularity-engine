@@ -1,0 +1,23 @@
+{
+  "name": "Beam Invader",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    216,
+    248
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "beaminv",
+  "wasmjs_filename": "mamebeaminv.js.gz",
+  "wasm_filename": "mamebeaminv.wasm.gz",
+  "file_locations": {
+    "mamebeaminv.wasm": "mamebeaminv.wasm.gz"
+  }
+}

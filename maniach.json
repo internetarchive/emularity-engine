@@ -1,0 +1,23 @@
+{
+  "name": "Mania Challenge",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "maniach",
+  "wasmjs_filename": "mamematmania.js.gz",
+  "wasm_filename": "mamematmania.wasm.gz",
+  "file_locations": {
+    "mamematmania.wasm": "mamematmania.wasm.gz"
+  }
+}

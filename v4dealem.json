@@ -1,0 +1,23 @@
+{
+    "name": "Deal 'Em (MPU4 Conversion Kit, v7.0)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        248 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "v4dealem",
+    "wasmjs_filename": "mamempu4dealem.js.gz",
+    "wasm_filename": "mamempu4dealem.wasm.gz",
+    "file_locations": {
+        "mamempu4dealem.wasm": "mamempu4dealem.wasm.gz"
+    }
+}

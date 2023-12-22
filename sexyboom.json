@@ -1,0 +1,24 @@
+{
+    "name": "Sexy Boom",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        465,
+        543
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sexyboom",
+    "wasmjs_filename": "mamesangho.js.gz",
+    "wasm_filename": "mamesangho.wasm.gz",
+    "file_locations": {
+        "mamesangho.wasm": "mamesangho.wasm.gz"
+    }
+}

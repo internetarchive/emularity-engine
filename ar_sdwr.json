@@ -1,0 +1,25 @@
+{
+  "name": "Sidewinder (Arcadia set 1 V 2.1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "scale": 1,
+  "native_resolution": [
+    724,
+    483 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ar_sdwr",
+  "wasmjs_filename": "mamearsystems.js.gz",
+  "wasm_filename": "mamearsystems.wasm.gz",
+  "file_locations": {
+    "mamearsystems.wasm": "mamearsystems.wasm.gz"
+  }
+}
+

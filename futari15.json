@@ -1,0 +1,23 @@
+{
+    "name": "Mushihime-Sama Futari Ver 1.5 (2006-12-8.MASTER VER. 1.54.)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "futari15",
+    "wasmjs_filename": "mamecv1k.js.gz",
+    "wasm_filename": "mamecv1k.wasm.gz",
+    "file_locations": {
+        "mamecv1k.wasm": "mamecv1k.wasm.gz"
+    }
+}

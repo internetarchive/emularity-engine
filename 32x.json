@@ -1,0 +1,22 @@
+{
+  "name": "Sega Genesis 32x",
+  "bios_filenames": [
+    "32x.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    224
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "32x",
+  "wasmjs_filename": "mamemegadriv.js.gz",
+  "wasm_filename": "mamemegadriv.wasm.gz",
+  "file_locations": {
+    "mamemegadriv.wasm": "mamemegadriv.wasm.gz"
+  }
+}

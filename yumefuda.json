@@ -1,0 +1,23 @@
+{
+    "name": "Yumefuda [BET]",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "yumefuda",
+    "wasmjs_filename": "mamealbazg.js.gz",
+    "wasm_filename": "mamealbazg.wasm.gz",
+    "file_locations": {
+        "mamealbazg.wasm": "mamealbazg.wasm.gz"
+    }
+}

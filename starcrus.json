@@ -1,0 +1,24 @@
+{
+  "name": "Star Cruiser",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    256
+  ],
+  "extra_args": [
+    "-samplepath",
+    "."
+  ],
+  "driver": "starcrus",
+  "wasmjs_filename": "mamestarcrus.js.gz",
+  "wasm_filename": "mamestarcrus.wasm.gz",
+  "file_locations": {
+    "mamestarcrus.wasm": "mamestarcrus.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "NBA Jam (rev 3.01 04-07-93)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    400,
+    254 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "nbajam",
+  "wasmjs_filename": "mamemidtunit.js.gz",
+  "wasm_filename": "mamemidtunit.wasm.gz",
+  "file_locations": {
+    "mamemidtunit.wasm": "mamemidtunit.wasm.gz"
+  }
+}
+

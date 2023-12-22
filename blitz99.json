@@ -1,0 +1,23 @@
+{
+  "name": "blitz99",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "blitz99",
+  "wasmjs_filename": "mameseattled.js.gz",
+  "wasm_filename": "mameseattled.wasm.gz",
+  "file_locations": {
+    "mameseattled.wasm": "mameseattled.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Terra Force",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "terraf",
+  "wasmjs_filename": "mamearmedf.js.gz",
+  "wasm_filename": "mamearmedf.wasm.gz",
+  "file_locations": {
+    "mamearmedf.wasm": "mamearmedf.wasm.gz"
+  }
+}

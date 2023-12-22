@@ -1,0 +1,22 @@
+{
+  "name": "WonderSwan Console",
+  "bios_filenames": [
+    "wswan.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    224,
+    144 
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "wswan",
+  "wasmjs_filename": "mamewswan.js.gz",
+  "wasm_filename": "mamewswan.wasm.gz",
+  "file_locations": {
+    "mamenes.wasm": "mamewswan.wasm.gz"
+  }
+}

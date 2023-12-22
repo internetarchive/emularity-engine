@@ -1,0 +1,22 @@
+{
+  "name": "Tandy Color Computer 3 Cart",
+  "bios_filenames": [
+    "coco3.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    640,
+    480
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "coco3",
+  "wasmjs_filename": "mamecoco3.js.gz",
+  "wasm_filename": "mamecoco3.wasm.gz",
+  "file_locations": {
+    "mamecoco3.wasm": "mamecoco3.wasm.gz"
+  }
+}

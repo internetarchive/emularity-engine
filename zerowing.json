@@ -1,0 +1,24 @@
+{
+  "name": "Zero Wing (2P set)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "zerowing",
+  "wasmjs_filename": "mametoaplan1.js.gz",
+  "wasm_filename": "mametoaplan1.wasm.gz",
+  "file_locations": {
+    "mametoaplan1.wasm": "mametoaplan1.wasm.gz"
+  }
+}
+

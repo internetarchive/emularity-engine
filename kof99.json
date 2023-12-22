@@ -1,0 +1,24 @@
+{
+  "name": "The King of Fighters '99 - Millennium Battle (NGM-2510)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kof99",
+  "wasmjs_filename": "mameneogeo.js.gz",
+  "wasm_filename": "mameneogeo.wasm.gz",
+  "file_locations": {
+    "mameneogeo.wasm": "mameneogeo.wasm.gz"
+  }
+}
+

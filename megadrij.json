@@ -1,0 +1,22 @@
+{
+  "name": "Sega Mega Drive Japan",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    224
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "megadrij",
+  "wasmjs_filename": "mamemegadriv.js.gz",
+  "wasm_filename": "mamemegadriv.wasm.gz",
+  "file_locations": {
+    "mamemegadriv.wasm": "mamemegadriv.wasm.gz"
+  }
+}

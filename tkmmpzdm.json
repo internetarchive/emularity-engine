@@ -1,0 +1,23 @@
+{
+    "name": "Tokimeki Memorial Taisen Puzzle-dama (ver JAB)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tkmmpzdm",
+    "wasmjs_filename": "mamekonamigx.js.gz",
+    "wasm_filename": "mamekonamigx.wasm.gz",
+    "file_locations": {
+        "mamekonamigx.wasm": "mamekonamigx.wasm.gz"
+    }
+}

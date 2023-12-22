@@ -1,0 +1,23 @@
+{
+  "name": "Nova 2001",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    192
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "nova2001",
+  "wasmjs_filename": "mamenova2001.js.gz",
+  "wasm_filename": "mamenova2001.wasm.gz",
+  "file_locations": {
+    "mamenova2001.wasm": "mamenova2001.wasm.gz"
+  }
+}

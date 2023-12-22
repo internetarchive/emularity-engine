@@ -1,0 +1,24 @@
+{
+  "name": "Street Fighter (US set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sf",
+  "wasmjs_filename": "mamesf.js.gz",
+  "wasm_filename": "mamesf.wasm.gz",
+  "file_locations": {
+    "mamesf.wasm": "mamesf.wasm.gz"
+  }
+}
+

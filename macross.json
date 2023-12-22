@@ -1,0 +1,24 @@
+{
+  "name": "Super Spacefortress Macross - Chou-Jikuu Yousai Macross",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "macross",
+  "wasmjs_filename": "mamenmk16.js.gz",
+  "wasm_filename": "mamenmk16.wasm.gz",
+  "file_locations": {
+    "mamenmk16.wasm": "mamenmk16.wasm.gz"
+  }
+}
+

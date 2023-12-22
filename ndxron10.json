@@ -1,0 +1,23 @@
+{
+    "name": "Royal on Ten (Noraut Deluxe hack)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        464,
+        248 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ndxron10",
+    "wasmjs_filename": "mamenorautp.js.gz",
+    "wasm_filename": "mamenorautp.wasm.gz",
+    "file_locations": {
+        "mamenorautp.wasm": "mamenorautp.wasm.gz"
+    }
+}

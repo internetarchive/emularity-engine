@@ -1,0 +1,23 @@
+{
+  "name": "Colony 7",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    292
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "colony7",
+  "wasmjs_filename": "mamewilliams.js.gz",
+  "wasm_filename": "mamewilliams.wasm.gz",
+  "file_locations": {
+    "mamewilliams.wasm": "mamewilliams.wasm.gz"
+  }
+}

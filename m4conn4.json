@@ -1,0 +1,23 @@
+{
+    "name": "Connect 4",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        ,
+         
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "m4conn4",
+    "wasmjs_filename": "mamempu4mod2sw.js.gz",
+    "wasm_filename": "mamempu4mod2sw.wasm.gz",
+    "file_locations": {
+        "mamempu4mod2sw.wasm": "mamempu4mod2sw.wasm.gz"
+    }
+}

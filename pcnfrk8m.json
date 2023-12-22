@@ -1,0 +1,23 @@
+{
+    "name": "Percussion Freaks 8th Mix (G*C38 VER. AAA)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pcnfrk8m",
+    "wasmjs_filename": "mameksys573.js.gz",
+    "wasm_filename": "mameksys573.wasm.gz",
+    "file_locations": {
+        "mameksys573.wasm": "mameksys573.wasm.gz"
+    }
+}

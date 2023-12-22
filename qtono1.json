@@ -1,0 +1,23 @@
+{
+    "name": "Quiz Tonosama no Yabou (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "qtono1",
+    "wasmjs_filename": "mamemitchell.js.gz",
+    "wasm_filename": "mamemitchell.wasm.gz",
+    "file_locations": {
+        "mamemitchell.wasm": "mamemitchell.wasm.gz"
+    }
+}

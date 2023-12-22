@@ -1,0 +1,23 @@
+{
+    "name": "Ping-Pong King",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ppking",
+    "wasmjs_filename": "mamegladiatr.js.gz",
+    "wasm_filename": "mamegladiatr.wasm.gz",
+    "file_locations": {
+        "mamegladiatr.wasm": "mamegladiatr.wasm.gz"
+    }
+}

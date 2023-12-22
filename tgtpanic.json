@@ -1,0 +1,24 @@
+{
+  "name": "Target Panic",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    192,
+    192
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tgtpanic",
+  "wasmjs_filename": "mametgtpanic.js.gz",
+  "wasm_filename": "mametgtpanic.wasm.gz",
+  "file_locations": {
+    "mametgtpanic.wasm": "mametgtpanic.wasm.gz"
+  }
+}
+

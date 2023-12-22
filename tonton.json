@@ -1,0 +1,23 @@
+{
+    "name": "Waku Waku Doubutsu Land TonTon (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        543,
+        465 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tonton",
+    "wasmjs_filename": "mametonton.js.gz",
+    "wasm_filename": "mametonton.wasm.gz",
+    "file_locations": {
+        "mametonton.wasm": "mametonton.wasm.gz"
+    }
+}

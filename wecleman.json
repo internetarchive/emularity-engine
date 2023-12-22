@@ -1,0 +1,23 @@
+{
+  "name": "WEC Le Mans 24",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "wecleman",
+  "wasmjs_filename": "mamewecleman.js.gz",
+  "wasm_filename": "mamewecleman.wasm.gz",
+  "file_locations": {
+    "mamewecleman.wasm": "mamewecleman.wasm.gz"
+  }
+}

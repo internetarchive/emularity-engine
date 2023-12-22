@@ -1,0 +1,23 @@
+{
+    "name": "TelePachi Fever Lion (V1.0)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "telpacfl",
+    "wasmjs_filename": "mameseta2.js.gz",
+    "wasm_filename": "mameseta2.wasm.gz",
+    "file_locations": {
+        "mameseta2.wasm": "mameseta2.wasm.gz"
+    }
+}

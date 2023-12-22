@@ -1,0 +1,23 @@
+{
+  "name": "Mag Max",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "magmax",
+  "wasmjs_filename": "mamemagmax.js.gz",
+  "wasm_filename": "mamemagmax.wasm.gz",
+  "file_locations": {
+    "mamemagmax.wasm": "mamemagmax.wasm.gz"
+  }
+}

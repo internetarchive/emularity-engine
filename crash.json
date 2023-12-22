@@ -1,0 +1,23 @@
+{
+    "name": "Crash",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        248,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "crash",
+    "wasmjs_filename": "mamecircus.js.gz",
+    "wasm_filename": "mamecircus.wasm.gz",
+    "file_locations": {
+        "mamecircus.wasm": "mamecircus.wasm.gz"
+    }
+}

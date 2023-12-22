@@ -1,0 +1,23 @@
+{
+    "name": "Novo Play Multi Card - Club Card",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        232 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "novoplay",
+    "wasmjs_filename": "mamefunworld.js.gz",
+    "wasm_filename": "mamefunworld.wasm.gz",
+    "file_locations": {
+        "mamefunworld.wasm": "mamefunworld.wasm.gz"
+    }
+}

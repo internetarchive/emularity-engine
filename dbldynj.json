@@ -1,0 +1,24 @@
+{
+  "name": "The Double Dynamites (Japan 13NOV89)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dbldynj",
+  "wasmjs_filename": "mamedynduke.js.gz",
+  "wasm_filename": "mamedynduke.wasm.gz",
+  "file_locations": {
+    "mamedynduke.wasm": "mamedynduke.wasm.gz"
+  }
+}
+

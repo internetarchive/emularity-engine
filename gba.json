@@ -1,0 +1,22 @@
+{
+  "name": "Gameboy Advance",
+  "bios_filenames": [
+    "gba.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    240,
+   160 
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "gba",
+  "wasmjs_filename": "gba.js.gz",
+  "wasm_filename": "gba.wasm.gz",
+  "file_locations": {
+    "gba.wasm": "gba.wasm.gz"
+  }
+}

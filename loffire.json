@@ -1,0 +1,23 @@
+{
+  "name": "Line of Fire / Bakudan Yarou ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "loffire",
+  "wasmjs_filename": "mamesegaxbd.js.gz",
+  "wasm_filename": "mamesegaxbd.wasm.gz",
+  "file_locations": {
+    "mamesegaxbd.wasm": "mamesegaxbd.wasm.gz"
+  }
+}

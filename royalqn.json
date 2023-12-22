@@ -1,0 +1,23 @@
+{
+    "name": "Royal Queen [BET] (Japan 841010 RQ 0-07)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "royalqn",
+    "wasmjs_filename": "mamenightgal.js.gz",
+    "wasm_filename": "mamenightgal.wasm.gz",
+    "file_locations": {
+        "mamenightgal.wasm": "mamenightgal.wasm.gz"
+    }
+}

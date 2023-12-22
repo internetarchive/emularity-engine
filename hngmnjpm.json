@@ -1,0 +1,23 @@
+{
+    "name": "Hangman (JPM)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        400,
+        300 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hngmnjpm",
+    "wasmjs_filename": "mamejpmimpct.js.gz",
+    "wasm_filename": "mamejpmimpct.wasm.gz",
+    "file_locations": {
+        "mamejpmimpct.wasm": "mamejpmimpct.wasm.gz"
+    }
+}

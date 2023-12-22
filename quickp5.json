@@ -1,0 +1,23 @@
+{
+    "name": "Quick Pick 5",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        368,
+        228 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "quickp5",
+    "wasmjs_filename": "mamequickpick5.js.gz",
+    "wasm_filename": "mamequickpick5.wasm.gz",
+    "file_locations": {
+        "mamequickpick5.wasm": "mamequickpick5.wasm.gz"
+    }
+}

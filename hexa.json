@@ -1,0 +1,23 @@
+{
+    "name": "Hexa",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hexa",
+    "wasmjs_filename": "mamearkanoid.js.gz",
+    "wasm_filename": "mamearkanoid.wasm.gz",
+    "file_locations": {
+        "mamearkanoid.wasm": "mamearkanoid.wasm.gz"
+    }
+}

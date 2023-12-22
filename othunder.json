@@ -1,0 +1,23 @@
+{
+  "name": "Operation Thunderbolt ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "othunder",
+  "wasmjs_filename": "mameothunder.js.gz",
+  "wasm_filename": "mameothunder.wasm.gz",
+  "file_locations": {
+    "mameothunder.wasm": "mameothunder.wasm.gz"
+  }
+}

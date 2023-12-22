@@ -1,0 +1,24 @@
+{
+  "name": "Bomber Man World - New Dyna Blaster - Global Quest",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bbmanw",
+  "wasmjs_filename": "mamem90.js.gz",
+  "wasm_filename": "mamem90.wasm.gz",
+  "file_locations": {
+    "mamem90.wasm": "mamem90.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+    "name": "Starblade (ST2, World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        496,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "starblad",
+    "wasmjs_filename": "mamenamcos21_c67.js.gz",
+    "wasm_filename": "mamenamcos21_c67.wasm.gz",
+    "file_locations": {
+        "mamenamcos21_c67.wasm": "mamenamcos21_c67.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Kusayakyuu",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ksayakyu",
+  "wasmjs_filename": "mameksayakyu.js.gz",
+  "wasm_filename": "mameksayakyu.wasm.gz",
+  "file_locations": {
+    "mameksayakyu.wasm": "mameksayakyu.wasm.gz"
+  }
+}

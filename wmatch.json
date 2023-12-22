@@ -1,0 +1,23 @@
+{
+    "name": "Water Match",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        448,
+        479
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "wmatch",
+    "wasmjs_filename": "mamesystem1.js.gz",
+    "wasm_filename": "mamesystem1.wasm.gz",
+    "file_locations": {
+        "mamesystem1.wasm": "mamesystem1.wasm.gz"
+    }
+}

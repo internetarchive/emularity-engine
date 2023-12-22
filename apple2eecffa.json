@@ -1,0 +1,23 @@
+{
+  "name": "Apple IIe Enhanced CFA Card",
+  "bios_filenames": [
+    "apple2e.zip"
+  ],
+  "peripherals": [
+    "hard"
+  ],
+  "native_resolution": [
+    560,
+    384
+  ],
+  "extra_args": [
+    "-sl7",
+    "cffa2"
+  ],
+  "driver": "apple2ee",
+  "wasmjs_filename": "mameapple2e.js.gz",
+  "wasm_filename": "mameapple2e.wasm.gz",
+  "file_locations": {
+    "mameapple2e.wasm": "mameapple2e.wasm.gz"
+  }
+}

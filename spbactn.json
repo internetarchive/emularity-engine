@@ -1,0 +1,23 @@
+{
+    "name": "Super Pinball Action (US)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "spbactn",
+    "wasmjs_filename": "mamespbactn.js.gz",
+    "wasm_filename": "mamespbactn.wasm.gz",
+    "file_locations": {
+        "mamespbactn.wasm": "mamespbactn.wasm.gz"
+    }
+}

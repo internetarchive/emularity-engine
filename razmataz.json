@@ -1,0 +1,23 @@
+{
+    "name": "Razzmatazz",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "razmataz",
+    "wasmjs_filename": "mamezaxxon.js.gz",
+    "wasm_filename": "mamezaxxon.wasm.gz",
+    "file_locations": {
+        "mamezaxxon.wasm": "mamezaxxon.wasm.gz"
+    }
+}

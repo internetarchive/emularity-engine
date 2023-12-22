@@ -1,0 +1,24 @@
+{
+    "name": "World Class Bowling Deluxe (v2.00)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        384,
+        240
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "wcbowldx",
+    "wasmjs_filename": "mameitech32.js.gz",
+    "wasm_filename": "mameitech32.wasm.gz",
+    "file_locations": {
+        "mameitech32.wasm": "mameitech32.wasm.gz"
+    }
+}

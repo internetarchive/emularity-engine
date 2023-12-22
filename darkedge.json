@@ -1,0 +1,23 @@
+{
+    "name": "Dark Edge (World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        416,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "darkedge",
+    "wasmjs_filename": "mamesegas32.js.gz",
+    "wasm_filename": "mamesegas32.wasm.gz",
+    "file_locations": {
+        "mamesegas32.wasm": "mamesegas32.wasm.gz"
+    }
+}

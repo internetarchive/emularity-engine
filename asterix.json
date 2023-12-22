@@ -1,0 +1,23 @@
+{
+    "name": "Asterix (ver EAD)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "asterix",
+    "wasmjs_filename": "mameasterix.js.gz",
+    "wasm_filename": "mameasterix.wasm.gz",
+    "file_locations": {
+        "mameasterix.wasm": "mameasterix.wasm.gz"
+    }
+}

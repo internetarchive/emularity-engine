@@ -1,0 +1,23 @@
+{
+  "name": "DEC PDP-1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "ptap1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    896,
+    672
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "pdp1",
+  "wasmjs_filename": "mamepdp1.js.gz",
+  "wasm_filename": "mamepdp1.wasm.gz",
+  "file_locations": {
+    "mamepdp1.wasm": "mamepdp1.wasm.gz"
+  }
+}

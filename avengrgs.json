@@ -1,0 +1,23 @@
+{
+    "name": "Avengers In Galactic Storm (US-Europe 1.0)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "avengrgs",
+    "wasmjs_filename": "mamedeco_mlc.js.gz",
+    "wasm_filename": "mamedeco_mlc.wasm.gz",
+    "file_locations": {
+        "mamedeco_mlc.wasm": "mamedeco_mlc.wasm.gz"
+    }
+}

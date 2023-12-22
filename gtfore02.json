@@ -1,0 +1,24 @@
+{
+  "name": "Golden Tee Fore! 2002 (v2.01.06)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    100,
+    100 
+  ],
+  "extra_args": [
+    "-mouse"
+  ],
+  "driver": "gtfore02",
+  "wasmjs_filename": "mameiteagle.js.gz",
+  "wasm_filename": "mameiteagle.wasm.gz",
+  "file_locations": {
+    "mameiteagle.wasm": "mameiteagle.wasm.gz"
+  }
+}
+

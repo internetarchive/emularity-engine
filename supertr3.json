@@ -1,0 +1,23 @@
+{
+    "name": "Super Triv III",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "supertr3",
+    "wasmjs_filename": "mamestatriv2.js.gz",
+    "wasm_filename": "mamestatriv2.wasm.gz",
+    "file_locations": {
+        "mamestatriv2.wasm": "mamestatriv2.wasm.gz"
+    }
+}

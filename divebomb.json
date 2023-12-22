@@ -1,0 +1,24 @@
+{
+  "name": "Kyuukoukabakugekitai - Dive Bomber Squad (Japan prototype)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "divebomb",
+  "wasmjs_filename": "mamedivebomb.js.gz",
+  "wasm_filename": "mamedivebomb.wasm.gz",
+  "file_locations": {
+    "mamedivebomb.wasm": "mamedivebomb.wasm.gz"
+  }
+}
+

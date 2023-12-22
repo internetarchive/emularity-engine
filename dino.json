@@ -1,0 +1,24 @@
+{
+    "name": "Cadillacs and Dinosaurs (World 930201)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        384,
+        448
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "dino",
+    "wasmjs_filename": "mamecps1.js.gz",
+    "wasm_filename": "mamecps1.wasm.gz",
+    "file_locations": {
+        "mamecps1.wasm": "mamecps1.wasm.gz"
+    }
+}

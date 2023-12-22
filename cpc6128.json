@@ -1,0 +1,23 @@
+{
+  "name": "Amstrad CPC6128",
+  "bios_filenames": [
+    "cpc6128.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    768,
+    540
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "cpc6128",
+  "wasmjs_filename": "mameamstrad.js.gz",
+  "wasm_filename": "mameamstrad.wasm.gz",
+  "file_locations": {
+    "mameamstrad.wasm": "mameamstrad.wasm.gz"
+  }
+}

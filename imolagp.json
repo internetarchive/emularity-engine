@@ -1,0 +1,23 @@
+{
+    "name": "Imola Grand Prix (set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        208,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "imolagp",
+    "wasmjs_filename": "mameimolagp.js.gz",
+    "wasm_filename": "mameimolagp.wasm.gz",
+    "file_locations": {
+        "mameimolagp.wasm": "mameimolagp.wasm.gz"
+    }
+}

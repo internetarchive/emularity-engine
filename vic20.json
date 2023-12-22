@@ -1,0 +1,20 @@
+{
+  "name": "Commodore Business Machines VIC-20 (NTSC)",
+  "bios_filenames": [],
+  "peripherals": [
+    "quik"
+  ],
+  "native_resolution": [
+    200,
+    248
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "vic20",
+  "wasmjs_filename": "mamevic20.js.gz",
+  "wasm_filename": "mamevic20.wasm.gz",
+  "file_locations": {
+    "mamevic20.wasm": "mamevic20.wasm.gz"
+  }
+}

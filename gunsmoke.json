@@ -1,0 +1,23 @@
+{
+  "name": "Gun.Smoke",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "gunsmoke",
+  "wasmjs_filename": "mamegunsmoke.js.gz",
+  "wasm_filename": "mamegunsmoke.wasm.gz",
+  "file_locations": {
+    "mamegunsmoke.wasm": "mamegunsmoke.wasm.gz"
+  }
+}

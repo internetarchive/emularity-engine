@@ -1,0 +1,22 @@
+{
+  "name": "Epoch Super Cassette Vision",
+  "bios_filenames": [
+    "scv.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    309,
+    246
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "scv",
+  "wasmjs_filename": "mamescv.js.gz",
+  "wasm_filename": "mamescv.wasm.gz",
+  "file_locations": {
+    "mamescv.wasm": "mamescv.wasm.gz"
+  }
+}

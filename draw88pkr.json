@@ -1,0 +1,23 @@
+{
+    "name": "Draw 88 Poker (V2.0)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        592,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "draw88pkr",
+    "wasmjs_filename": "mameamusco.js.gz",
+    "wasm_filename": "mameamusco.wasm.gz",
+    "file_locations": {
+        "mameamusco.wasm": "mameamusco.wasm.gz"
+    }
+}

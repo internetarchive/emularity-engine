@@ -1,0 +1,24 @@
+{
+  "name": "Space Firebird",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    232,
+    264
+  ],
+  "extra_args": [
+    "-samplepath",
+    "."
+  ],
+  "driver": "spacefb",
+  "wasmjs_filename": "mamespacefb.js.gz",
+  "wasm_filename": "mamespacefb.wasm.gz",
+  "file_locations": {
+    "mamespacefb.wasm": "mamespacefb.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Toukidenshou - Angel Eyes (VER. 960614)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tkdensho",
+    "wasmjs_filename": "mametecmosys.js.gz",
+    "wasm_filename": "mametecmosys.wasm.gz",
+    "file_locations": {
+        "mametecmosys.wasm": "mametecmosys.wasm.gz"
+    }
+}

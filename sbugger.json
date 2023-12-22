@@ -1,0 +1,24 @@
+{
+    "name": "Space Bugger",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        512,
+        512
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sbugger",
+    "wasmjs_filename": "mamesbugger.js.gz",
+    "wasm_filename": "mamesbugger.wasm.gz",
+    "file_locations": {
+        "mamesbugger.wasm": "mamesbugger.wasm.gz"
+    }
+}

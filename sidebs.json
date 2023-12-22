@@ -1,0 +1,23 @@
+{
+    "name": "Side by Side (Ver 2.7 J)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        400 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sidebs",
+    "wasmjs_filename": "mametaitojc.js.gz",
+    "wasm_filename": "mametaitojc.wasm.gz",
+    "file_locations": {
+        "mametaitojc.wasm": "mametaitojc.wasm.gz"
+    }
+}

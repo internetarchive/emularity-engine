@@ -1,0 +1,24 @@
+{
+  "name": "Air Buster: Trouble Specialty Raid Unit (World)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "airbustr",
+  "wasmjs_filename": "mameairbustr.js.gz",
+  "wasm_filename": "mameairbustr.wasm.gz",
+  "file_locations": {
+    "mameairbustr.wasm": "mameairbustr.wasm.gz"
+  }
+}
+

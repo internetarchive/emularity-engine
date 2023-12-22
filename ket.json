@@ -1,0 +1,23 @@
+{
+    "name": "Ketsui: Kizuna Jigoku Tachi (2003-01-01. Master Ver.)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        448,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "ket",
+    "wasmjs_filename": "mamepgm.js.gz",
+    "wasm_filename": "mamepgm.wasm.gz",
+    "file_locations": {
+        "mamepgm.wasm": "mamepgm.wasm.gz"
+    }
+}

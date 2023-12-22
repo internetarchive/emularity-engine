@@ -1,0 +1,24 @@
+{
+  "name": "Mighty Warriors",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    366,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mwarr",
+  "wasmjs_filename": "mamemwarr.js.gz",
+  "wasm_filename": "mamemwarr.wasm.gz",
+  "file_locations": {
+    "mamemwarr.wasm": "mamemwarr.wasm.gz"
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+  "name": "News (set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "news",
+  "wasmjs_filename": "mamenews.js.gz",
+  "wasm_filename": "mamenews.wasm.gz",
+  "file_locations": {
+    "mamenews.wasm": "mamenews.wasm.gz"
+  }
+}
+

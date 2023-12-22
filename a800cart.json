@@ -1,0 +1,23 @@
+{
+  "name": "Atari 800 Cartridge",
+  "bios_filenames": [
+    "a800.zip"
+  ],
+  "peripherals": [
+    "cart1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    672,
+    450 
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "a800",
+  "file_locations": {
+    "mameatari400.wasm": "mameatari400.wasm.gz"
+  },
+  "wasmjs_filename": "mameatari400.js.gz",
+  "wasm_filename": "mameatari400.wasm.gz"
+}

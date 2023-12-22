@@ -1,0 +1,23 @@
+{
+  "name": "Blasteroids",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "blstroid",
+  "wasmjs_filename": "mameblstroid.js.gz",
+  "wasm_filename": "mameblstroid.wasm.gz",
+  "file_locations": {
+    "mameblstroid.wasm": "mameblstroid.wasm.gz"
+  }
+}

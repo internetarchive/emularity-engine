@@ -1,0 +1,23 @@
+{
+    "name": "Autumn Moon (1VXFC5488, New Zealand)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        304,
+        216 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "autmoon",
+    "wasmjs_filename": "mamearistmk4.js.gz",
+    "wasm_filename": "mamearistmk4.wasm.gz",
+    "file_locations": {
+        "mamearistmk4.wasm": "mamearistmk4.wasm.gz"
+    }
+}

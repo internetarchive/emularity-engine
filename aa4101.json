@@ -1,0 +1,20 @@
+{
+  "name": "Archimedes 410/1",
+  "bios_filenames": [],
+  "peripherals": [
+    "flop1"
+  ],
+  "native_resolution": [
+    7358,
+    292
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "aa4101",
+  "wasmjs_filename": "mameaa310.js.gz",
+  "wasm_filename": "mameaa310.wasm.gz",
+  "file_locations": {
+    "mameaa310.wasm": "mameaa310.wasm.gz"
+  }
+}

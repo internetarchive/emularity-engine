@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Fun Club - Idol Saizensen (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        352,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mfunclub",
+    "wasmjs_filename": "mamefromance.js.gz",
+    "wasm_filename": "mamefromance.wasm.gz",
+    "file_locations": {
+        "mamefromance.wasm": "mamefromance.wasm.gz"
+    }
+}

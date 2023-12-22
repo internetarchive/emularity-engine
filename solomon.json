@@ -1,0 +1,23 @@
+{
+  "name": "Solomon's Key",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "solomon",
+  "wasmjs_filename": "mamesolomon.js.gz",
+  "wasm_filename": "mamesolomon.wasm.gz",
+  "file_locations": {
+    "mamesolomon.wasm": "mamesolomon.wasm.gz"
+  }
+}

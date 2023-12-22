@@ -1,0 +1,23 @@
+{
+  "name": "ColecoVision",
+  "bios_filenames": [
+    "coleco.zip"
+  ],
+  "peripherals": [
+    "cart",
+    "flop1"
+  ],
+  "native_resolution": [
+    280,
+    216
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "coleco",
+  "wasmjs_filename": "mamecoleco.js.gz",
+  "wasm_filename": "mamecoleco.wasm.gz",
+  "file_locations": {
+    "mamecoleco.wasm": "mamecoleco.wasm.gz"
+  }
+}

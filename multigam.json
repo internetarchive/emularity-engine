@@ -1,0 +1,24 @@
+{
+  "name": "Multi Game (set 1)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "multigam",
+  "wasmjs_filename": "mamemultigam.js.gz",
+  "wasm_filename": "mamemultigam.wasm.gz",
+  "file_locations": {
+    "mamemultigam.wasm": "mamemultigam.wasm.gz"
+  }
+}
+

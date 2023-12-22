@@ -1,0 +1,23 @@
+{
+  "name": "Dominoes",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    448
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dominos",
+  "wasmjs_filename": "mamesprint2.js.gz",
+  "wasm_filename": "mamesprint2.wasm.gz",
+  "file_locations": {
+    "mamesprint2.wasm": "mamesprint2.wasm.gz"
+  }
+}

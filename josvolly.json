@@ -1,0 +1,23 @@
+{
+  "name": "Joshi Volleyball",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "josvolly",
+  "wasmjs_filename": "mamegsword.js.gz",
+  "wasm_filename": "mamegsword.wasm.gz",
+  "file_locations": {
+    "mamegsword.wasm": "mamegsword.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Charlie Ninja",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "charlien",
+  "wasmjs_filename": "mamesimpl156.js.gz",
+  "wasm_filename": "mamesimpl156.wasm.gz",
+  "file_locations": {
+    "mamesimpl156.wasm": "mamesimpl156.wasm.gz"
+  }
+}
+

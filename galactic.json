@@ -1,0 +1,23 @@
+{
+    "name": "Galactica - Batalha Espacial",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        260,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "galactic",
+    "wasmjs_filename": "mame8080bw.js.gz",
+    "wasm_filename": "mame8080bw.wasm.gz",
+    "file_locations": {
+        "mame8080bw.wasm": "mame8080bw.wasm.gz"
+    }
+}

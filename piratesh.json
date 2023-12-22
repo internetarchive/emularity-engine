@@ -1,0 +1,23 @@
+{
+    "name": "Pirate Ship (ver UAA)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "piratesh",
+    "wasmjs_filename": "mamepiratesh.js.gz",
+    "wasm_filename": "mamepiratesh.wasm.gz",
+    "file_locations": {
+        "mamepiratesh.wasm": "mamepiratesh.wasm.gz"
+    }
+}

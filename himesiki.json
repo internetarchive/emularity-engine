@@ -1,0 +1,23 @@
+{
+    "name": "Himeshikibu (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        192 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "himesiki",
+    "wasmjs_filename": "mamehimesiki.js.gz",
+    "wasm_filename": "mamehimesiki.wasm.gz",
+    "file_locations": {
+        "mamehimesiki.wasm": "mamehimesiki.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "sfish2",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    352,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sfish2",
+  "wasmjs_filename": "mamestv.js.gz",
+  "wasm_filename": "mamestv.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamestv.wasm.gz"
+  }
+}

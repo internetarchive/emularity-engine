@@ -1,0 +1,23 @@
+{
+    "name": "Sakura Taisen - Hanagumi Taisen Columns (J 971007 V1.010)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        352,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hanagumi",
+    "wasmjs_filename": "mamestv.js.gz",
+    "wasm_filename": "mamestv.wasm.gz",
+    "file_locations": {
+        "mamestv.wasm": "mamestv.wasm.gz"
+    }
+}

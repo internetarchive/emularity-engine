@@ -1,0 +1,24 @@
+{
+  "name": "Challenger",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "challeng",
+  "wasmjs_filename": "mamegameplan.js.gz",
+  "wasm_filename": "mamegameplan.wasm.gz",
+  "file_locations": {
+    "mamegameplan.wasm": "mamegameplan.wasm.gz"
+  }
+}
+

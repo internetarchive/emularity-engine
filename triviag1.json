@@ -1,0 +1,23 @@
+{
+    "name": "Trivial Pursuit (Think Tank - Genus Edition) (set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "triviag1",
+    "wasmjs_filename": "mamebalsente.js.gz",
+    "wasm_filename": "mamebalsente.wasm.gz",
+    "file_locations": {
+        "mamebalsente.wasm": "mamebalsente.wasm.gz"
+    }
+}

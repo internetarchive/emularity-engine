@@ -1,0 +1,24 @@
+{
+  "name": "carnevil",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args": [
+    "-mouse",
+    "-nodrc"
+  ],
+  "driver": "carnevil",
+  "wasmjs_filename": "mameseattle.js.gz",
+  "wasm_filename": "mameseattle.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mameseattle.wasm.gz"
+  }
+}

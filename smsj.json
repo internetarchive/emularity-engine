@@ -1,0 +1,23 @@
+{
+  "name": "Sega Master System (Japanese)",
+  "bios_filenames": [
+    "smsj.zip",
+    "ym2413.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    268,
+    224
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "smsj",
+  "wasmjs_filename": "mamesms.js.gz",
+  "wasm_filename": "mamesms.wasm.gz",
+  "file_locations": {
+    "mamesms.wasm": "mamesms.wasm.gz"
+  }
+}

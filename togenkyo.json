@@ -1,0 +1,24 @@
+{
+    "name": "Tougenkyou (Japan 890418)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        512,
+        480
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "togenkyo",
+    "wasmjs_filename": "mamenbmj8900.js.gz",
+    "wasm_filename": "mamenbmj8900.wasm.gz",
+    "file_locations": {
+        "mamenbmj8900.wasm": "mamenbmj8900.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Flyball",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "flyball",
+  "wasmjs_filename": "mameflyball.js.gz",
+  "wasm_filename": "mameflyball.wasm.gz",
+  "file_locations": {
+    "mameflyball.wasm": "mameflyball.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "dokodemo",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dokodemo",
+  "wasmjs_filename": "mamealien.js.gz",
+  "wasm_filename": "mamealien.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamealien.wasm.gz"
+  }
+}

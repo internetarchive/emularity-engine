@@ -1,0 +1,23 @@
+{
+  "name": "Crystal Castles",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    232
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ccastles",
+  "wasmjs_filename": "mameccastles.js.gz",
+  "wasm_filename": "mameccastles.wasm.gz",
+  "file_locations": {
+    "mameccastles.wasm": "mameccastles.wasm.gz"
+  }
+}

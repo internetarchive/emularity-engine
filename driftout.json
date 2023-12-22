@@ -1,0 +1,24 @@
+{
+    "name": "Drift Out (Europe)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        448,
+        320
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "driftout",
+    "wasmjs_filename": "mametaito_f2.js.gz",
+    "wasm_filename": "mametaito_f2.wasm.gz",
+    "file_locations": {
+        "mametaito_f2.wasm": "mametaito_f2.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Suiko Enbu - Outlaws of the Lost Dynasty (JUETL 950314 V2.001)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        352,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "suikoenb",
+    "wasmjs_filename": "mamestv.js.gz",
+    "wasm_filename": "mamestv.wasm.gz",
+    "file_locations": {
+        "mamestv.wasm": "mamestv.wasm.gz"
+    }
+}

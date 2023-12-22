@@ -1,0 +1,24 @@
+{
+    "name": "Games V25.4X",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        400,
+        248
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "usgames",
+    "wasmjs_filename": "mameusgames.js.gz",
+    "wasm_filename": "mameusgames.wasm.gz",
+    "file_locations": {
+        "mameusgames.wasm": "mameusgames.wasm.gz"
+    }
+}

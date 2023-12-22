@@ -1,0 +1,23 @@
+{
+    "name": "Tri-Pool (Casino Tech)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "tripool",
+    "wasmjs_filename": "mamejack.js.gz",
+    "wasm_filename": "mamejack.wasm.gz",
+    "file_locations": {
+        "mamejack.wasm": "mamejack.wasm.gz"
+    }
+}

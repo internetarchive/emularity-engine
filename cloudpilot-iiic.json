@@ -1,0 +1,17 @@
+{
+  "name": "Cloudpilot Palm IIIc Emulation",
+  "native_resolution": [
+    160,
+    320
+  ],
+  "extra_args": [
+    ""
+  ],
+  "js_filename": "cloudpilot-emu.js",
+  "file_locations": {
+  "cloudpilot_web.wasm": "cloudpilot_web.wasm",
+  "cloudpilot-emu.js.map": "cloudpilot-emu.js.map"
+  },
+  "driver": "iiic",
+  "bios_filenames": ["Palm-IIIc-4.1-en.rom", "iiic_session.img"]
+}

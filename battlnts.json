@@ -1,0 +1,23 @@
+{
+  "name": "Battlantis",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "battlnts",
+  "wasmjs_filename": "mamebattlnts.js.gz",
+  "wasm_filename": "mamebattlnts.wasm.gz",
+  "file_locations": {
+    "mamebattlnts.wasm": "mamebattlnts.wasm.gz"
+  }
+}

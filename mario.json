@@ -1,0 +1,23 @@
+{
+  "name": "Mario Bros.",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mario",
+  "wasmjs_filename": "mamemario.js.gz",
+  "wasm_filename": "mamemario.wasm.gz",
+  "file_locations": {
+    "mamemario.wasm": "mamemario.wasm.gz"
+  }
+}

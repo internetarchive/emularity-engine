@@ -1,0 +1,23 @@
+{
+  "name": "Operation Wolf",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "opwolf",
+  "wasmjs_filename": "mameopwolf.js.gz",
+  "wasm_filename": "mameopwolf.wasm.gz",
+  "file_locations": {
+    "mameopwolf.wasm": "mameopwolf.wasm.gz"
+  }
+}

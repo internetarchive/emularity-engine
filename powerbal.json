@@ -1,0 +1,24 @@
+{
+  "name": "Power Balls",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "powerbal",
+  "wasmjs_filename": "mamepowerbal.js.gz",
+  "wasm_filename": "mamepowerbal.wasm.gz",
+  "file_locations": {
+    "mamepowerbal.wasm": "mamepowerbal.wasm.gz"
+  }
+}
+

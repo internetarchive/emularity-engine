@@ -1,0 +1,23 @@
+{
+  "name": "kokoroj2",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    416,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kokoroj2",
+  "wasmjs_filename": "mamesegas32.js.gz",
+  "wasm_filename": "mamesegas32.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamesegas32.wasm.gz"
+  }
+}

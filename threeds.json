@@ -1,0 +1,23 @@
+{
+    "name": "Three Ds - Three Dealers Casino House (set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "threeds",
+    "wasmjs_filename": "mamepastelg.js.gz",
+    "wasm_filename": "mamepastelg.wasm.gz",
+    "file_locations": {
+        "mamepastelg.wasm": "mamepastelg.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Chain Reaction (World Version 2.2 1995.09.25)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "chainrec",
+  "wasmjs_filename": "mamesimpl156.js.gz",
+  "wasm_filename": "mamesimpl156.wasm.gz",
+  "file_locations": {
+    "mamesimpl156.wasm": "mamesimpl156.wasm.gz"
+  }
+}
+

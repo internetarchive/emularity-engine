@@ -1,0 +1,23 @@
+{
+    "name": "Jingle Bell (US, V157US)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "jingbell",
+    "wasmjs_filename": "mameigs009.js.gz",
+    "wasm_filename": "mameigs009.wasm.gz",
+    "file_locations": {
+        "mameigs009.wasm": "mameigs009.wasm.gz"
+    }
+}

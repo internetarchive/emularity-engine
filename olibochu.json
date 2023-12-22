@@ -1,0 +1,23 @@
+{
+  "name": "Oli-Boo-Chu",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "olibochu",
+  "wasmjs_filename": "mameolibochu.js.gz",
+  "wasm_filename": "mameolibochu.wasm.gz",
+  "file_locations": {
+    "mameolibochu.wasm": "mameolibochu.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Quantum",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "quantum",
+  "wasmjs_filename": "mamequantum.js.gz",
+  "wasm_filename": "mamequantum.wasm.gz",
+  "file_locations": {
+    "mamequantum.wasm": "mamequantum.wasm.gz"
+  }
+}

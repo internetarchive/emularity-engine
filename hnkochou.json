@@ -1,0 +1,23 @@
+{
+    "name": "Hana Kochou (Japan, Bet)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        508,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "hnkochou",
+    "wasmjs_filename": "mamedynax.js.gz",
+    "wasm_filename": "mamedynax.wasm.gz",
+    "file_locations": {
+        "mamedynax.wasm": "mamedynax.wasm.gz"
+    }
+}

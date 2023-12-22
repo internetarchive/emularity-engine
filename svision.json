@@ -1,0 +1,22 @@
+{
+  "name": "Watara Supervision",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    160,
+    160
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "svision",
+  "wasmjs_filename": "mamesvision.js.gz",
+  "wasm_filename": "mamesvision.wasm.gz",
+  "file_locations": {
+    "mamesvision.wasm": "mamesvision.wasm.gz"
+  }
+}

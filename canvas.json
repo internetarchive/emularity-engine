@@ -1,0 +1,24 @@
+{
+  "name": "Canvas Croquis",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    288,
+    216 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "canvas",
+  "wasmjs_filename": "mamemainsnk.js.gz",
+  "wasm_filename": "mamemainsnk.wasm.gz",
+  "file_locations": {
+    "mamemainsnk.wasm": "mamemainsnk.wasm.gz"
+  }
+}
+

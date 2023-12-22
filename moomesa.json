@@ -1,0 +1,23 @@
+{
+    "name": "Wild West C.O.W.-Boys of Moo Mesa (ver EAB)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "moomesa",
+    "wasmjs_filename": "mamemoo.js.gz",
+    "wasm_filename": "mamemoo.wasm.gz",
+    "file_locations": {
+        "mamemoo.wasm": "mamemoo.wasm.gz"
+    }
+}

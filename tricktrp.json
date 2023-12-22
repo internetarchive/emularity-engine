@@ -1,0 +1,23 @@
+{
+  "name": "Trick Trap ",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    280
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tricktrp",
+  "wasmjs_filename": "mamelabyrunr.js.gz",
+  "wasm_filename": "mamelabyrunr.wasm.gz",
+  "file_locations": {
+    "mamelabyrunr.wasm": "mamelabyrunr.wasm.gz"
+  }
+}

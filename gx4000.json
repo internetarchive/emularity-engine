@@ -1,0 +1,23 @@
+{
+  "name": "Amstrad GX4000",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    768,
+    544
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "gx4000",
+  "wasmjs_filename": "mameamstrad.js.gz",
+  "wasm_filename": "mameamstrad.wasm.gz",
+  "file_locations": {
+    "mameamstrad.wasm": "mameamstrad.wasm.gz"
+  }
+}

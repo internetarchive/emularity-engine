@@ -1,0 +1,23 @@
+{
+    "name": "American Laser Games BIOS",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        724,
+        483 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "alg_bios",
+    "wasmjs_filename": "mamealg.js.gz",
+    "wasm_filename": "mamealg.wasm.gz",
+    "file_locations": {
+        "mamealg.wasm": "mamealg.wasm.gz"
+    }
+}

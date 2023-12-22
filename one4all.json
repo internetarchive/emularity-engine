@@ -1,0 +1,23 @@
+{
+    "name": "One For All (0101503V, New Zealand)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        735,
+        292 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "one4all",
+    "wasmjs_filename": "mamearistmk5.js.gz",
+    "wasm_filename": "mamearistmk5.wasm.gz",
+    "file_locations": {
+        "mamearistmk5.wasm": "mamearistmk5.wasm.gz"
+    }
+}

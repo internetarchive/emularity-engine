@@ -1,0 +1,24 @@
+{
+  "name": "Bowl-O-Rama Rev 1.0",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    360
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bowlrama",
+  "wasmjs_filename": "mamecapbowl.js.gz",
+  "wasm_filename": "mamecapbowl.wasm.gz",
+  "file_locations": {
+    "mamecapbowl.wasm": "mamecapbowl.wasm.gz"
+  }
+}
+

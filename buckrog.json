@@ -1,0 +1,23 @@
+{
+    "name": "Buck Rogers: Planet of Zoom",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "buckrog",
+    "wasmjs_filename": "mameturbo.js.gz",
+    "wasm_filename": "mameturbo.wasm.gz",
+    "file_locations": {
+        "mameturbo.wasm": "mameturbo.wasm.gz"
+    }
+}

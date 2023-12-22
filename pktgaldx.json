@@ -1,0 +1,24 @@
+{
+  "name": "Pocket Gal Deluxe (Euro v3.00)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pktgaldx",
+  "wasmjs_filename": "mamepktgaldx.js.gz",
+  "wasm_filename": "mamepktgaldx.wasm.gz",
+  "file_locations": {
+    "mamepktgaldx.wasm": "mamepktgaldx.wasm.gz"
+  }
+}
+

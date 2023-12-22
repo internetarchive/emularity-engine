@@ -1,0 +1,23 @@
+{
+    "name": "Arkanoid Returns (Ver 2.02O 1997-02-10)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        232 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "arkretrn",
+    "wasmjs_filename": "mametaito_f3.js.gz",
+    "wasm_filename": "mametaito_f3.wasm.gz",
+    "file_locations": {
+        "mametaito_f3.wasm": "mametaito_f3.wasm.gz"
+    }
+}

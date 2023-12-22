@@ -1,0 +1,23 @@
+{
+  "name": "Sorcerer",
+  "bios_filenames": [
+    "sorcerer.zip"
+  ],
+  "peripherals": [
+    "dump"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    512,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "sorcerer",
+  "wasmjs_filename": "sorcerer.js.gz",
+  "wasm_filename": "sorcerer.wasm.gz",
+  "file_locations": {
+    "sorcerer.wasm": "sorcerer.wasm.gz"
+  }
+}

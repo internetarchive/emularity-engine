@@ -1,0 +1,23 @@
+{
+  "name": "City Bomber",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "citybomb",
+  "wasmjs_filename": "mamenemesis.js.gz",
+  "wasm_filename": "mamenemesis.wasm.gz",
+  "file_locations": {
+    "mamenemesis.wasm": "mamenemesis.wasm.gz"
+  }
+}

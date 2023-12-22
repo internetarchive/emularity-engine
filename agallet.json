@@ -1,0 +1,24 @@
+{
+  "name": "Air Gallet (Europe)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "agallet",
+  "wasmjs_filename": "mamecave.js.gz",
+  "wasm_filename": "mamecave.wasm.gz",
+  "file_locations": {
+    "mamecave.wasm": "mamecave.wasm.gz"
+  }
+}
+

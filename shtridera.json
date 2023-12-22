@@ -1,0 +1,23 @@
+{
+  "name": "Shot Rider",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "shtridera",
+  "wasmjs_filename": "mametravrusa.js.gz",
+  "wasm_filename": "mametravrusa.wasm.gz",
+  "file_locations": {
+    "mametravrusa.wasm": "mametravrusa.wasm.gz"
+  }
+}

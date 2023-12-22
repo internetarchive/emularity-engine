@@ -1,0 +1,27 @@
+{
+  "name": "Apple ][",
+  "bios_filenames": [
+    "apple2.zip",
+    "a2diskii.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    560,
+    384
+  ],
+  "extra_args": [
+    "-sl6",
+    "diskii",
+    "-ab",
+    "C600G\\n"
+  ],
+  "driver": "apple2",
+  "wasmjs_filename": "mameapple2p.js.gz",
+  "wasm_filename": "mameapple2p.wasm.gz",
+  "file_locations": {
+    "mameapple2p.wasm": "mameapple2p.wasm.gz"
+  }
+}

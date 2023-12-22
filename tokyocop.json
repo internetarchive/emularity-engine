@@ -1,0 +1,23 @@
+{
+  "name": "tokyocop",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tokyocop",
+  "wasmjs_filename": "mamegaelcopc.js.gz",
+  "wasm_filename": "mamegaelcopc.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamegaelcopc.wasm.gz"
+  }
+}

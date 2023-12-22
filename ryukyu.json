@@ -1,0 +1,24 @@
+{
+  "name": "RyuKyu (Japan) (FD1094 317-5023)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ryukyu",
+  "wasmjs_filename": "mamesegas16b.js.gz",
+  "wasm_filename": "mamesegas16b.wasm.gz",
+  "file_locations": {
+    "mamesegas16b.wasm": "mamesegas16b.wasm.gz"
+  }
+}
+

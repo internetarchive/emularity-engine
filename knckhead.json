@@ -1,0 +1,24 @@
+{
+  "name": "Knuckle Heads (World)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    304,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "knckhead",
+  "wasmjs_filename": "mamenamcona1.js.gz",
+  "wasm_filename": "mamenamcona1.wasm.gz",
+  "file_locations": {
+    "mamenamcona1.wasm": "mamenamcona1.wasm.gz"
+  }
+}
+

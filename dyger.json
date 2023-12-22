@@ -1,0 +1,23 @@
+{
+    "name": "Dyger ",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        224,
+        384
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "dyger",
+    "wasmjs_filename": "mamesidearms.js.gz",
+    "wasm_filename": "mamesidearms.wasm.gz",
+    "file_locations": {
+        "mamesidearms.wasm": "mamesidearms.wasm.gz"
+    }
+}

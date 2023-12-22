@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Electron Base (parts 2 THENAMEamp; 4, Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        508,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mjelctrn",
+    "wasmjs_filename": "mamedynax.js.gz",
+    "wasm_filename": "mamedynax.wasm.gz",
+    "file_locations": {
+        "mamedynax.wasm": "mamedynax.wasm.gz"
+    }
+}

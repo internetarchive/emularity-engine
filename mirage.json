@@ -1,0 +1,23 @@
+{
+    "name": "Mirage Youjuu Mahjongden (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mirage",
+    "wasmjs_filename": "mamemirage.js.gz",
+    "wasm_filename": "mamemirage.wasm.gz",
+    "file_locations": {
+        "mamemirage.wasm": "mamemirage.wasm.gz"
+    }
+}

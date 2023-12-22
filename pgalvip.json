@@ -1,0 +1,23 @@
+{
+    "name": "Pocket Gals V.I.P (set 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "pgalvip",
+    "wasmjs_filename": "mameexpro02.js.gz",
+    "wasm_filename": "mameexpro02.wasm.gz",
+    "file_locations": {
+        "mameexpro02.wasm": "mameexpro02.wasm.gz"
+    }
+}

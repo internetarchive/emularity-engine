@@ -1,0 +1,24 @@
+{
+  "name": "Diet Go Go (Euro v1.1 1992.09.26)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "dietgo",
+  "wasmjs_filename": "mamedietgo.js.gz",
+  "wasm_filename": "mamedietgo.wasm.gz",
+  "file_locations": {
+    "mamedietgo.wasm": "mamedietgo.wasm.gz"
+  }
+}
+

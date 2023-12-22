@@ -1,0 +1,24 @@
+{
+  "name": "Warp FULLNAME Warp",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    272
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "warpwarp",
+  "wasmjs_filename": "mamewarpwarp.js.gz",
+  "wasm_filename": "mamewarpwarp.wasm.gz",
+  "file_locations": {
+    "mamewarpwarp.wasm": "mamewarpwarp.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+    "name": "Wyvern F-0 (Rev 1)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "wyvernf0",
+    "wasmjs_filename": "mamewyvernf0.js.gz",
+    "wasm_filename": "mamewyvernf0.wasm.gz",
+    "file_locations": {
+        "mamewyvernf0.wasm": "mamewyvernf0.wasm.gz"
+    }
+}

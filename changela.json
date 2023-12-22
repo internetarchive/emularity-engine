@@ -1,0 +1,23 @@
+{
+  "name": "Change Lanes",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "changela",
+  "wasmjs_filename": "mamechangela.js.gz",
+  "wasm_filename": "mamechangela.wasm.gz",
+  "file_locations": {
+    "mamechangela.wasm": "mamechangela.wasm.gz"
+  }
+}

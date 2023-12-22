@@ -1,0 +1,23 @@
+{
+  "name": "SF-X",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    384
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sfx",
+  "wasmjs_filename": "mamegalaxian.js.gz",
+  "wasm_filename": "mamegalaxian.wasm.gz",
+  "file_locations": {
+    "mamegalaxian.wasm": "mamegalaxian.wasm.gz"
+  }
+}

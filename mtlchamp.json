@@ -1,0 +1,23 @@
+{
+    "name": "Martial Champion (ver EAB)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mtlchamp",
+    "wasmjs_filename": "mamemystwarr.js.gz",
+    "wasm_filename": "mamemystwarr.wasm.gz",
+    "file_locations": {
+        "mamemystwarr.wasm": "mamemystwarr.wasm.gz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tobikose! Jumpman",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tjumpman",
+  "wasmjs_filename": "mamecave.js.gz",
+  "wasm_filename": "mamecave.wasm.gz",
+  "file_locations": {
+    "mamecave.wasm": "mamecave.wasm.gz"
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+  "name": "Pong (Rev E) [TTL]",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    858,
+    525 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pongf",
+  "wasmjs_filename": "mamepong.js.gz",
+  "wasm_filename": "mamepong.wasm.gz",
+  "file_locations": {
+    "mamepong.wasm": "mamepong.wasm.gz"
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+  "name": "Socrates Educational Video System",
+  "bios_filenames": [
+    "socrates.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    264,
+    220
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "socrates",
+  "wasmjs_filename": "mamesocrates.js.gz",
+  "wasm_filename": "mamesocrates.wasm.gz",
+  "file_locations": {
+    "mamesocrates.wasm": "mamesocrates.wasm.gz"
+  }
+}

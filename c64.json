@@ -1,0 +1,25 @@
+{
+  "name": "Commodore 64",
+  "bios_filenames": [
+    "c64.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "native_resolution": [
+    418,
+    235
+  ],
+  "extra_args": [
+    "-autoboot_delay",
+    "3",
+    "-ab",
+    "load\"\"$\"\",8,1\n"
+  ],
+  "driver": "c64",
+  "wasmjs_filename": "mamec64.js.gz",
+  "wasm_filename": "mamec64.wasm.gz",
+  "file_locations": {
+    "mamec64.wasm": "mamec64.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "comebaby",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    256 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "comebaby",
+  "wasmjs_filename": "mamecomebaby.js.gz",
+  "wasm_filename": "mamecomebaby.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamecomebaby.wasm.gz"
+  }
+}

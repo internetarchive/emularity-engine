@@ -1,0 +1,24 @@
+{
+    "name": "Kuru Kuru Pyon Pyon (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        543,
+        465
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "kurukuru",
+    "wasmjs_filename": "mamekurukuru.js.gz",
+    "wasm_filename": "mamekurukuru.wasm.gz",
+    "file_locations": {
+        "mamekurukuru.wasm": "mamekurukuru.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Space Dungeon",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    273
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sdungeon",
+  "wasmjs_filename": "mameqix.js.gz",
+  "wasm_filename": "mameqix.wasm.gz",
+  "file_locations": {
+    "mameqix.wasm": "mameqix.wasm.gz"
+  }
+}

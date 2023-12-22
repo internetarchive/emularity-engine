@@ -1,0 +1,23 @@
+{
+    "name": "Super Bishi Bashi Championship (ver JAA, 2 Players)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        288,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sbishi",
+    "wasmjs_filename": "mamebishi.js.gz",
+    "wasm_filename": "mamebishi.wasm.gz",
+    "file_locations": {
+        "mamebishi.wasm": "mamebishi.wasm.gz"
+    }
+}

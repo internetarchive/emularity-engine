@@ -1,0 +1,23 @@
+{
+    "name": "Renegade (US)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        238
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "renegade",
+    "wasmjs_filename": "mamerenegade.js.gz",
+    "wasm_filename": "mamerenegade.wasm.gz",
+    "file_locations": {
+        "mamerenegade.wasm": "mamerenegade.wasm.gz"
+    }
+}

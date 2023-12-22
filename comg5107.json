@@ -1,0 +1,23 @@
+{
+    "name": "CEI 51.07 (CEI 906-III Poker)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        248 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "comg5107",
+    "wasmjs_filename": "mamecalomega.js.gz",
+    "wasm_filename": "mamecalomega.wasm.gz",
+    "file_locations": {
+        "mamecalomega.wasm": "mamecalomega.wasm.gz"
+    }
+}

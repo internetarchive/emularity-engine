@@ -1,0 +1,23 @@
+{
+  "name": "Popper",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    264
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "popper",
+  "wasmjs_filename": "mamepopper.js.gz",
+  "wasm_filename": "mamepopper.wasm.gz",
+  "file_locations": {
+    "mamepopper.wasm": "mamepopper.wasm.gz"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Big Karnak",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "bigkarnk",
+  "wasmjs_filename": "mamegaelco.js.gz",
+  "wasm_filename": "mamegaelco.wasm.gz",
+  "file_locations": {
+    "mamegaelco.wasm": "mamegaelco.wasm.gz"
+  }
+}
+

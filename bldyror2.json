@@ -1,0 +1,23 @@
+{
+    "name": "Bloody Roar 2 (World)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "bldyror2",
+    "wasmjs_filename": "mamezn.js.gz",
+    "wasm_filename": "mamezn.wasm.gz",
+    "file_locations": {
+        "mamezn.wasm": "mamezn.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Apple Macintosh 128k",
+  "bios_filenames": [
+    "mac128k.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    512,
+    342
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "mac128k",
+  "wasmjs_filename": "mac128.js.gz",
+  "wasm_filename": "mac128.wasm.gz",
+  "file_locations": {
+    "mamemac128.wasm": "mac128.wasm.gz"
+  }
+}

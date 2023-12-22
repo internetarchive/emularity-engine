@@ -1,0 +1,23 @@
+{
+  "name": "Exterminator",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "exterm",
+  "wasmjs_filename": "mameexterm.js.gz",
+  "wasm_filename": "mameexterm.wasm.gz",
+  "file_locations": {
+    "mameexterm.wasm": "mameexterm.wasm.gz"
+  }
+}

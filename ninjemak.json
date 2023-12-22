@@ -1,0 +1,23 @@
+{
+  "name": "Ninja Emaki",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ninjemak",
+  "wasmjs_filename": "mamegalivan.js.gz",
+  "wasm_filename": "mamegalivan.wasm.gz",
+  "file_locations": {
+    "mamegalivan.wasm": "mamegalivan.wasm.gz"
+  }
+}

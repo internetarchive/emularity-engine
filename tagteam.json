@@ -1,0 +1,23 @@
+{
+  "name": "Tag Team Wrestling",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tagteam",
+  "wasmjs_filename": "mametagteam.js.gz",
+  "wasm_filename": "mametagteam.wasm.gz",
+  "file_locations": {
+    "mametagteam.wasm": "mametagteam.wasm.gz"
+  }
+}

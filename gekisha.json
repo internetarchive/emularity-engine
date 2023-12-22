@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Gekisha",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        254,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "gekisha",
+    "wasmjs_filename": "mamedynax.js.gz",
+    "wasm_filename": "mamedynax.wasm.gz",
+    "file_locations": {
+        "mamedynax.wasm": "mamedynax.wasm.gz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Nintendo Entertainment System PAL",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    256,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "nespal",
+  "wasmjs_filename": "mamenes.js.gz",
+  "wasm_filename": "mamenes.wasm.gz",
+  "file_locations": {
+    "mamenes.wasm": "mamenes.wasm.gz"
+  }
+}

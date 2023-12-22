@@ -1,0 +1,23 @@
+{
+  "name": "King of Boxer",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kingofb",
+  "wasmjs_filename": "mamekingobox.js.gz",
+  "wasm_filename": "mamekingobox.wasm.gz",
+  "file_locations": {
+    "mamekingobox.wasm": "mamekingobox.wasm.gz"
+  }
+}

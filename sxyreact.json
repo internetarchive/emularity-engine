@@ -1,0 +1,24 @@
+{
+  "name": "Pachinko Sexy Reaction (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    338,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "sxyreact",
+  "wasmjs_filename": "mamessv.js.gz",
+  "wasm_filename": "mamessv.wasm.gz",
+  "file_locations": {
+    "mamessv.wasm": "mamessv.wasm.gz"
+  }
+}
+

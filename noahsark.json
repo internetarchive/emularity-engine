@@ -1,0 +1,23 @@
+{
+    "name": "Noah's Ark",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        240,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "noahsark",
+    "wasmjs_filename": "mametugboat.js.gz",
+    "wasm_filename": "mametugboat.wasm.gz",
+    "file_locations": {
+        "mametugboat.wasm": "mametugboat.wasm.gz"
+    }
+}

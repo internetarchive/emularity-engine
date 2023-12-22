@@ -1,0 +1,23 @@
+{
+    "name": "Jitsuroku Maru-chi Mahjong (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "jituroku",
+    "wasmjs_filename": "mamenbmj9195.js.gz",
+    "wasm_filename": "mamenbmj9195.wasm.gz",
+    "file_locations": {
+        "mamenbmj9195.wasm": "mamenbmj9195.wasm.gz"
+    }
+}

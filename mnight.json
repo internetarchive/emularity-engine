@@ -1,0 +1,23 @@
+{
+  "name": "Mutant Night",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    192
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "mnight",
+  "wasmjs_filename": "mameninjakd2.js.gz",
+  "wasm_filename": "mameninjakd2.wasm.gz",
+  "file_locations": {
+    "mameninjakd2.wasm": "mameninjakd2.wasm.gz"
+  }
+}

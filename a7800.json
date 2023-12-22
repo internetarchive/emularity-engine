@@ -1,0 +1,22 @@
+{
+  "name": "Atari 7800",
+  "bios_filenames": [
+    "a7800.zip"
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    320,
+    225
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "a7800",
+  "wasmjs_filename": "mamea7800.js.gz",
+  "wasm_filename": "mamea7800.wasm.gz",
+  "file_locations": {
+    "mamea7800.wasm": "mamea7800.wasm.gz"
+  }
+}

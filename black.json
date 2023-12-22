@@ -1,0 +1,24 @@
+{
+  "name": "Czernyj Korabl (Arcade bootleg of ZX Spectrum 'Blackbeard')",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    352,
+    296 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "black",
+  "wasmjs_filename": "mamephoton2.js.gz",
+  "wasm_filename": "mamephoton2.wasm.gz",
+  "file_locations": {
+    "mamephoton2.wasm": "mamephoton2.wasm.gz"
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+    "name": "Night Slashers (Korea Rev 1.3, DE-0397-0 PCB)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "nslasher",
+    "wasmjs_filename": "mamedeco32.js.gz",
+    "wasm_filename": "mamedeco32.wasm.gz",
+    "file_locations": {
+        "mamedeco32.wasm": "mamedeco32.wasm.gz"
+    }
+}

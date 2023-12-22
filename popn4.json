@@ -1,0 +1,23 @@
+{
+  "name": "popn4",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "popn4",
+  "wasmjs_filename": "mamefirebeat.js.gz",
+  "wasm_filename": "mamefirebeat.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamefirebeat.wasm.gz"
+  }
+}

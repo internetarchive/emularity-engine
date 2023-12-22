@@ -1,0 +1,23 @@
+{
+  "name": "batlgr2",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    384 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "batlgr2",
+  "wasmjs_filename": "mametaitotz.js.gz",
+  "wasm_filename": "mametaitotz.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mametaitotz.wasm.gz"
+  }
+}

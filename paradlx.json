@@ -1,0 +1,23 @@
+{
+    "name": "Paradise Deluxe",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "paradlx",
+    "wasmjs_filename": "mameparadise.js.gz",
+    "wasm_filename": "mameparadise.wasm.gz",
+    "file_locations": {
+        "mameparadise.wasm": "mameparadise.wasm.gz"
+    }
+}

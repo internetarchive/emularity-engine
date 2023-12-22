@@ -1,0 +1,24 @@
+{
+  "name": "WWF WrestleFest (World)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "wwfwfest",
+  "wasmjs_filename": "mameddragon3.js.gz",
+  "wasm_filename": "mameddragon3.wasm.gz",
+  "file_locations": {
+    "mameddragon3.wasm": "mameddragon3.wasm.gz"
+  }
+}
+

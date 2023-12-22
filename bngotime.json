@@ -1,0 +1,23 @@
+{
+    "name": "Bingo Time",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        208 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "bngotime",
+    "wasmjs_filename": "mameequites.js.gz",
+    "wasm_filename": "mameequites.wasm.gz",
+    "file_locations": {
+        "mameequites.wasm": "mameequites.wasm.gz"
+    }
+}

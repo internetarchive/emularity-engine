@@ -1,0 +1,23 @@
+{
+    "name": "Sega Sonic Cosmo Fighter",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "sonicfgt",
+    "wasmjs_filename": "mamesegac2.js.gz",
+    "wasm_filename": "mamesegac2.wasm.gz",
+    "file_locations": {
+        "mamesegac2.wasm": "mamesegac2.wasm.gz"
+    }
+}

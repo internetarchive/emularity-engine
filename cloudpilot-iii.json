@@ -1,0 +1,18 @@
+{
+  "name": "Cloudpilot Palm Emulation",
+  "native_resolution": [
+    160,
+    320
+  ],
+  "extra_args": [
+    ""
+  ],
+  "js_filename": "cloudpilot-emu.js",
+  "file_locations": {
+  "cloudpilot_web.wasm": "cloudpilot_web.wasm",
+  "cloudpilot-emu.js.map": "cloudpilot-emu.js.map"
+  },
+  "driver": "iii",
+  "bios_filenames": [ "Palm-III-3.5-en.bin",
+  "session.img" ]
+}

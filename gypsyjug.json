@@ -1,0 +1,23 @@
+{
+    "name": "Gypsy Juggler",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "gypsyjug",
+    "wasmjs_filename": "mamemeadows.js.gz",
+    "wasm_filename": "mamemeadows.wasm.gz",
+    "file_locations": {
+        "mamemeadows.wasm": "mamemeadows.wasm.gz"
+    }
+}

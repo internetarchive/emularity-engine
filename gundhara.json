@@ -1,0 +1,24 @@
+{
+    "name": "Gundhara",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        240,
+        384
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "gundhara",
+    "wasmjs_filename": "mameseta.js.gz",
+    "wasm_filename": "mameseta.wasm.gz",
+    "file_locations": {
+        "mameseta.wasm": "mameseta.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sega Dreamcast (USA, NTSC)",
+  "bios_filenames": [
+    "dc.zip",
+    "dcjp.zip"
+  ],
+  "peripherals": [
+    "cdrom"
+  ],
+  "native_resolution": [
+    711,
+    480
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "dc",
+  "file_locations": {
+    "mamedccons.wasm": "mamedccons.wasm.gz"
+  },
+  "wasmjs_filename": "mamedccons.js.gz",
+  "wasm_filename": "mamedccons.wasm.gz"
+}

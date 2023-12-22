@@ -1,0 +1,23 @@
+{
+    "name": "Fantasy (US)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "fantasyu",
+    "wasmjs_filename": "mamesnk6502.js.gz",
+    "wasm_filename": "mamesnk6502.wasm.gz",
+    "file_locations": {
+        "mamesnk6502.wasm": "mamesnk6502.wasm.gz"
+    }
+}

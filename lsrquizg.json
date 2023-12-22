@@ -1,0 +1,23 @@
+{
+  "name": "lsrquizg",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    724,
+    567 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "lsrquizg",
+  "wasmjs_filename": "mamecubo.js.gz",
+  "wasm_filename": "mamecubo.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamecubo.wasm.gz"
+  }
+}

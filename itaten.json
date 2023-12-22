@@ -1,0 +1,24 @@
+{
+  "name": "Itazura Tenshi (Japan)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "itaten",
+  "wasmjs_filename": "mamedacholer.js.gz",
+  "wasm_filename": "mamedacholer.wasm.gz",
+  "file_locations": {
+    "mamedacholer.wasm": "mamedacholer.wasm.gz"
+  }
+}
+

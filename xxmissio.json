@@ -1,0 +1,23 @@
+{
+  "name": "XX Mission",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    192,
+    384
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "xxmissio",
+  "wasmjs_filename": "mamexxmissio.js.gz",
+  "wasm_filename": "mamexxmissio.wasm.gz",
+  "file_locations": {
+    "mamexxmissio.wasm": "mamexxmissio.wasm.gz"
+  }
+}

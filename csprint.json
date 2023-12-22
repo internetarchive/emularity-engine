@@ -1,0 +1,23 @@
+{
+  "name": "Championship Sprint",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    512,
+    384
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "csprint",
+  "wasmjs_filename": "mameatarisy2.js.gz",
+  "wasm_filename": "mameatarisy2.wasm.gz",
+  "file_locations": {
+    "mameatarisy2.wasm": "mameatarisy2.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pac-Man",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    288
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pacman",
+  "wasmjs_filename": "mamepacman.js.gz",
+  "wasm_filename": "mamepacman.wasm.gz",
+  "file_locations": {
+    "mamepacman.wasm": "mamepacman.wasm.gz"
+  }
+}

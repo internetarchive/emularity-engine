@@ -1,0 +1,23 @@
+{
+    "name": "Nintendo Super System BIOS",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        225 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "nss",
+    "wasmjs_filename": "mamenss.js.gz",
+    "wasm_filename": "mamenss.wasm.gz",
+    "file_locations": {
+        "mamenss.wasm": "mamenss.wasm.gz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Magic Card II (Bulgarian)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        384,
+        232 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "magicrd2",
+    "wasmjs_filename": "mamefunworld.js.gz",
+    "wasm_filename": "mamefunworld.wasm.gz",
+    "file_locations": {
+        "mamefunworld.wasm": "mamefunworld.wasm.gz"
+    }
+}

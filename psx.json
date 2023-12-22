@@ -1,0 +1,23 @@
+{
+  "name": "Sony Playstation",
+  "bios_filenames": [
+    "psu.zip"
+  ],
+  "peripherals": [
+    "cdrom"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    640,
+   480 
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "psu",
+  "file_locations": {
+    "psx.wasm": "psx.wasm.gz"
+  },
+  "wasmjs_filename": "psx.js.gz",
+  "wasm_filename": "psx.wasm.gz"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Time Pilot '84",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tp84",
+  "wasmjs_filename": "mametp84.js.gz",
+  "wasm_filename": "mametp84.wasm.gz",
+  "file_locations": {
+    "mametp84.wasm": "mametp84.wasm.gz"
+  }
+}

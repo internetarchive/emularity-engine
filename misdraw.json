@@ -1,0 +1,23 @@
+{
+    "name": "Michigan Super Draw (2131-16, U5-2)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "misdraw",
+    "wasmjs_filename": "mamemerit.js.gz",
+    "wasm_filename": "mamemerit.wasm.gz",
+    "file_locations": {
+        "mamemerit.wasm": "mamemerit.wasm.gz"
+    }
+}

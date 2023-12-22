@@ -1,0 +1,23 @@
+{
+    "name": "Break Ball",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "brkball",
+    "wasmjs_filename": "mamebfcobra.js.gz",
+    "wasm_filename": "mamebfcobra.wasm.gz",
+    "file_locations": {
+        "mamebfcobra.wasm": "mamebfcobra.wasm.gz"
+    }
+}

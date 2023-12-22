@@ -1,0 +1,23 @@
+{
+    "name": "Party Time: Gonta the Diver II - Ganbare! Gonta!! 2 (World Release)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        240,
+        320
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "prtytime",
+    "wasmjs_filename": "mamesimpl156.js.gz",
+    "wasm_filename": "mamesimpl156.wasm.gz",
+    "file_locations": {
+        "mamesimpl156.wasm": "mamesimpl156.wasm.gz"
+    }
+}

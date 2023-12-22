@@ -1,0 +1,23 @@
+{
+  "name": "Pit & Run - F-1 Race",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "pitnrun",
+  "wasmjs_filename": "mamepitnrun.js.gz",
+  "wasm_filename": "mamepitnrun.wasm.gz",
+  "file_locations": {
+    "mamepitnrun.wasm": "mamepitnrun.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "The Killing Blade Plus - Ao Jian Kuang Dao Jiaqiang Ban (China, ver. 300)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        448,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "killbldp",
+    "wasmjs_filename": "mamepgm.js.gz",
+    "wasm_filename": "mamepgm.wasm.gz",
+    "file_locations": {
+        "mamepgm.wasm": "mamepgm.wasm.gz"
+    }
+}

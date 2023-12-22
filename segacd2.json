@@ -1,0 +1,22 @@
+{
+  "name": "Sega CD 2",
+  "bios_filenames": [
+    "segacd2.zip"
+  ],
+  "peripherals": [
+    "cdrom"
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "mdconsole",
+  "wasmjs_filename": "segacd2.js.gz",
+  "wasm_filename": "segacd2.wasm.gz",
+  "file_locations": {
+    "segasd2.wasm": "segacd2.wasm.gz"
+  }
+}

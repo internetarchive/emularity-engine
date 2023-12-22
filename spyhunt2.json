@@ -1,0 +1,24 @@
+{
+    "name": "Spy Hunter II (rev 2)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "scale": "1",
+    "native_resolution": [
+        512,
+        480
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "spyhunt2",
+    "wasmjs_filename": "mamemcr68.js.gz",
+    "wasm_filename": "mamemcr68.wasm.gz",
+    "file_locations": {
+        "mamemcr68.wasm": "mamemcr68.wasm.gz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TRS-80 Model III",
+  "bios_filenames": [
+    "trs80m3.zip"
+  ],
+  "peripherals": [
+    "flop1"
+  ],
+  "native_resolution": [
+    640,
+    240
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "trs80m3",
+  "wasmjs_filename": "mametrs80.js.gz",
+  "wasm_filename": "mametrs80.wasm.gz",
+  "file_locations": {
+    "mametrs80.wasm": "mametrs80.wasm.gz"
+  }
+}

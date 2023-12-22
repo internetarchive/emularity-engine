@@ -1,0 +1,23 @@
+{
+  "name": "Tutankham",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "tutankhm",
+  "wasmjs_filename": "mametutankhm.js.gz",
+  "wasm_filename": "mametutankhm.wasm.gz",
+  "file_locations": {
+    "mametutankhm.wasm": "mametutankhm.wasm.gz"
+  }
+}

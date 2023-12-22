@@ -1,0 +1,23 @@
+{
+    "name": "Konami Test Board (GX800, Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "kontest",
+    "wasmjs_filename": "mamekontest.js.gz",
+    "wasm_filename": "mamekontest.wasm.gz",
+    "file_locations": {
+        "mamekontest.wasm": "mamekontest.wasm.gz"
+    }
+}

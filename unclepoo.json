@@ -1,0 +1,23 @@
+{
+  "name": "Uncle Poo",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "unclepoo",
+  "wasmjs_filename": "mamejack.js.gz",
+  "wasm_filename": "mamejack.wasm.gz",
+  "file_locations": {
+    "mamejack.wasm": "mamejack.wasm.gz"
+  }
+}

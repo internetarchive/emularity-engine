@@ -1,0 +1,23 @@
+{
+  "name": "Funny Mouse",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "funnymou",
+  "wasmjs_filename": "mamethepit.js.gz",
+  "wasm_filename": "mamethepit.wasm.gz",
+  "file_locations": {
+    "mamethepit.wasm": "mamethepit.wasm.gz"
+  }
+}

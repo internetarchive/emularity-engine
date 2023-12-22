@@ -1,0 +1,23 @@
+{
+    "name": "Monkey Magic",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        192 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mmagic",
+    "wasmjs_filename": "mamemmagic.js.gz",
+    "wasm_filename": "mamemmagic.wasm.gz",
+    "file_locations": {
+        "mamemmagic.wasm": "mamemmagic.wasm.gz"
+    }
+}

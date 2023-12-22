@@ -1,0 +1,23 @@
+{
+  "name": "Circus Charlie",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "circuscc",
+  "wasmjs_filename": "mamecircusc.js.gz",
+  "wasm_filename": "mamecircusc.wasm.gz",
+  "file_locations": {
+    "mamecircusc.wasm": "mamecircusc.wasm.gz"
+  }
+}

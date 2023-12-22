@@ -1,0 +1,13 @@
+{
+  "name": "Scripted Amiga Emulator, A1200",
+  "js_filename": "scriptedamigaemulator.js.gz",
+  "bios_filenames": [
+    "aros-amiga-m68k-rom.bin",
+    "aros-amiga-m68k-ext.bin"
+  ],
+  "native_resolution": [
+    720,
+    568
+  ],
+  "driver": "A1200"
+}

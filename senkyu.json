@@ -1,0 +1,23 @@
+{
+    "name": "Senkyu (Japan, newer)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        320,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "senkyu",
+    "wasmjs_filename": "mameseibuspi.js.gz",
+    "wasm_filename": "mameseibuspi.wasm.gz",
+    "file_locations": {
+        "mameseibuspi.wasm": "mameseibuspi.wasm.gz"
+    }
+}

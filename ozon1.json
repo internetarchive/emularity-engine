@@ -1,0 +1,23 @@
+{
+  "name": "Ozon I",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "ozon1",
+  "wasmjs_filename": "mamegalaxold.js.gz",
+  "wasm_filename": "mamegalaxold.wasm.gz",
+  "file_locations": {
+    "mamegalaxold.wasm": "mamegalaxold.wasm.gz"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Hyper Sports",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "hyperspt",
+  "wasmjs_filename": "mamehyperspt.js.gz",
+  "wasm_filename": "mamehyperspt.wasm.gz",
+  "file_locations": {
+    "mamehyperspt.wasm": "mamehyperspt.wasm.gz"
+  }
+}

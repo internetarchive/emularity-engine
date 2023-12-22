@@ -1,0 +1,23 @@
+{
+  "name": "nbanfl",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    640,
+    480 
+  ],
+  "extra_args": [
+    "-nodrc"
+  ],
+  "driver": "nbanfl",
+  "wasmjs_filename": "mamevegas.js.gz",
+  "wasm_filename": "mamevegas.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamevegas.wasm.gz"
+  }
+}

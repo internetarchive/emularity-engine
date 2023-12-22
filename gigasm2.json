@@ -1,0 +1,23 @@
+{
+  "name": "gigasm2",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    256,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "gigasm2",
+  "wasmjs_filename": "mamefreekick.js.gz",
+  "wasm_filename": "mamefreekick.wasm.gz",
+  "file_locations": {
+    "mamesegag80r.wasm": "mamefreekick.wasm.gz"
+  }
+}

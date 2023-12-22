@@ -1,0 +1,23 @@
+{
+    "name": "Dream 9 Final (v2.24)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "d9final",
+    "wasmjs_filename": "mamed9final.js.gz",
+    "wasm_filename": "mamed9final.wasm.gz",
+    "file_locations": {
+        "mamed9final.wasm": "mamed9final.wasm.gz"
+    }
+}

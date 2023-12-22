@@ -1,0 +1,23 @@
+{
+    "name": "Truco-Tron",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        256,
+        192 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "truco",
+    "wasmjs_filename": "mametruco.js.gz",
+    "wasm_filename": "mametruco.wasm.gz",
+    "file_locations": {
+        "mametruco.wasm": "mametruco.wasm.gz"
+    }
+}

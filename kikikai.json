@@ -1,0 +1,23 @@
+{
+  "name": "KiKi KaiKai",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    256
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "kikikai",
+  "wasmjs_filename": "mamemexico86.js.gz",
+  "wasm_filename": "mamemexico86.wasm.gz",
+  "file_locations": {
+    "mamemexico86.wasm": "mamemexico86.wasm.gz"
+  }
+}

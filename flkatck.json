@@ -1,0 +1,23 @@
+{
+  "name": "Flak Attack",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    224,
+    280
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "flkatck",
+  "wasmjs_filename": "mameflkatck.js.gz",
+  "wasm_filename": "mameflkatck.wasm.gz",
+  "file_locations": {
+    "mameflkatck.wasm": "mameflkatck.wasm.gz"
+  }
+}

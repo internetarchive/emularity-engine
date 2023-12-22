@@ -1,0 +1,23 @@
+{
+    "name": "Dancing Eyes (US, DC3-VER.C)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        640,
+        480 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "danceyes",
+    "wasmjs_filename": "mamenamcos11.js.gz",
+    "wasm_filename": "mamenamcos11.wasm.gz",
+    "file_locations": {
+        "mamenamcos11.wasm": "mamenamcos11.wasm.gz"
+    }
+}

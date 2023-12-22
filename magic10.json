@@ -1,0 +1,23 @@
+{
+    "name": "Magic's 10 (ver. 16.55)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        352,
+        240 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "magic10",
+    "wasmjs_filename": "mamemagic10.js.gz",
+    "wasm_filename": "mamemagic10.wasm.gz",
+    "file_locations": {
+        "mamemagic10.wasm": "mamemagic10.wasm.gz"
+    }
+}

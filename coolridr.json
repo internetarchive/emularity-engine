@@ -1,0 +1,23 @@
+{
+    "name": "Cool Riders",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        496,
+        384 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "coolridr",
+    "wasmjs_filename": "mamecoolridr.js.gz",
+    "wasm_filename": "mamecoolridr.wasm.gz",
+    "file_locations": {
+        "mamecoolridr.wasm": "mamecoolridr.wasm.gz"
+    }
+}

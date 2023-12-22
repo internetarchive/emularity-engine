@@ -1,0 +1,24 @@
+{
+  "name": "Age Of Heroes - Silkroad 2 (v0.63 - 2001-02-07)",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    384,
+    224 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "aoh",
+  "wasmjs_filename": "mamevamphalf.js.gz",
+  "wasm_filename": "mamevamphalf.wasm.gz",
+  "file_locations": {
+    "mamevamphalf.wasm": "mamevamphalf.wasm.gz"
+  }
+}
+

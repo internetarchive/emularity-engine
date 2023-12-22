@@ -1,0 +1,23 @@
+{
+    "name": "Leader (version Z 2E, Greece)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        512,
+        256 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "leader",
+    "wasmjs_filename": "mameskylncr.js.gz",
+    "wasm_filename": "mameskylncr.wasm.gz",
+    "file_locations": {
+        "mameskylncr.wasm": "mameskylncr.wasm.gz"
+    }
+}

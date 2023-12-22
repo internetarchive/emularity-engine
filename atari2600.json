@@ -1,0 +1,22 @@
+{
+  "name": "Atari2600",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    "cart"
+  ],
+  "native_resolution": [
+    352,
+    223
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "a2600",
+  "wasmjs_filename": "mameatari2600.js.gz",
+  "wasm_filename": "mameatari2600.wasm.gz",
+  "file_locations": {
+    "mameatari2600.wasm": "mameatari2600.wasm.gz"
+  }
+}

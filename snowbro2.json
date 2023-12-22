@@ -1,0 +1,24 @@
+{
+  "name": "Snow Bros. 2 - With New Elves - Otenki Paradise",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    320,
+    240 
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "snowbro2",
+  "wasmjs_filename": "mametoaplan2.js.gz",
+  "wasm_filename": "mametoaplan2.wasm.gz",
+  "file_locations": {
+    "mametoaplan2.wasm": "mametoaplan2.wasm.gz"
+  }
+}
+

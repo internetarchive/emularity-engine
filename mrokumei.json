@@ -1,0 +1,23 @@
+{
+    "name": "Mahjong Rokumeikan (Japan)",
+    "arcade": "1",
+    "bios_filenames": [
+        ""
+    ],
+    "peripherals": [
+        ""
+    ],
+    "native_resolution": [
+        432,
+        224 
+    ],
+    "extra_args=": [
+        ""
+    ],
+    "driver": "mrokumei",
+    "wasmjs_filename": "mamehomedata.js.gz",
+    "wasm_filename": "mamehomedata.wasm.gz",
+    "file_locations": {
+        "mamehomedata.wasm": "mamehomedata.wasm.gz"
+    }
+}

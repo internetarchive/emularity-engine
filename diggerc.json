@@ -1,0 +1,23 @@
+{
+  "name": "Digger",
+  "arcade": "1",
+  "bios_filenames": [
+    ""
+  ],
+  "peripherals": [
+    ""
+  ],
+  "native_resolution": [
+    240,
+    248
+  ],
+  "extra_args=": [
+    ""
+  ],
+  "driver": "diggerc",
+  "wasmjs_filename": "mamecvs.js.gz",
+  "wasm_filename": "mamecvs.wasm.gz",
+  "file_locations": {
+    "mamecvs.wasm": "mamecvs.wasm.gz"
+  }
+}
