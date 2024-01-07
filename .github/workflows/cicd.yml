@@ -1,8 +1,8 @@
 name: CICD
 on: push
 jobs:
-  cicd:
-    # this is a nice variante for HUGE repos
+  build:
+    # this is a nice variant for HUGE repos
     runs-on: ubuntu-latest
     steps:
       # this is like https://github.com/internetarchive/build/blob/main/action.yml
@@ -58,7 +58,9 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
 
 
-
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
       - name: deploy
         uses: internetarchive/deploy@v1
         with:
