@@ -1,73 +1,10 @@
-name: CICD
 on: push
 jobs:
-  build:
-    # this is a nice variant for HUGE repos
-    runs-on: ubuntu-latest
-    steps:
-      # this is like https://github.com/internetarchive/build/blob/main/action.yml
-      # BUT with `cache-to` and `cache-from` removed` (and the `password` field below isnt an input)
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          lfs: true
-
-      # Workaround: https://github.com/docker/build-push-action/issues/461
-      - name: Setup Docker buildx
-        uses: docker/setup-buildx-action@v3
-
-      # Login against a Docker registry except on PR
-      # https://github.com/docker/login-action
-      - name: Log into registry ghcr.io
-        if: github.event_name != 'pull_request'
-        uses: docker/login-action@v3
-        with:
-          registry: ghcr.io
-          username: ${{ github.actor }}
-          password: ${{ secrets.GITHUB_TOKEN }}
-
-      # Extract metadata (tags, labels) for Docker
-      # https://github.com/docker/metadata-action
-      - name: Extract Docker metadata
-        id: meta
-        uses: docker/metadata-action@v5
-        with:
-          images: ghcr.io/${{ github.repository }}
-
-      - name: Check working space directory1
-        run: du ${GITHUB_WORKSPACE} -h -d 1
-
-      - name: Get more space
-        run: |
-          df . -h
-          sudo rm -rf ${GITHUB_WORKSPACE}/.git
-          df . -h
-
-      - name: Check working space directory2
-        run: du ${GITHUB_WORKSPACE} -h -d 1
-
-      # Build and push Docker image with Buildx (don't push on PR)
-      # https://github.com/docker/build-push-action
-      - name: Build and push Docker image
-        id: build-and-push
-        uses: docker/build-push-action@v5
-        with:
-          context: .
-          push: ${{ github.event_name != 'pull_request' }}
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
-
-
-  deploy:
-    needs: [build]
-    runs-on: ubuntu-latest
-    steps:
-      - name: deploy
-        uses: internetarchive/deploy@v1
-        with:
-          BASE_DOMAIN: 'dev.archive.org'
-          NOMAD_TOKEN: ${{ secrets.NOMAD_TOKEN }}
-          REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NOMAD_VAR_COUNT: 1
-          NOMAD_VAR_PORTS: '{ 80 = "http" }'
-          NOMAD_VAR_HOSTNAMES: '["emularity-engine"]'
+  cicd:
+    uses: internetarchive/cicd/.github/workflows/cicd.yml@main
+    with:
+      NOMAD_VAR_HOSTNAMES: '["emularity-engine"]'
+      NOMAD_VAR_PORTS: '{ 80 = "http" }'
+      NO_TEST: true
+    secrets:
+      NOMAD_TOKEN: ${{ secrets.NOMAD_TOKEN }}
