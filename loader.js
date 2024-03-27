@@ -709,12 +709,11 @@ var Module = null;
 
      // NOTE: deliberately use cors.archive.org since this will 302 rewrite to iaXXXXX.us.archive.org/XX/items/...
      // and need to keep that "artificial" extra domain-ish name to avoid CORS issues with IE/Safari  (tracey@archive)
-     var get_cors_url = function(item, path = '') {
-       if (path.endsWith('.xml') || path.endsWith('.bin') || path.endsWith('.swf'))
-         return '//cors.archive.org/cors/' + item + (path ? '/' + path : '');
+     var get_cors_url = function(item, path) {
+       if (item === 'emularity-engine' || item === 'emularity-config' || item === 'emularity-bios')
+         return '//' + item + '.dev.archive.org/' + (path ? '/' + path : '');
 
-       // eg: emularity-engine  emularity-config  emularity-bios
-       return '//' + item + '.dev.archive.org/' + (path ? '/' + path : '');
+       return '//cors.archive.org/cors/' + item + (path ? '/' + path : '');
      }
 
      var get_emulator_config_url = function (module) {
