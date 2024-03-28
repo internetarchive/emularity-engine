@@ -711,7 +711,7 @@ var Module = null;
      // and need to keep that "artificial" extra domain-ish name to avoid CORS issues with IE/Safari  (tracey@archive)
      var get_cors_url = function(item, path) {
        if (item === 'emularity-engine' || item === 'emularity-config' || item === 'emularity-bios')
-         return '//' + item + '.dev.archive.org/' + (path ? '/' + path : '');
+         return '//' + item + '.ux-b.archive.org/' + (path ? '/' + path : '');
 
        return '//cors.archive.org/cors/' + item + (path ? '/' + path : '');
      }
