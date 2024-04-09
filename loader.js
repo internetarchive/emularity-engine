@@ -17,6 +17,7 @@
   *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
   */
 
+/* eslint-disable */
 var Module = null;
 
 (function (Promise) {
@@ -710,8 +711,13 @@ var Module = null;
      // NOTE: deliberately use cors.archive.org since this will 302 rewrite to iaXXXXX.us.archive.org/XX/items/...
      // and need to keep that "artificial" extra domain-ish name to avoid CORS issues with IE/Safari  (tracey@archive)
      var get_cors_url = function(item, path) {
-       if (item === 'emularity-engine' || item === 'emularity-config' || item === 'emularity-bios')
-         return '//' + item + '.ux-b.archive.org/' + (path ? '/' + path : '');
+       if (item === 'emularity-engine' || item === 'emularity-config' || item === 'emularity-bios') {
+         // allow optional testing CGI arg to hit the review app test cluster
+         // (helpful for testing out pre-production code & files)
+         var prefix = location.search.indexOf('?devao=1') < 0 ? '' : 'internetarchive-';
+         var domain = location.search.indexOf('?devao=1') < 0 ? 'ux-b.archive.org' : 'dev.archive.org';
+         return '//' + prefix + item + '.' + domain + '/' + path;
+       }
 
        return '//cors.archive.org/cors/' + item + (path ? '/' + path : '');
      }
@@ -1927,11 +1933,11 @@ var Module = null;
                                                          for (var i = 1; i < parts.length; i++) {
                                                            var path = '/'+ parts.slice(0, i).join('/');
                                                            if (!deltaFS.existsSync(path)) {
-                                                             deltaFS.mkdirSync(path, 0777);
+                                                             deltaFS.mkdirSync(path, 0777); // 0o777 strict xxx
                                                            }
                                                          }
                                                        }
-                                                       deltaFS.writeFileSync(filename, new Buffer(data), null, flag_w, 0644);
+                                                       deltaFS.writeFileSync(filename, new Buffer(data), null, flag_w, 0644); // 0o644 strict xxx
                                                      }
                                                    };
                                                  }
