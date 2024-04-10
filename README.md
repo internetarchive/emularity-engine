@@ -9,10 +9,10 @@ Internet Archive is using docker OCI containers to serve the repo files as stati
 with a lightly customized `nginx` httpd server.  Each deployed container is running on a
 [nomad](https://github.com/internetarchive/hind) cluster.
 
-Each `git push` to this repo will cause a [GitHub Actions](/actions) CI/CD
+Each `git push` to this repo will cause a [GitHub Actions](../../actions) CI/CD
 [pipeline](.github/workflows/cicd.yml) to run.
 Presently, it does a [build] and [deploy] pair of jobs.
-(See [https://github.com/internetarchive/cicd](CI/CD GitHub Action for more info).
+(See [CI/CD GitHub Action for more info](https://github.com/internetarchive/cicd).)
 
 ## loader.js
 
@@ -29,7 +29,7 @@ Tracey thinks this came from here:
 - https://www.npmjs.com/package/browserfs
 and notes the `browserfs.min.js*` file pair have a fix from db48x *after*
 the v1.4.3.  Likely worth looking into the near future if/as needed.
-browserFS can use "ES Modules" for loading via something like:
+browserFS can use "ES Modules" for JS import/loading via something like:
 ```js
 import BrowserFS from 'https://esm.sh/browserfs'
 ```
@@ -39,8 +39,8 @@ Each repo has the same layout, with all files starting at the top dir:
 - [README.md](README.md) - this file
 - [default.conf](default.conf) - nginx configuration
 - [Dockerfile](Dockerfile) - container build instructions
-- [.gitignore](.gitignore) - any files to ignore and not checkin
 - [.dockerignore](.dockerignore) - files to skip copying into the deployed container
+- [.gitignore](.gitignore) - any files to ignore and not checkin
 - [.github/workflows/cicd.yml](.github/workflows/cicd.yml) - GitHub Actions setup
 We aim to keep all 3 repos with the same 6 files.
 
