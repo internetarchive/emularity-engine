@@ -18,7 +18,7 @@
   */
 
 /* eslint-disable */
-var Module = null;
+window.Module = null;
 
 (function (Promise) {
    /**
@@ -1268,11 +1268,23 @@ var Module = null;
    EmscriptenRunner.prototype.stop = function () {
    };
 
+  var mute_protection = function() {
+    var func = Module._SDL_PauseAudio;
+    if (!func) {
+      try {
+        func = eval('_SDL_PauseAudio');
+      } catch (e) {}
+    }
+    if (!func)
+      throw Error('EmscriptenRunner cant un/mute'); // avoid abort()
+  };
+
    EmscriptenRunner.prototype.mute = function () {
      try {
-       if (!SDL_PauseAudio)
-         SDL_PauseAudio = Module.cwrap('SDL_PauseAudio', '', ['number']);
-       SDL_PauseAudio(true);
+       mute_protection();
+       if (!window.SDL_PauseAudio)
+         window.SDL_PauseAudio = Module.cwrap('SDL_PauseAudio', '', ['number']);
+       window.SDL_PauseAudio(true);
      } catch (x) {
        console.log("Unable to change audio state:", x);
      }
@@ -1280,9 +1292,10 @@ var Module = null;
 
    EmscriptenRunner.prototype.unmute = function () {
      try {
-       if (!SDL_PauseAudio)
-         SDL_PauseAudio = Module.cwrap('SDL_PauseAudio', '', ['number']);
-       SDL_PauseAudio(false);
+       mute_protection();
+       if (!window.SDL_PauseAudio)
+         window.SDL_PauseAudio = Module.cwrap('SDL_PauseAudio', '', ['number']);
+       window.SDL_PauseAudio(false);
      } catch (x) {
        console.log("Unable to change audio state:", x);
      }
@@ -1721,7 +1734,6 @@ var Module = null;
      var runner;
 
      var muted = false;
-     var SDL_PauseAudio;
      this.isMuted = function () { return muted; };
      this.mute = function () { return this.setMute(true); };
      this.unmute = function () { return this.setMute(false); };
@@ -1737,9 +1749,9 @@ var Module = null;
        }
        else {
          try {
-           if (!SDL_PauseAudio)
-             SDL_PauseAudio = Module.cwrap('SDL_PauseAudio', '', ['number']);
-           SDL_PauseAudio(state);
+           if (!window.SDL_PauseAudio)
+             window.SDL_PauseAudio = Module.cwrap('SDL_PauseAudio', '', ['number']);
+           window.SDL_PauseAudio(state);
          } catch (x) {
            console.log("Unable to change audio state:", x);
          }
@@ -1933,11 +1945,11 @@ var Module = null;
                                                          for (var i = 1; i < parts.length; i++) {
                                                            var path = '/'+ parts.slice(0, i).join('/');
                                                            if (!deltaFS.existsSync(path)) {
-                                                             deltaFS.mkdirSync(path, 0777); // 0o777 strict xxx
+                                                             deltaFS.mkdirSync(path, 0o777);
                                                            }
                                                          }
                                                        }
-                                                       deltaFS.writeFileSync(filename, new Buffer(data), null, flag_w, 0644); // 0o644 strict xxx
+                                                       deltaFS.writeFileSync(filename, new Buffer(data), null, flag_w, 0o644);
                                                      }
                                                    };
                                                  }
