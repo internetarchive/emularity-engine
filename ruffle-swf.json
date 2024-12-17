@@ -5,7 +5,7 @@
     600 
   ],
   "extra_args": [],
-  "js_filename": "ruffle/ruffle.js",
+  "js_filename": "ruffle.js",
   "file_locations": {},
   "driver": "ruffle",
   "config": {

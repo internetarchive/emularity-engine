@@ -1,0 +1,21 @@
+{
+  "name": "GAME.COM",
+  "bios_filenames": [ "gamecom.zip" ],
+  "peripherals": [
+    "cart1"
+  ],
+  "scale": 2,
+  "native_resolution": [
+    200,
+    160
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "gamecom",
+  "wasmjs_filename": "gamecom.js.gz",
+  "wasm_filename": "gamecom.wasm.gz",
+  "file_locations": {
+    "gamecom.wasm": "gamecom.wasm.gz"
+  }
+}

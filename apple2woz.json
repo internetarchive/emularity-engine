@@ -11,7 +11,8 @@
     560,
     384
   ],
-  "extra_args": [
+  "extra_args": [ 
+  ""
   ],
   "driver": "apple2ee",
   "wasmjs_filename": "apple2e.js.gz",

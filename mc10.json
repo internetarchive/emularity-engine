@@ -1,0 +1,23 @@
+{
+  "name": "Tandy MC-10",
+  "bios_filenames": [
+    "mc10.zip"
+  ],
+  "peripherals": [
+    "cass"
+  ],
+  "native_resolution": [
+    372,
+    243
+  ],
+  "extra_args": [
+    "-ext",
+    "ram"
+  ],
+  "driver": "mc10",
+  "wasmjs_filename": "mc10.js.gz",
+  "wasm_filename": "mc10.wasm.gz",
+  "file_locations": {
+    "mc10.wasm": "mc10.wasm.gz"
+  }
+}

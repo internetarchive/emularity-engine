@@ -7,5 +7,6 @@
   "bios_filenames": [
     "macii.zip"
   ],
-  "js_filename": "minivmacII.js.gz"
+  "js_filename": "minivmacII.js.gz",
+  "extra_args": [ "-d", "/emulator" ]
 }

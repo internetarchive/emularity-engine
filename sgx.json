@@ -1,0 +1,21 @@
+{
+  "name": "SuperGrafix",
+  "bios_filenames": [],
+  "peripherals": [
+    "cart"
+  ],
+  "scale": 1,
+  "native_resolution": [
+    565,
+    484
+  ],
+  "extra_args": [
+    ""
+  ],
+  "driver": "sgx",
+  "wasmjs_filename": "mamepce.js.gz",
+  "wasm_filename": "mamepce.wasm.gz",
+  "file_locations": {
+    "mamepce.wasm": "mamepce.wasm.gz"
+  }
+}
