@@ -53,7 +53,7 @@ window.Module = null;
 
      // yea, this is a hack
      var images;
-     if (/archive\.org$/.test(document.location.hostname)) {
+     if (/archive\.org$/.test(document.location.hostname) || /^archive.*\.onion$/.test(document.location.hostname)) {
        images = { ia: img("/images/ialogo.png"),
                   mame: img("/images/mame.png"),
                   mess: img("/images/mame.png"),
@@ -227,7 +227,7 @@ window.Module = null;
                                              config_args.push(cfgr.keepAspect(modulecfg.keepAspect));
                                            }
 
-                                           if (/archive\.org$/.test(document.location.hostname)) {
+                                           if (/archive\.org$/.test(document.location.hostname) || /^archive.*\.onion$/.test(document.location.hostname)) {
                                              config_args.push(cfgr.muted(document.cookie.indexOf('unmute=1') < 0)) // we're muted, unless cookie 'unmute' is set
                                            }
 
@@ -712,11 +712,18 @@ window.Module = null;
      // and need to keep that "artificial" extra domain-ish name to avoid CORS issues with IE/Safari  (tracey@archive)
      var get_cors_url = function(item, path) {
        if (item === 'emularity-engine' || item === 'emularity-config' || item === 'emularity-bios') {
-         // allow optional testing CGI arg to hit the review app test cluster
-         // (helpful for testing out pre-production code & files)
-         var prefix = location.search.indexOf('?devao=1') < 0 ? '' : 'internetarchive-';
-         var domain = location.search.indexOf('?devao=1') < 0 ? 'ux-b.archive.org' : 'dev.archive.org';
-         return '//' + prefix + item + '.' + domain + '/' + path;
+        // If http origin is null (the string 'null'!), assume onion.
+        // See https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Origin#null
+         if (location.origin === 'null' || (typeof location.origin === 'string' && location.origin.endsWith('.onion'))) {
+          // this is just for archive.org onion urls
+          return '//archive.org/services/' + item.replace('-', '/') + (path ? '/' + path : '');
+        } else {
+          // allow optional testing CGI arg to hit the review app test cluster
+          // (helpful for testing out pre-production code & files)
+          var prefix = location.search.indexOf('?devao=1') < 0 ? '' : 'internetarchive-';
+          var domain = location.search.indexOf('?devao=1') < 0 ? 'ux-b.archive.org' : 'dev.archive.org';
+          return '//' + prefix + item + '.' + domain + (path ? '/' + path : '');
+         }
        }
 
        return '//cors.archive.org/cors/' + item + (path ? '/' + path : '');
