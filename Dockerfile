@@ -9,7 +9,7 @@ RUN rm -f index.html && \
 # COPY . .
 # logically is what we do next.
 # split out this way because *one* 5GB single layer is brutal and any network hiccup starts over
-# 
+#
 # we show counts of filenames for each pattern, based on looking at
 #   ls |cut -b5 |sort |uniq -c
 # and finding 5th char had the most normal distribution
@@ -43,4 +43,4 @@ COPY ????[uU]* .   # 188
 COPY ????[qQvVwWxXyYzZ]* . # 402
 
 COPY ????[0-9]* .     # 476
-COPY ????[._-]* .     # 233
+COPY ????[-._]* .     # 233
