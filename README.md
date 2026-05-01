@@ -17,7 +17,7 @@ Presently, it does a [build] and [deploy] pair of jobs.
 ## loader.js
 
 The main ringleader from an archive.org/details/ page for a s/w emulation "item" will load
-[loader.js](https://github.com/internetarchive/emularity-engine/blob/main/loader.js).
+[loader.js](https://github.com/internetarchive/emularity-config/blob/main/loader.js).
 
 ## browserFS
 There is a parallel
