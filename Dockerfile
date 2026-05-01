@@ -11,8 +11,8 @@ RUN rm -f index.html && \
     ln -sf /usr/share/nginx/html/default.conf /etc/nginx/conf.d/default.conf &&\
     apk add --no-cache rsync
 
-# split COPY . . into many layers so a single file change only re-pulls one small layer.
-# (one 5GB layer is brutal — any network hiccup on docker pull restarts from zero)
+# split COPY . . into many layers so we can pull in parallel -- MUCH faster.
+# (and one 5GB layer is brutal — any network hiccup on docker pull restarts from zero)
 #
 # uses rsync via --mount=type=bind from throwaway stage 1 (never pushed to registry).
 # shell globs are used (not Go filepath.Match) so special chars like - and * just work.
@@ -44,12 +44,17 @@ RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[mM]* .
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[nN]* ./
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[oO]* ./
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[pP]* ./
+# skip qQ until later
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[rR]* ./
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[sS]* ./
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[tT]* ./
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[uU]* ./
+# round up together a bunch of unpopular chars
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[qQvVwWxXyYzZ]* ./
+# all digits together a decent size layer
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[0-9]* ./
-RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[*._-]* ./
+# get anything else, eg: - _ * . chars..
+RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[^a-zA-Z0-9]* ./
+# grab any rare short 1,2,3,4-char filenames or dirnames
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/???? /mnt/??? /mnt/?? /mnt/? ./ \
   2>/dev/null || true
