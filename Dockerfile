@@ -18,7 +18,9 @@ RUN rm -f index.html && \
 # chexxx w/ local build rsync -Pav --dry-run w/ clone both way, etc.
 
 # copy short filename and short dirname first
-COPY gof sae ./
+COPY gof .
+COPY sae sae
+COPY ruffle ruffle
 
 # ls |cut -b5 |sort |uniq -c
 # chexxx w/ local build rsync -Pav --dry-run w/ clone both way, etc.
@@ -33,7 +35,7 @@ COPY gof sae ./
 # COPY ????[iI]* .             # 317
 # COPY ????[jJ]* .             # 164
 # COPY ????[kK]* .             # 202
-# COPY ????[lL]* .             # 298 - NOTE: picks up ruffle subdir here
+# COPY ????[lL]* .             # 298 - NOTE: picks up ruffle subdir here xxx
 # COPY ????[mM]* .             # 387
 # COPY ????[nN]* .             # 343
 # COPY ????[oO]* .             # 378
