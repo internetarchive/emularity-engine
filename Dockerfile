@@ -50,6 +50,6 @@ RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[tT]* .
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[uU]* ./
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[qQvVwWxXyYzZ]* ./
 RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[0-9]* ./
-RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a '/mnt/????[._-]*' ./
-RUN --mount=type=bind,from=src,source=/src,target=/mnt \
-    rsync -a /mnt/? /mnt/?? /mnt/??? /mnt/???? ./ 2>/dev/null || true
+RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/????[._-]* ./
+RUN --mount=type=bind,from=src,source=/src,target=/mnt rsync -a /mnt/???? /mnt/??? /mnt/?? /mnt/? ./ \
+  2>/dev/null || true
