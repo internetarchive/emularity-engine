@@ -1,6 +1,17 @@
 # syntax=docker/dockerfile:1.7-labs
 # ^ need that first line comment for COPY --parents 2024 goodness
 
+# .br & .gz copies of each .wasm & .js, for default.conf to serve.
+# ~2 min on 4 cores; a warm build cache skips it unless a .wasm or .js changes.
+FROM nginx:alpine AS precompress
+RUN apk add --no-cache brotli pigz
+WORKDIR /src
+COPY --parents **/*.wasm **/*.js ./
+# brotli keeps each file; pigz then replaces it with its .gz
+RUN find . -type f -print0 | xargs -0 -n1 -P"$(nproc)" brotli --best && \
+    find . -type f ! -name '*.br' -exec pigz --best -n {} +
+
+
 FROM nginx:alpine
 
 WORKDIR /usr/share/nginx/html
@@ -51,3 +62,6 @@ COPY --parents ????[qQvVwWxXyYzZ]* .
 COPY --parents ????[0-9]* .
 # safety net: short names/dirs and any non-alphanumeric 5th char (eg: - _ . *)
 COPY --parents ?[^/] ??[^/] ???[^/] ????[^/] ?/ ??/ ???/ ????/ ????[^a-zA-Z0-9]* .
+
+# .br & .gz copies from the precompress stage
+COPY --from=precompress /src/ .
