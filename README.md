@@ -49,6 +49,8 @@ the nginx has a few critical changes for the handling of `.gz` files -- since ng
 dynamically turned to a `.gz` file by `nginx` -- or if the file is being served as an already
 compressed `.gz` as a static file.
 
+`.wasm` & `.js` files get `.br` (brotli -11) & `.gz` (gzip -9) copies at build time ([Dockerfile](Dockerfile)); [default.conf](default.conf) serves `.br` to browsers that accept it, else `.gz`.  The plain file is the source: don't check in `.br` files, and a checked-in `foo.js.gz` / `foo.wasm.gz` next to `foo.js` / `foo.wasm` gets replaced.
+
 ## example items
 - typical type of item:
 https://ia-petabox.archive.org/details/gg_Star_Wars_1993LucasArts_Tiertex_Design_Studio_U.S._GoldUS
