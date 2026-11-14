@@ -1,0 +1,22 @@
+{
+  "name": "Macro-Cosm Wars (bootleg of Galaxian)",
+  "bios_filenames": [
+    "galaxian.zip"
+  ],
+  "peripherals": [],
+  "native_resolution": [
+    224,
+    768
+  ],
+  "extra_args": [
+    "-video",
+    "accel"
+  ],
+  "driver": "mcwars",
+  "wasmjs_filename": "galaxian.js.gz",
+  "wasm_filename": "galaxian.wasm.gz",
+  "file_locations": {
+    "daec29fff2a99ef76e8da53d3e.wasm": "galaxian.wasm.gz"
+  },
+  "arcade": "1"
+}
