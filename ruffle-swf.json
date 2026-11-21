@@ -13,7 +13,10 @@
     "splashScreen": false,
     "warnOnUnsupportedContent": false,
     "forceScale": true,
-    "forceAlign": true
+    "forceAlign": true,
+    "allowScriptAccess": false,
+    "allowNetworking": "internal",
+    "openUrlMode": "confirm"
   }
 }
 
