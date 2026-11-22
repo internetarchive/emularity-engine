@@ -1,1 +1,3 @@
 *~
+# brotli copies are made at docker build time
+*.br
